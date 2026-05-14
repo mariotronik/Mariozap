@@ -1,0 +1,228 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/EPG/guia.xml" user-agent="Zapster/1.0"
+
+# --- CANALES DE AIRE / LOCALES ---
+#EXTINF:-1 tvg-id="AmericaTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/america.png", América TV
+http://zapster.trapemn.tv:1935/Zapster/AmericaTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/telefe.png", Telefe HD
+http://zapster.trapemn.tv:1935/Zapsterv2/TelefeHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tv-publica.png", TV Pública
+http://zapster.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/eltrece.png", El Trece HD
+http://zapster.trapemn.tv:1935/Zapsterv2/ElTreceHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal26" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/canal26.png", Canal 26
+http://zapster.trapemn.tv:1935//26tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTresRosario" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/eltres.png", El Tres HD (Rosario)
+http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelefeRosario" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/telefe-rosario.png", Canal 5 Rosario
+http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo_RTS_Santa_Fe.png/200px-Logo_RTS_Santa_Fe.png", RTS Santa Fe
+http://zapster.trapemn.tv:1935/zapster/rts/l_68269_19716600_3286.ts
+
+# --- NOTICIAS ---
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tn.png", TN Todo Noticias
+http://zapster.trapemn.tv:1935/zapster/tn-new.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/c5n.png", C5N
+http://zapster.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/cronica.png", Crónica TV
+http://zapster.trapemn.tv:1935/zapster/CronicaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LN+" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/ln-plus.png", La Nación +
+http://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IP" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/ip.png", IP Noticias
+http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
+
+# --- DEPORTES ---
+#EXTINF:-1 tvg-id="TyCSports" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tyc-sports.png", TyC Sports
+http://zapster.trapemn.tv:1935/Zapster/TyC_Sports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/fox-sports.png", Fox Sports 1
+http://zapster.trapemn.tv:1935/zapster-hls/FoxSports1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/fox-sports-2.png", Fox Sports 2
+http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/fox-sports-3.png", Fox Sports 3
+http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tnt-sports.png", TNT Sports HD
+http://zapster.trapemn.tv:193/Zapsterv2/TNTSportsHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn.png", ESPN 1
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn-3.png", ESPN 3
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn-4.png", ESPN 4
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn-premium.png", ESPN Premium HD
+http://zapster.trapemn.tv:1935/Zapsterv2/ESPNPremiumHD.steam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GarageTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/el-garage.png", Garage TV
+http://zapster.trapemn.tv:1935/zapster-hls/garagetv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/deportv.png", DEPORTV
+http://zapster.trapemn.tv:1935/zapster-hls/DEPORTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaSports" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/america-sports.png", America Sports
+http://zapster.trapemn.tv:1935/zapster-hls/americasports.stream/playlist.m3u8
+
+# --- PELICULAS Y SERIES ---
+#EXTINF:-1 tvg-id="StarChannel" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/star-channel.png", Star Channel
+http://zapster.trapemn.tv:1935/internacional/Starchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/cinecanal.png", Cinecanal
+http://zapster.trapemn.tv:1935/zapster-hls/cinecanal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/fx.png", FX
+http://zapster.trapemn.tv:1935/internacional/fx.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineAr" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/cine-ar.png", Cine.AR
+http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tcm.png", TCM
+http://zapster.trapemn.tv:1935/CD-LATAM/TCM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/telemundo.png", Telemundo
+http://zapster.trapemn.tv:1935/novelas/telemundo.stream/playlist.m3u8
+
+# --- INFANTILES ---
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/cartoon-network.png", Cartoon Network
+http://zapster.trapemn.tv:1935/zapster-hls/cartoonnetwork.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/nickelodeon.png", Nickelodeon
+http://zapster.trapemn.tv:1935/zapster-hls/nickelodeon.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJr" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/nick-jr.png", Nick Junior
+http://zapster.trapemn.tv:1935/Zapster/Nick_Junior.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/adult-swim.png", Adult Swim
+http://zapster.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PakaPaka" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/pakapaka.png", Paka Paka
+http://zapster.trapemn.tv:1935/zapster-hls/PakaPaka.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/disney-channel.png", Disney Channel
+http://zapster.trapemn.tv:1935/zapster/disney-channel-new.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/disney-jr.png", Disney Jr
+http://zapster.trapemn.tv:1935/zapster-hls/disney_jr.stream/playlist.m3u8
+
+# --- MUSICA ---
+#EXTINF:-1 tvg-id="HTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/htv.png", HTV
+http://zapster.trapemn.tv:1935/CD-LATAM/HTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/mtv.png", MTV
+http://zapster.trapemn.tv:1935/CD-LATAM/MTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MixMusic" tvg-logo="https://mixmusic.tv/wp-content/uploads/2021/05/logo_mixmusic.png", Mix Music Channel
+http://zapster.trapemn.tv:1935/zapster/mixmusicchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaNuevaTV" tvg-logo="https://lanuevatv.com.ar/img/logo.png", La Nueva TV
+http://zapster.trapemn.tv:1935/musica/lanuevatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TropicalMoon" tvg-logo="https://tropicalmoon.com.ar/wp-content/uploads/2021/03/LOGO-TROPICAL-MOON.png", Tropical Moon
+http://zapster.trapemn.tv:1935/musica/tropicalmoon.stream/playlist.m3u8
+
+# --- RADIOS (VIDEO/AUDIO) ---
+#EXTINF:-1 tvg-id="RadioBoing" tvg-logo="https://www.boing973.com.ar/img/logo_boing.png", Radio Boing
+http://zapster.trapemn.tv:1935/radio/radioboing.stream/playlist.m3u8
+
+# --- DOCUMENTALES / VARIEDADES ---
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/nat-geo.png", Nat Geo
+http://zapster.trapemn.tv:1935/documental/natgeo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/encuentro.png", Canal Encuentro
+http://zapster.trapemn.tv:1935/zapster-hls/encuentro.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TecTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tectv.png", Tec TV
+http://zapster.trapemn.tv:1935/zapster-hls/TecTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/ciudad-magazine.png", Ciudad Magazine
+http://zapster.trapemn.tv:1935/zapster-hls/ciudadmagazine.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChacraTV" tvg-logo="https://www.chacratv.com.ar/img/logo.png", Chacra TV
+http://zapster.trapemn.tv:1935/noticias/chacratv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SilverChannel" tvg-logo="https://silverchannel.com.ar/wp-content/uploads/2021/08/logo-silver.png", Silver Channel
+http://zapster.trapemn.tv:1935/zapster-hls/silverchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="E-Entertainment" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/e-entertainment.png", E! Entertainment
+http://zapster.trapemn.tv:1935/CD-LATAM/Entertainment/playlist.m3u8
+
+# --- INTERNACIONALES ---
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/cnn-en-espanol.png", CNN en Español
+http://zapster.trapemn.tv:1935/CD-LATAM/CNN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DW" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/dw.png", DW Español
+http://zapster.trapemn.tv:1935/internacional/dw.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telesur" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/telesur.png", TeleSur Español
+http://zapster.trapemn.tv:1935/internacional/telesur_espa%C3%B1ol.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelesurEN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/telesur.png", TeleSur English
+http://zapster.trapemn.tv:1935/internacional/telesur_ingles.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/france-24.png", France 24 (ES)
+http://zapster.trapemn.tv:1935/internacional/france24_ES.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24EN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/france-24.png", France 24 (EN)
+http://zapster.trapemn.tv:1935/internacional/france24_EN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/rt-en-espanol.png", RT Internacional
+http://zapster.trapemn.tv:1935/miscelaneos/rt_internacional.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OndaDigital" tvg-logo="https://ondadigital.tv/img/logo.png", Onda Digital
+http://zapster.trapemn.tv:1935/internacional/ondadigital.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UCL" tvg-logo="https://ucltelevision.com/img/logo.png", UCL TV
+http://zapster.trapemn.tv:1935/internacional/ucl.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuramTV" tvg-logo="https://suramtv.com/wp-content/uploads/2021/01/logo-suram.png", Suram TV
+http://zapster.trapemn.tv:1935/internacional/suramtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeruGo" tvg-logo="https://perugo.tv/img/logo.png", Peru Go
+http://zapster.trapemn.tv:1935/internacional/perugo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carioca" tvg-logo="https://cariocainternacional.com/img/logo.png", Carioca Internacional
+http://zapster.trapemn.tv:1935/live/cariocainternacional/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nativa" tvg-logo="https://nativa.tv/img/logo.png", Nativa TV
+http://zapster.trapemn.tv:1935/internacional/nativa.stream/playlist.m3u8
+
+# --- INSTITUCIONALES / VARIOS ---
+#EXTINF:-1 tvg-id="Aunar" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/aunar.png", Aunar
+http://zapster.trapemn.tv:1935/zapster-hls/Aunar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalE" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/canal-e.png", Canal E
+http://zapster.trapemn.tv:1935/zapster-hls/CanalE.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CN23" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/cn23.png", CN23
+http://zapster.trapemn.tv:1935/zapster-hls/CN23.stream/playlist.m3u8
+
+# --- RELIGIOSOS ---
+#EXTINF:-1 tvg-id="CanalLuz" tvg-logo="https://www.canalluz.org/img/logo.png", Canal Luz
+http://zapster.trapemn.tv:1935/religioso/canalluz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NuevoTiempo" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/nuevo-tiempo.png", Nuevo Tiempo
+http://zapster.trapemn.tv:1935/religioso/nuevotiempo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/ewtn.png", EWTN
+http://zapster.trapemn.tv:1935/religioso/ewtn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SophiaTV" tvg-logo="http://sophiatv.com.ar/img/logo.png", Sophia TV
+http://zapster.trapemn.tv:1935/religioso/sophiatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Enlace" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/enlace.png", Enlace
+http://zapster.trapemn.tv:1935/religioso/enlace.stream/playlist.m3u8
