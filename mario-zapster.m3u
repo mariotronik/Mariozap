@@ -14,7 +14,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/Zapsterv2/ElTreceHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/canal26.png", Canal 26
-http://zapster.trapemn.tv:1935//26tv.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/nacionales/26tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElTresRosario" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/eltres.png", El Tres HD (Rosario)
 http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
@@ -23,7 +23,7 @@ http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo_RTS_Santa_Fe.png/200px-Logo_RTS_Santa_Fe.png", RTS Santa Fe
-http://zapster.trapemn.tv:1935/zapster/rts/l_68269_19716600_3286.ts
+http://zapster.trapemn.tv:1935/zapster/rts/playlist.m3u8
 
 # --- NOTICIAS ---
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tn.png", TN Todo Noticias
@@ -55,7 +55,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tnt-sports.png", TNT Sports HD
-http://zapster.trapemn.tv:193/Zapsterv2/TNTSportsHD.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/zapster/TNT_Sports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn.png", ESPN 1
 http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
@@ -67,7 +67,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn-premium.png", ESPN Premium HD
-http://zapster.trapemn.tv:1935/Zapsterv2/ESPNPremiumHD.steam/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GarageTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/el-garage.png", Garage TV
 http://zapster.trapemn.tv:1935/zapster-hls/garagetv.stream/playlist.m3u8
@@ -87,6 +87,23 @@ http://zapster.trapemn.tv:1935/zapster-hls/cinecanal.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/fx.png", FX
 http://zapster.trapemn.tv:1935/internacional/fx.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/Warner.png", Warner
+http://zapster.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/TNT-Series.png", TNT-Series
+http://zapster.trapemn.tv:1935/zapster/TNT_Series.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/TNT-Novelas.png", TNT-Novelas
+http://zapster.trapemn.tv:1935/zapster/TNT_Novelas.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/Space.png", Space
+http://zapster.trapemn.tv:1935/zapster-hls/space.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/Universal Chanel.png", Universal Chanel
+http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="CineAr" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/cine-ar.png", Cine.AR
 http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
@@ -121,7 +138,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/disney_jr.stream/playlist.m3u8
 
 # --- MUSICA ---
 #EXTINF:-1 tvg-id="HTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/htv.png", HTV
-http://zapster.trapemn.tv:1935/CD-LATAM/HTV/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/HTV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/mtv.png", MTV
 http://zapster.trapemn.tv:1935/CD-LATAM/MTV/playlist.m3u8
@@ -169,10 +186,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/CNN/playlist.m3u8
 http://zapster.trapemn.tv:1935/internacional/dw.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/telesur.png", TeleSur Español
-http://zapster.trapemn.tv:1935/internacional/telesur_espa%C3%B1ol.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TelesurEN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/telesur.png", TeleSur English
-http://zapster.trapemn.tv:1935/internacional/telesur_ingles.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/internacional/telesur_español.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France24" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/france-24.png", France 24 (ES)
 http://zapster.trapemn.tv:1935/internacional/france24_ES.stream/playlist.m3u8
