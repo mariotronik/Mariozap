@@ -11,7 +11,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/eltrece.png", El Trece HD
-http://zapster.trapemn.tv:1935/Zapsterv2/ElTreceHD.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/canal26.png", Canal 26
 http://zapster.trapemn.tv:1935/nacionales/26tv.stream/playlist.m3u8
