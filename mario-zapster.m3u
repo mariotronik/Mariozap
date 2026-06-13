@@ -19,6 +19,9 @@ http://zapster.trapemn.tv:1935/nacionales/26tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ElTresRosario" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/eltres.png", El Tres HD (Rosario)
 http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/A24.png", A24 
+http://zapster.trapemn.tv:1935/Zapster/a24.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TelefeRosario" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/telefe-rosario.png", Canal 5 Rosario
 http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
@@ -42,6 +45,13 @@ http://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
 
 # --- DEPORTES ---
+
+#EXTINF:-1 tvg-id="Dsports1" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/Dsports1.png",
+http://zapster.trapemn.tv:1935/zapster/dsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dsports2" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/Dsports2.png",
+http://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TyCSports" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tyc-sports.png", TyC Sports
 http://zapster.trapemn.tv:1935/Zapster/TyC_Sports.stream/playlist.m3u8
 
