@@ -7,14 +7,17 @@ http://zapster.trapemn.tv:1935/Zapster/AmericaTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/telefe.png", Telefe HD
 http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tv-publica.png", TV Pública
-http://zapster.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/eltrece.png", El Trece HD
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Caanal 9" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/tv-publica.png", Canal 9
+http://zapster.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/A24.png", A24 
+http://zapster.trapemn.tv:1935/Zapster/a24.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal26" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/canal26.png", Canal 26
-http://zapster.trapemn.tv:1935/nacionales/26tv.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/26tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElTresRosario" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/eltres.png", El Tres HD (Rosario)
 http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
