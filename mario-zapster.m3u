@@ -36,7 +36,7 @@ http://zapster.trapemn.tv:1935/zapster/tn-new.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV" tvg-logo="https://logo.m3uassets.com/cronica.png", Crónica TV
-http://zapster.trapemn.tv:1935/zapster/CronicaTV/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/CronicaTVHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LN+" tvg-logo="https://logo.m3uassets.com/ln-plus.png", La Nación +
 http://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
