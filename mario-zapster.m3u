@@ -254,7 +254,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/suramtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Vpitv" tvg-logo="https://logo.m3uassets.com/vpitv.png", Vptv
 http://zapster.trapemn.tv:1935/CD-LATAM/vpitv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PeruGo" tvg-logo="https://logo.m3uassets.com/perugo.png", Peru Go
+#EXTINF:-1 tvg-id="PeruGo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFzjjHk8yveQkPZgjnKYGNLhTYUSa_f5zaQ&s", Peru Go
 http://zapster.trapemn.tv:1935/internacional/perugo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Carioca" tvg-logo="https://logo.m3uassets.com/carioca.png", Carioca Internacional
