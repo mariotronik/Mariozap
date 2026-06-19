@@ -91,9 +91,6 @@ http://zapster.trapemn.tv:1935/zapster-hls/americasports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GarageTV" tvg-logo="https://logo.m3uassets.com/el-garage.png", Garage TV
 http://zapster.trapemn.tv:1935/zapster-hls/garagetv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://logo.m3uassets.com/deportv.png", DEPORTV
-http://zapster.trapemn.tv:1935/zapster-hls/DEPORTV.stream/playlist.m3u8
-
 
 # --- PELICULAS Y SERIES ---
 
