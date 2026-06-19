@@ -67,7 +67,7 @@ http://zapster.trapemn.tv:1935/zapster/TNT_Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://logo.m3uassets.com/espn.png", ESPN 1
 http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://logo.m3uassets.com/espn-2.png", ESPN 3
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://logo.m3uassets.com/espn-2.png", ESPN 2
 http://zapster.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://logo.m3uassets.com/espn-3.png", ESPN 3
