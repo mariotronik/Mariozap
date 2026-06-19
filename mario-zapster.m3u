@@ -7,6 +7,9 @@ http://zapster.trapemn.tv:1935/Zapster/AmericaTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="https://logo.m3uassets.com/telefe.png", Telefe HD
 http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV Poblica" tvg-logo="https://logo.m3uassets.com/tvpublica.png", TV Publica HD
+http://zapster.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://logo.m3uassets.com/eltrece.png", El Trece HD
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
@@ -45,11 +48,6 @@ http://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
 
 # --- DEPORTES ---
-#EXTINF:-1 tvg-id="Dsports1" tvg-logo="https://logo.m3uassets.com/dsports1.png",
-http://zapster.trapemn.tv:1935/zapster/dsports1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dsports2" tvg-logo="https://logo.m3uassets.com/dsports2.png",
-http://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports" tvg-logo="https://logo.m3uassets.com/tyc-sports.png", TyC Sports
 http://zapster.trapemn.tv:1935/Zapster/TyC_Sports.stream/playlist.m3u8
@@ -81,27 +79,34 @@ http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium" tvg-logo="https://logo.m3uassets.com/espn-premium.png", ESPN Premium HD
 http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dsports1" tvg-logo="https://logo.m3uassets.com/dsports1.png",  DSports 1
+http://zapster.trapemn.tv:1935/zapster/dsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dsports2" tvg-logo="https://logo.m3uassets.com/dsports2.png",   DSports 2
+http://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaSports" tvg-logo="https://logo.m3uassets.com/america-sports.png", America Sports
+http://zapster.trapemn.tv:1935/zapster-hls/americasports.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GarageTV" tvg-logo="https://logo.m3uassets.com/el-garage.png", Garage TV
 http://zapster.trapemn.tv:1935/zapster-hls/garagetv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://logo.m3uassets.com/deportv.png", DEPORTV
 http://zapster.trapemn.tv:1935/zapster-hls/DEPORTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericaSports" tvg-logo="https://logo.m3uassets.com/america-sports.png", America Sports
-http://zapster.trapemn.tv:1935/zapster-hls/americasports.stream/playlist.m3u8
 
 # --- PELICULAS Y SERIES ---
-#EXTINF:-1 tvg-id="StarChannel" tvg-logo="https://logo.m3uassets.com/star-channel.png", Star Channel
-http://zapster.trapemn.tv:1935/internacional/Starchannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://logo.m3uassets.com/cinecanal.png", Cinecanal
-http://zapster.trapemn.tv:1935/zapster-hls/cinecanal.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://logo.m3uassets.com/studiouniversal.png", Studio Universal
 
-#EXTINF:-1 tvg-id="FX" tvg-logo="https://logo.m3uassets.com/fx.png", FX
-http://zapster.trapemn.tv:1935/internacional/fx.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://logo.m3uassets.com/warner.png", Warner
 http://zapster.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://logo.m3uassets.com/tnt.png", TNT
+
+
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://logo.m3uassets.com/tnt-series.png", TNT-Series
 http://zapster.trapemn.tv:1935/zapster/TNT_Series.stream/playlist.m3u8
@@ -115,14 +120,25 @@ http://zapster.trapemn.tv:1935/zapster-hls/space.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Universal" tvg-logo="https://logo.m3uassets.com/universal.png", Universal Chanel
 http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logo.m3uassets.com/comedycentral.png", Comedy Central
+
+
+
+#EXTINF:-1 tvg-id="Dreamworks Channel" tvg-logo="https://logo.m3uassets.com/https://logo.m3uassets.com/dreamworkschannel.png.png", Dreamworks Channel
+
+
+
+#EXTINF:-1 tvg-id="StarChannel" tvg-logo="https://logo.m3uassets.com/star-channel.png", Star Channel
+http://zapster.trapemn.tv:1935/internacional/Starchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://logo.m3uassets.com/cinecanal.png", Cinecanal
+http://zapster.trapemn.tv:1935/zapster-hls/cinecanal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://logo.m3uassets.com/fx.png", FX
+http://zapster.trapemn.tv:1935/internacional/fx.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CineAr" tvg-logo="https://logo.m3uassets.com/cine-ar.png", Cine.AR
 http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TCM" tvg-logo="https://logo.m3uassets.com/tcm.png", TCM
-http://zapster.trapemn.tv:1935/CD-LATAM/TCM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://logo.m3uassets.com/telemundo.png", Telemundo
-http://zapster.trapemn.tv:1935/novelas/telemundo.stream/playlist.m3u8
 
 # --- INFANTILES ---
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://logo.m3uassets.com/cartoon-network.png", Cartoon Network
@@ -133,6 +149,10 @@ http://zapster.trapemn.tv:1935/zapster-hls/nickelodeon.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickJr" tvg-logo="https://logo.m3uassets.com/nick-jr.png", Nick Junior
 http://zapster.trapemn.tv:1935/Zapster/Nick_Junior.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://logo.m3uassets.com/cartoonito.png", Cartoonito
+
+
 
 #EXTINF:-1 tvg-id="AdultSwim" tvg-logo="https://logo.m3uassets.com/adult-swim.png", Adult Swim
 http://zapster.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8
@@ -150,9 +170,6 @@ http://zapster.trapemn.tv:1935/zapster-hls/disney_jr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV" tvg-logo="https://logo.m3uassets.com/htv.png", HTV
 http://zapster.trapemn.tv:1935/CD-LATAM/HTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-logo="https://logo.m3uassets.com/mtv.png", MTV
-http://zapster.trapemn.tv:1935/CD-LATAM/MTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MixMusic" tvg-logo="https://logo.m3uassets.com/mixmusic.png", Mix Music Channel
 http://zapster.trapemn.tv:1935/zapster/mixmusicchannel/playlist.m3u8
 
@@ -167,6 +184,17 @@ http://zapster.trapemn.tv:1935/musica/tropicalmoon.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/radio/radioboing.stream/playlist.m3u8
 
 # --- DOCUMENTALES / VARIEDADES ---
+
+
+#EXTINF:-1 tvg-id="CineAR" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg", CineAR
+
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://olgo.m3uassets.com/tcm.png", TCM
+http://zapster.trapemn.tv:1935/CD-LATAM/TCM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://logo.m3uassets.com/telemundo.png", Telemundo
+http://zapster.trapemn.tv:1935/novelas/telemundo.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://logo.m3uassets.com/nat-geo.png", Nat Geo
 http://zapster.trapemn.tv:1935/documental/natgeo.stream/playlist.m3u8
 
@@ -176,21 +204,22 @@ http://zapster.trapemn.tv:1935/zapster-hls/encuentro.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TecTV" tvg-logo="https://logo.m3uassets.com/tectv.png", Tec TV
 http://zapster.trapemn.tv:1935/zapster-hls/TecTV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CNNEspanol" tvg-logo="https://logo.m3uassets.com/cnn-en-espanol.png", CNN en Español
+http://zapster.trapemn.tv:1935/CD-LATAM/CNN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol" tvg-logo="https://logo.m3uassets.com/dw.png", DW Español
+http://zapster.trapemn.tv:1935/internacional/dw.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://logo.m3uassets.com/ciudad-magazine.png", Ciudad Magazine
 http://zapster.trapemn.tv:1935/zapster-hls/ciudadmagazine.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SilverChannel" tvg-logo="https://logo.m3uassets.com/silver.png", Silver Channel
 http://zapster.trapemn.tv:1935/zapster-hls/silverchannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EEntertainment" tvg-logo="https://logo.m3uassets.com/e-entertainment.png", E! Entertainment
-http://zapster.trapemn.tv:1935/CD-LATAM/Entertainment/playlist.m3u8
+
 
 # --- INTERNACIONALES ---
-#EXTINF:-1 tvg-id="CNNEspanol" tvg-logo="https://logo.m3uassets.com/cnn-en-espanol.png", CNN en Español
-http://zapster.trapemn.tv:1935/CD-LATAM/CNN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DWEspanol" tvg-logo="https://logo.m3uassets.com/dw.png", DW Español
-http://zapster.trapemn.tv:1935/internacional/dw.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://logo.m3uassets.com/telesur.png", TeleSur Español
 http://zapster.trapemn.tv:1935/internacional/telesur_español.stream/playlist.m3u8
@@ -207,6 +236,24 @@ http://zapster.trapemn.tv:1935/miscelaneos/rt_internacional.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaDigital" tvg-logo="https://logo.m3uassets.com/ondadigital.png", Onda Digital
 http://zapster.trapemn.tv:1935/internacional/ondadigital.stream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://logo.m3uassets.com/ciudad-magazine.png", Ciudad Magazine
+http://zapster.trapemn.tv:1935/zapster-hls/ciudadmagazine.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EEntertainment" tvg-logo="https://logo.m3uassets.com/e-entertainment.png", E! Entertainment
+http://zapster.trapemn.tv:1935/CD-LATAM/Entertainment/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SilverChannel" tvg-logo="https://logo.m3uassets.com/silver.png", Silver Channel
+http://zapster.trapemn.tv:1935/zapster-hls/silverchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cnc Medillin" tvg-logo="https://logo.m3uassets.com/cncmedellin.png", CNC Medellin
+
+
+
+#EXTINF:-1 tvg-id="EEntertainment" tvg-logo="https://logo.m3uassets.com/clicktv.png", Click tv
+
+
+
 #EXTINF:-1 tvg-id="UCL" tvg-logo="https://logo.m3uassets.com/ucl.png", UCL TV
 http://zapster.trapemn.tv:1935/internacional/ucl.stream/playlist.m3u8
 
@@ -219,12 +266,11 @@ http://zapster.trapemn.tv:1935/internacional/perugo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Carioca" tvg-logo="https://logo.m3uassets.com/carioca.png", Carioca Internacional
 http://zapster.trapemn.tv:1935/live/cariocainternacional/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NativaTV" tvg-logo="https://logo.m3uassets.com/nativa.png", Nativa TV
-http://zapster.trapemn.tv:1935/internacional/nativa.stream/playlist.m3u8
-
-# --- INSTITUCIONALES / VARIOS ---
 #EXTINF:-1 tvg-id="Aunar" tvg-logo="https://logo.m3uassets.com/aunar.png", Aunar
 http://zapster.trapemn.tv:1935/zapster-hls/Aunar.stream/playlist.m3u8
+
+# --- RELIGIOSOS ---
+
 
 #EXTINF:-1 tvg-id="CanalE" tvg-logo="https://logo.m3uassets.com/canal-e.png", Canal E
 http://zapster.trapemn.tv:1935/zapster-hls/CanalE.stream/playlist.m3u8
@@ -232,9 +278,11 @@ http://zapster.trapemn.tv:1935/zapster-hls/CanalE.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CN23" tvg-logo="https://logo.m3uassets.com/cn23.png", CN23
 http://zapster.trapemn.tv:1935/zapster-hls/CN23.stream/playlist.m3u8
 
-# --- RELIGIOSOS ---
 #EXTINF:-1 tvg-id="CanalLuz" tvg-logo="https://logo.m3uassets.com/canalluz.png", Canal Luz
 http://zapster.trapemn.tv:1935/religioso/canalluz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NativaTV" tvg-logo="https://logo.m3uassets.com/nativa.png", Nativa TV
+http://zapster.trapemn.tv:1935/internacional/nativa.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NuevoTiempo" tvg-logo="https://logo.m3uassets.com/nuevo-tiempo.png", Nuevo Tiempo
 http://zapster.trapemn.tv:1935/religioso/nuevotiempo.stream/playlist.m3u8
@@ -246,4 +294,4 @@ http://zapster.trapemn.tv:1935/religioso/ewtn.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/religioso/sophiatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Enlace" tvg-logo="https://logo.m3uassets.com/enlace.png", Enlace
-http://zapster.trapemn.tv:1935/religioso/enlace.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/enlace.stream/playlist.m3u8
