@@ -145,8 +145,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/nickelodeon.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/Zapster/Nick_Junior.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://logo.m3uassets.com/cartoonito.png", Cartoonito
-
-
+http://zapster.trapemn.tv:1935/zapster/Cartoonito.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwim" tvg-logo="https://logo.m3uassets.com/adult-swim.png", Adult Swim
 http://zapster.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8
@@ -204,19 +203,13 @@ http://zapster.trapemn.tv:1935/CD-LATAM/CNN/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol" tvg-logo="https://logo.m3uassets.com/dw.png", DW Español
 http://zapster.trapemn.tv:1935/CD-LATAM/dw.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://logo.m3uassets.com/ciudad-magazine.png", Ciudad Magazine
-http://zapster.trapemn.tv:1935/zapster-hls/ciudadmagazine.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SilverChannel" tvg-logo="https://logo.m3uassets.com/silver.png", Silver Channel
-http://zapster.trapemn.tv:1935/zapster-hls/silverchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur" tvg-logo="https://logo.m3uassets.com/telesur.png", TeleSur Español
+http://zapster.trapemn.tv:1935/CD-LATAM/telesur_espa%C3%B1ol.stream/playlist.m3u8
 
 
 
 # --- INTERNACIONALES ---
 
-
-#EXTINF:-1 tvg-id="Telesur" tvg-logo="https://logo.m3uassets.com/telesur.png", TeleSur Español
-http://zapster.trapemn.tv:1935/CD-LATAM/telesur_espa%C3%B1ol.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France24" tvg-logo="https://logo.m3uassets.com/france-24.png", France 24 (ES)
 http://zapster.trapemn.tv:1935/CD-LATAM/france24_ES.stream/playlist.m3u8
@@ -232,6 +225,10 @@ http://zapster.trapemn.tv:1935/CD-LATAM/rt_internacional.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OndaDigital" tvg-logo="https://logo.m3uassets.com/ondadigital.png", Onda Digital
 http://zapster.trapemn.tv:1935/CD-LATAM/ondadigital.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="argentinisima satelital" tvg-logo="https://logo.m3uassets.com/argentinisima.png", Argentinisima satelital
+
+
 
 #EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://logo.m3uassets.com/ciudad-magazine.png", Ciudad Magazine
 http://zapster.trapemn.tv:1935/zapster-hls/ciudadmagazine.stream/playlist.m3u8
@@ -254,6 +251,9 @@ http://zapster.trapemn.tv:1935/internacional/ucl.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuramTV" tvg-logo="https://logo.m3uassets.com/suramtv.png", Suram TV
 http://zapster.trapemn.tv:1935/CD-LATAM/suramtv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Vpitv" tvg-logo="https://logo.m3uassets.com/vpitv.png", Vptv
+http://zapster.trapemn.tv:1935/CD-LATAM/vpitv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PeruGo" tvg-logo="https://logo.m3uassets.com/perugo.png", Peru Go
 http://zapster.trapemn.tv:1935/internacional/perugo.stream/playlist.m3u8
 
@@ -263,8 +263,6 @@ http://zapster.trapemn.tv:1935/live/cariocainternacional/playlist.m3u8
 #EXTINF:-1 tvg-id="Aunar" tvg-logo="https://logo.m3uassets.com/aunar.png", Aunar
 http://zapster.trapemn.tv:1935/zapster-hls/Aunar.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vpitv" tvg-logo="https://logo.m3uassets.com/vpitv.png", Vptv
-http://zapster.trapemn.tv:1935/CD-LATAM/vpitv.stream/playlist.m3u8
 
 
 # --- RELIGIOSOS ---
