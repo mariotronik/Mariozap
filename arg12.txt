@@ -1,0 +1,518 @@
+#EXTM3U
+
+# ==========================================
+# 1. CANALES DE AIRE / LOCALES
+# ==========================================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="americatv.ar" tvg-name="ARG: AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="Canales de Aire",ARG: AMERICA TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671124
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="americatv.ar" tvg-name="ARG: AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="Canales de Aire",ARG: AMERICA TV 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671123
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal13.ar" tvg-name="ARG: CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/1005px-Canal_13_%28Chile%29_logo.svg.png" group-title="Canales de Aire",ARG: CANAL 13
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671112
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Canales de Aire",ARG: EL TRECE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671067
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: EL TRECE" tvg-logo="https://www.nicepng.com/png/full/828-8283014_eltrece-logo-eltrece-logo-el-trece.png" group-title="Canales de Aire",ARG: EL TRECE HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671066
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal9.ar" tvg-name="ARG: CANAL 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" group-title="Canales de Aire",ARG: CANAL 9
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671107
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal9.ar" tvg-name="ARG: CANAL 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" group-title="Canales de Aire",ARG: CANAL 9 ALT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671106
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nettv.ar" tvg-name="ARG: Net TV" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" group-title="Canales de Aire",ARG: Net TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671022
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canallaciudad.ar" tvg-name="ARG: CANAL DE LA CIUDAD" tvg-logo="https://fotos.subefotos.com/182edeb2572e3eb12a6ba60b7ebcd924o.png" group-title="Canales de Aire",ARG: CANAL DE LA CIUDAD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671105
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: 10 TV Neuquén" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/shows_logos/81/ec/81ec6490-abbe-4675-bda3-25cb661b55b5.png" group-title="Canales de Aire",ARG: 10 TV Neuquén
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671130
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CANAL 10 SENILLOSA Neuquén" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cio_Qgzd_qujR2hFRp7kyIfdcB2XmU9w9Fs_mtVCPXffgMNrTdciv0OPXKnJJ42wS60&usqp=CAU" group-title="Canales de Aire",ARG: CANAL 10 SENILLOSA Neuquén
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671113
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CUMBRE TV Neuquén" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/shows_logos/81/ec/81ec6490-abbe-4675-bda3-25cb661b55b5.png" group-title="Canales de Aire",ARG: CUMBRE TV Neuquén
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671086
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CANAL 2 de Ushuaia" tvg-logo="https://www.canal2.com.ar/canal2-poster.jpg" group-title="Canales de Aire",ARG: CANAL 2 de Ushuaia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671111
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CANAL 3 del la PAMPA TVPP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/800px-Canal_3_Santa_Rosa_%28Logo_2016%29.png" group-title="Canales de Aire",ARG: CANAL 3 del la PAMPA TVPP
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671109
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal7.ar" tvg-name="ARG: CANAL 7 JUJUY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Canal_Siete_Jujuy.png/800px-Canal_Siete_Jujuy.png" group-title="Canales de Aire",ARG: CANAL 7 JUJUY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671108
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CANAL PROVINCIAL SAN MIGUEL" tvg-logo="https://3.bp.blogspot.com/-k-69wRRLNGs/VXG2xu6KOTI/AAAAAAAADWs/bTWILrtJRfk/s280/fe97b954724155e66a07f3ab75bfd475.png" group-title="Canales de Aire",ARG: CANAL PROVINCIAL SAN MIGUEL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671103
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CANAL TELEJUNÍN" tvg-logo="https://www.elnueve.com/images/brand-blue.png" group-title="Canales de Aire",ARG: CANAL TELEJUNÍN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671098
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: Catamarca TV" tvg-logo="https://catamarcartv.com/wp-content/uploads/2023/01/logo-cuadrado.jpg" group-title="Canales de Aire",ARG: Catamarca TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671084
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: Ciudad TV Chaco" tvg-logo="https://chaco.tv/assets/general/logo-chacotv.png" group-title="Canales de Aire",ARG: Ciudad TV Chaco
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671083
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: Ciudad TV Resistencia" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Canales de Aire",ARG: Ciudad TV Resistencia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671082
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: Multivisión Federal" tvg-logo="https://fenixteamtv.com/wp-content/uploads/2019/02/fenixtb.png" group-title="Canales de Aire",ARG: Multivisión Federal
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671028
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: NG TV Federal" tvg-logo="https://w7.pngwing.com/pngs/688/57/png-transparent-tdc-hd-logo-thumbnail.png" group-title="Canales de Aire",ARG: NG TV Federal
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671025
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: PARANA TV" tvg-logo="" group-title="Canales de Aire",ARG: PARANA TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671018
+
+# ==========================================
+# 2. NOTICIAS
+# ==========================================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a24.ar" tvg-name="ARG: 24A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Noticias",ARG: 24A
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671129
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a24.ar" tvg-name="ARG: A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Noticias",ARG: A24
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671127
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="america24.ar" tvg-name="ARG: AMERICA 24" tvg-logo="https://img2.freepng.es/20180617/wx/kisspng-amrica-24-argentina-television-channel-5b2726e477db86.792259961529292516491.jpg" group-title="Noticias",ARG: AMERICA 24
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671125
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="c5n.ar" tvg-name="ARG: C5N" tvg-logo="https://ia600408.us.archive.org/1/items/logos_20160512/C5N.png" group-title="Noticias",ARG: C5N
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671116
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="c5n.ar" tvg-name="ARG: C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/C5N.svg/1280px-C5N.svg.png" group-title="Noticias",ARG: C5N ALT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671115
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal26.ar" tvg-name="ARG: CANAL 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Noticias",ARG: CANAL 26
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671110
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnenespañol.ar" tvg-name="ARG: CNN ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="Noticias",ARG: CNN ESPANOL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671091
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cronica.ar" tvg-name="ARG: CRONICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias",ARG: CRONICA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671087
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: DIPUTADOS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" group-title="Noticias",ARG: DIPUTADOS TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671079
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: DNEWS Directv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/DNews.png" group-title="Noticias",ARG: DNEWS Directv
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671073
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: FOX NEWS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-news-logo-black-and-white.png" group-title="Noticias",ARG: FOX NEWS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671056
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: HCDN" tvg-logo="" group-title="Noticias",ARG: HCDN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671042
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: INFO PERIODÍSTICA" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.1903443994_InformacinPeriodstica.png.454d8a3a80625853a2d9c4ce92a34009.png" group-title="Noticias",ARG: INFO PERIODÍSTICA 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671036
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: INFO PERIODÍSTICA" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.1903443994_InformacinPeriodstica.png.454d8a3a80625853a2d9c4ce92a34009.png" group-title="Noticias",ARG: INFO PERIODÍSTICA 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671035
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Noticias",ARG: LN+
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671032
+
+# ==========================================
+# 3. DEPORTES
+# ==========================================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn.ar" tvg-name="ARG: ESPN 1" tvg-logo="https://w7.pngwing.com/pngs/873/769/png-transparent-espn-com-logo-espn-radio-others-text-label-sport.png" group-title="Deportes",ARG: ESPN 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671145
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn2.ar" tvg-name="ARG: ESPN 2" tvg-logo="https://w7.pngwing.com/pngs/873/769/png-transparent-espn-com-logo-espn-radio-others-text-label-sport.png" group-title="Deportes",ARG: ESPN 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671144
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn2.mx" tvg-name="ARG: ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Deportes",ARG: ESPN 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671063
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn3.ar" tvg-name="ARG: ESPN 3" tvg-logo="https://w7.pngwing.com/pngs/873/769/png-transparent-espn-com-logo-espn-radio-others-text-label-sport.png" group-title="Deportes",ARG: ESPN 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671143
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn3.mx" tvg-name="ARG: ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ARG: ESPN 3 ALT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671062
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn4.mx" tvg-name="ARG: ESPN 4" tvg-logo="https://w7.pngwing.com/pngs/873/769/png-transparent-espn-com-logo-espn-radio-others-text-label-sport.png" group-title="Deportes",ARG: ESPN 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671142
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espnextra.ar" tvg-name="ARG: ESPN EXTRA SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png" group-title="Deportes",ARG: ESPN EXTRA SUR
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671141
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: ESPN PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="Deportes",ARG: ESPN PREMIUM FHD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671140
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: ESPN PREMIUM HD" tvg-logo="https://w7.pngwing.com/pngs/873/769/png-transparent-espn-com-logo-espn-radio-others-text-label-sport.png" group-title="Deportes",ARG: ESPN PREMIUM HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671061
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn.mx" tvg-name="ARG: ESPN" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="Deportes",ARG: ESPN MIX
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671060
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports.ar" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="Deportes",ARG: FOX SPORTS 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671138
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports2.ar" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",ARG: FOX SPORTS 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671137
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports3.mx" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",ARG: FOX SPORTS 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671136
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tycsports.ar" tvg-name="ARG: TyC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes",ARG: TyC SPORTS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671139
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports.ar" tvg-name="ARG: TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="Deportes",ARG: TNT SPORTS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671135
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: PX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/PX_Sports_.png" group-title="Deportes",ARG: PX SPORTS HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671134
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",ARG: DIRECTV SPORTS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671133
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png" group-title="Deportes",ARG: DIRECTV SPORTS 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671132
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: DIRECTV SPORTS+" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png" group-title="Deportes",ARG: DIRECTV SPORTS+
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671131
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deportv.ar" tvg-name="ARG: DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="Deportes",ARG: DEPORTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671080
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports | DIRECTV SPORTS HD (ARG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="Deportes",Sports | DIRECTV SPORTS HD (ARG)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671078
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elgaragetv.ar" tvg-name="ARG: GARAGE TV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png" group-title="Deportes",ARG: GARAGE TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671054
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: HIPODROMO DE PALERMO" tvg-logo="https://lastunasong.org.ar/wp-content/uploads/2019/12/Logos_0000s_0005_Logo-Hipo%CC%81dromo-Arg-de-Palermo.jpg" group-title="Deportes",ARG: HIPODROMO DE PALERMO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671041
+
+# ==========================================
+# 4. CINE Y SERIES (PELÍCULAS)
+# ==========================================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a&e.ar" tvg-name="ARG: A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Cine y Series",ARG: A&E
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671128
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amc.ar" tvg-name="ARG: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Cine y Series",ARG: AMC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671126
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="axn.ar" tvg-name="ARG: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="Cine y Series",ARG: AXN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671120
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CINE LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="Cine y Series",ARG: CINE LATINO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671095
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinear.ar" tvg-name="ARG: CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png" group-title="Cine y Series",ARG: CINEAR
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671094
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CLARO CINEMA" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2SzoSJd5lT0ZmR0PxMxktc/cc2214cecf0cc9d307d6b7ef54a46b98/41_ClaroCinema.png" group-title="Cine y Series",ARG: CLARO CINEMA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671092
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="europaeuropa.ar" tvg-name="ARG: EUROPA EUROPA" tvg-logo="http://4.bp.blogspot.com/-N2JWj9sGY3g/VM0ud4XFH6I/AAAAAAAAACI/d_CFWzH9pVQ/s1600/europaeuropa.png" group-title="Cine y Series",ARG: EUROPA EUROPA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671058
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="film&arts.ar" tvg-name="ARG: FILM&ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="Cine y Series",ARG: FILM&ARTS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671057
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="Cine y Series",ARG: FX
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671055
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="golden.ar" tvg-name="ARG: GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine y Series",ARG: GOLDEN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671053
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: Golden Premier 2" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png" group-title="Cine y Series",ARG: Golden Premier 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671052
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbo.ar" tvg-name="ARG: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine y Series",ARG: HBO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671045
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbo2.ar" tvg-name="ARG: HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine y Series",ARG: HBO 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671050
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbofamily.ar" tvg-name="ARG: HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine y Series",ARG: HBO FAMILY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671049
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbomundi.ar" tvg-name="ARG: HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Cine y Series",ARG: HBO MUNDI
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671048
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hboplus.mx" tvg-name="ARG: HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cine y Series",ARG: HBO PLUS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671047
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbopop.ar" tvg-name="ARG: HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Cine y Series",ARG: HBO POP
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671046
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbosignature.ar" tvg-name="ARG: HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Cine y Series",ARG: HBO SIGNATURE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671044
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hboxtreme.ar" tvg-name="ARG: HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="Cine y Series",ARG: HBO XTREME
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671043
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: I-SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="Cine y Series",ARG: I-SAT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671037
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="lifetime.ar" tvg-name="ARG: LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="Cine y Series",ARG: LIFETIME
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671033
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountnetwork.ar" tvg-name="ARG: PARAMOUNT NETWORK" tvg-logo="http://assets.stickpng.com/images/58483b6584e35b574e745380.png" group-title="Cine y Series",ARG: PARAMOUNT NETWORK
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671019
+
+# ==========================================
+# 5. INFANTILES / DIBUJOS
+# ==========================================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: Baby Tv" tvg-logo="https://www.nicepng.com/png/full/352-3527378_free-cd-baby-logo-png-baby-tv-logo.png" group-title="Infantiles",ARG: Baby Tv
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671118
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.ar" tvg-name="ARG: CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",ARG: CARTOON NETWORK
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671097
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonito.ar" tvg-name="ARG: CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cartoonito.svg" group-title="Infantiles",ARG: CARTOONITO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671096
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneychannel.ar" tvg-name="ARG: DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="Infantiles",ARG: DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671075
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneychannel.ar" tvg-name="ARG: DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Infantiles",ARG: DISNEY XD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671074
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nationalgeographic.ar" tvg-name="ARG: NAT GEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantiles",ARG: NAT GEO KIDS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671027
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.mx" tvg-name="ARG: NICK JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png" group-title="Infantiles",ARG: NICK JR
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671024
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: NICKELODEON" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="Infantiles",ARG: NICKELODEON
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671023
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pakapaka.ar" tvg-name="ARG: PAKA PAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pakapaka_canal_logo.svg/300px-Pakapaka_canal_logo.svg.png" group-title="Infantiles",ARG: PAKA PAKA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671020
+
+# ==========================================
+# 6. DOCUMENTALES / CIENCIA / VARIADOS
+# ==========================================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="animalplanet.ar" tvg-name="ARG: ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Documentales",ARG: ANIMAL PLANET
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671122
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discovery.ar" tvg-name="ARG: DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="Documentales",ARG: DISCOVERY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671077
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverytheater.ar" tvg-name="ARG: DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/800px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentales",ARG: DISCOVERY THEATER
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671076
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryscience.br" tvg-name="ARG: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Documentales",ARG: Discovery Science
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671071
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryworld.ar" tvg-name="ARG: Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Documentales",ARG: Discovery World
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671070
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.ar" tvg-name="ARG: HISTORY Channel" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Documentales",ARG: HISTORY Channel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671040
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="history2.ar" tvg-name="ARG: History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Documentales",ARG: History 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671038
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nationalgeographic.ar" tvg-name="ARG: NAT GEO" tvg-logo="https://assets.stickpng.com/thumbs/5a0c74bd9642de34b6b65cf5.png" group-title="Documentales",ARG: NAT GEO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671026
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="investigationdiscovery.ar" tvg-name="ARG: INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Documentales",ARG: INVESTIGATION DISCOVERY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671034
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="encuentro.ar" tvg-name="ARG: ENCUENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="Documentales",ARG: ENCUENTRO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671065
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalrural.ar" tvg-name="ARG: CANAL RURAL" tvg-logo="https://pbs.twimg.com/media/EfAVznNXYAAztgZ.png" group-title="Documentales",ARG: CANAL RURAL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671102
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.ar" tvg-name="ARG: COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="Entretenimiento",ARG: COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671089
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryhome&health.ar" tvg-name="ARG: Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Entretenimiento",ARG: Discovery Home & Health
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671072
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="elgourmet.ar" tvg-name="ARG: EL GOURMET" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="Entretenimiento",ARG: EL GOURMET
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671068
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: E! ENTERTAIMENTS" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="Entretenimiento",ARG: E! ENTERTAIMENTS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671069
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ciudadmagazine.ar" tvg-name="ARG: CIUDAD MAGAZINE" tvg-logo="https://media.cine.com/canales/ar/294_hd.png" group-title="Entretenimiento",ARG: CIUDAD MAGAZINE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671093
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="metro.ar" tvg-name="ARG: METRO" tvg-logo="https://www.pngitem.com/pimgs/m/286-2868325_thumb-image-metro-tv-news-logo-hd-png.png" group-title="Entretenimiento",ARG: METRO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671031
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: ON DIRECTV" tvg-logo="https://img1.freepng.es/20180817/cwh/kisspng-logo-tv-directv-brand-vector-graphics-5b773aeab11131.9230178615345405227253.jpg" group-title="Entretenimiento",ARG: ON DIRECTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671021
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CPEtv" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Entretenimiento",ARG: CPEtv
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671088
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CANAL T5 SATELITAL" tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="Entretenimiento",ARG: CANAL T5 SATELITAL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671099
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="argentinísimasatelital.ar" tvg-name="ARG: ARGENTINISIMA" tvg-logo="https://1.bp.blogspot.com/_UM56cm9HfJE/TFMi2rGtLMI/AAAAAAAAAhM/u4GdJOPmo9s/s1600/argentinisima.png" group-title="Variados",ARG: ARGENTINISIMA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671121
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="argentinísimasatelital.ar" tvg-name="ARG: Argentinísima Satelital" tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="Variados",ARG: Argentinísima Satelital
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671119
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: Canal XFN" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tv-cortos_m.png" group-title="Variados",ARG: Canal XFN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671085
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: ENLACE TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tbnenlace.png" group-title="Religión",ARG: ENLACE TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671064
+
+# ==========================================
+# 7. MÚSICA / RADIOS
+# ==========================================
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canallamusica.ar" tvg-name="ARG: CANAL DE LA MUSICA" tvg-logo="https://chabdigital.com.ar/wp-content/uploads/2019/05/654.png" group-title="Música",ARG: CANAL DE LA MUSICA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671104
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="htv.ar" tvg-name="ARG: HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="Música",ARG: HTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671039
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvhits.ar" tvg-name="ARG: MTV HIT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="Música",ARG: MTV HIT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671030
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvhits.ar" tvg-name="ARG: MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1472px-MTV_Logo_2010.svg.png" group-title="Música",ARG: MTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671029
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: Beats Radio" tvg-logo="https://beatsradio.com.ar/imagenes/fb.png" group-title="Radios",ARG: Beats Radio
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671117
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: CADENA 103 TV" tvg-logo="https://www.cadena103.com.ar/wp-content/uploads/2017/07/Logo02.png" group-title="Radios",ARG: CADENA 103 TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671114
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: DANCE FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/m9hxqyywcvch.png" group-title="Radios",ARG: DANCE FM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671081
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG: POWER TV" tvg-logo="https://tvmana-argentina.com/wp-content/uploads/2020/06/cropped-LOGO_TV_MANA_ARGENTINA_V1-1-396x108-1.png" group-title="Radios",ARG: POWER TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://myxpanel.pro:80/13579/13579/671017
