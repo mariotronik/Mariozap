@@ -3,22 +3,34 @@
 # --- CANALES DE AIRE / LOCALES ---
 #EXTINF:-1 tvg-id="AmericaTV" tvg-logo="https://logo.m3uassets.com/america.png", América TV
 http://zapster.trapemn.tv:1935/Zapster/AmericaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTV" tvg-logo="https://logo.m3uassets.com/america.png", América TV P
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/america/output.mpd
 
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="https://logo.m3uassets.com/telefe.png", Telefe HD
 http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://logo.m3uassets.com/telefe.png", Telefe HD
+https://regionales.saohgdasregions.fun/tvporinternet.php?stream=3_
 #EXTINF:-1 tvg-id="TV Poblica" tvg-logo="https://logo.m3uassets.com/tvpublica.png", TV Publica HD
 http://zapster.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://logo.m3uassets.com/eltrece.png", El Trece HD
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal9" tvg-logo="https://logo.m3uassets.com/canal9.png", Canal 9
+#EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://logo.m3uassets.com/eltrece.png", El Trece HD  P
+https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_
+
+
+#EXTINF:-1 tvg-id="Canal9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", Canal 9
 http://zapster.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", Canal 9
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/elnueve/output.mpd
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://logo.m3uassets.com/a24.png", A24 
 http://zapster.trapemn.tv:1935/Zapster/a24.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://logo.m3uassets.com/a24.png", A24 P
+https://full-online.xyz/proxy/america/?url=https://g5.vxral-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
 #EXTINF:-1 tvg-id="Canal26" tvg-logo="https://logo.m3uassets.com/canal26.png", Canal 26
 http://zapster.trapemn.tv:1935/CD-LATAM/26tv.stream/playlist.m3u8
 
@@ -132,26 +144,35 @@ http://zapster.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/cinecanal.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://logo.m3uassets.com/fx.png", FX
-http://zapster.trapemn.tv:1935/internacional/fx.stream/playlist.m3u8
+http://8.243.126.131:8000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="CineAr" tvg-logo="https://logo.m3uassets.com/cinear.png", Cine.AR
 http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hbo" tvg-logo="https://logo.m3uassets.com/hbo.png", HBO
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbo/output.mpd
+
+#EXTINF:-1 tvg-id="Hbo 2" tvg-logo="https://logo.m3uassets.com/hbo2.png", HBO 2
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbo2/output.mpd
-https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
-https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd
-https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HboPop" tvg-logo="https://logo.m3uassets.com/hbopop.png", HBO Pop
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbopop/output.mpd
-https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-POP-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://logo.m3uassets.com/hbofamily.png", HBO Family
+https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/output.mpd
+
+#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://logo.m3uassets.com/hbo.png", HBO
+https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://logo.m3uassets.com/hbo.png", HBO Plus
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hboplus/output.mpd
+
+#EXTINF:-1 tvg-id="Hbo Signature" tvg-logo="https://logo.m3uassets.com/hbosignature.png", HBO Signature
 https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbosig/output.mpd
+
+#EXTINF:-1 tvg-id="HboXtreme" tvg-logo="https://logo.m3uassets.com/hboxtreme.png", HBO Extreme
 https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
-https://aca-live4-ott.izzigo.tv/8/out/u/dash/HBO-XTREME-HD-H265/default.mpd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/goiznoiicv/out/v1/b76595a406d24861b49b6871786d4661/cenc-sd.mpd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd
+
 
 
 # --- INFANTILES ---
