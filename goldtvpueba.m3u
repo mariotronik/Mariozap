@@ -1,0 +1,358 @@
+#EXTM3U 
+
+# --- CANALES DE AIRE / LOCALES ---
+#EXTINF:-1 tvg-id="AmericaTV" tvg-logo="https://logo.m3uassets.com/america.png", América TV SD
+http://goldtv.lat:80/live/manuel20/manuel20/81275.ts
+#EXTINF:-1 tvg-id="AmericaTV" tvg-logo="https://logo.m3uassets.com/america.png", América TV HD
+http://goldtv.lat:80/live/manuel20/manuel20/81276.ts
+#EXTINF:-1 tvg-id="AmericaTV" tvg-logo="https://logo.m3uassets.com/america.png", América TV FHD
+http://goldtv.lat:80/live/manuel20/manuel20/81283.ts
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://logo.m3uassets.com/telefe.png", Telefe HD
+http://goldtv.lat:80/live/manuel20/manuel20/541534.ts
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://logo.m3uassets.com/telefe.png", Telefe HD1
+http://goldtv.lat:80/live/manuel20/manuel20/81285.ts
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://logo.m3uassets.com/telefe.png", Telefe HD2
+http://goldtv.lat:80/live/manuel20/manuel20/50510.ts
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://logo.m3uassets.com/telefe.png", Telefe FHD
+http://goldtv.lat:80/live/manuel20/manuel20/50521.ts
+#EXTINF:-1 tvg-id="TV Poblica" tvg-logo="https://logo.m3uassets.com/tvpublica.png", TV Publica HD
+http://goldtv.lat:80/live/manuel20/manuel20/81265.ts
+#EXTINF:-1 tvg-id="TV Poblica" tvg-logo="https://logo.m3uassets.com/tvpublica.png", TV Publica FHD
+http://goldtv.lat:80/live/manuel20/manuel20/81264.ts
+#EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://logo.m3uassets.com/eltrece.png", El Trece HD
+http://goldtv.lat:80/live/manuel20/manuel20/81269.ts
+#EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://logo.m3uassets.com/eltrece.png", El Trece FHD
+http://goldtv.lat:80/live/manuel20/manuel20/81266.ts
+#EXTINF:-1 tvg-id="Canal9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", Canal 9 SD
+http://goldtv.lat:80/live/manuel20/manuel20/81272.ts
+#EXTINF:-1 tvg-id="Canal9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", Canal 9 HD
+http://goldtv.lat:80/live/manuel20/manuel20/81271.ts
+#EXTINF:-1 tvg-id="Canal9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", Canal 9 FHD
+http://goldtv.lat:80/live/manuel20/manuel20/81270.ts
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://logo.m3uassets.com/a24.png", A24 SD
+http://goldtv.lat:80/live/manuel20/manuel20/81290.ts
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://logo.m3uassets.com/a24.png", A24 HD
+http://goldtv.lat:80/live/manuel20/manuel20/81289.ts
+#EXTINF:-1 tvg-id="Canal26" tvg-logo="https://logo.m3uassets.com/canal26.png", Canal 26 SD
+http://goldtv.lat:80/live/manuel20/manuel20/81317.ts
+#EXTINF:-1 tvg-id="Canal26" tvg-logo="https://logo.m3uassets.com/canal26.png", Canal 26 HD
+http://goldtv.lat:80/live/manuel20/manuel20/81310.ts
+#EXTINF:-1 tvg-id="ElTresRosario" tvg-logo="https://logo.m3uassets.com/eltres.png", El Tres HD (Rosario)
+#EXTINF:-1 tvg-id="TelefeRosario" tvg-logo="https://logo.m3uassets.com/teleferosario.png", Canal 5 Rosario
+#EXTINF:-1 tvg-id="TelefeRosario" tvg-logo="https://logo.m3uassets.com/teleferosario.png", Canal 5 Rosario P
+#EXTINF:-1 tvg-id="RTS" tvg-logo="https://logo.m3uassets.com/rts.png", RTS Santa Fe
+http://zapster.trapemn.tv:1935/zapster/rts/playlist.m3u8
+
+# --- NOTICIAS ---
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://logo.m3uassets.com/tn.png", TN Todo Noticias SD
+http://goldtv.lat:80/live/manuel20/manuel20/81325.ts
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://logo.m3uassets.com/tn.png", TN Todo Noticias HD
+http://goldtv.lat:80/live/manuel20/manuel20/81324.ts
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://logo.m3uassets.com/c5n.png", C5N HD
+http://goldtv.lat:80/live/manuel20/manuel20/81274.ts
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://logo.m3uassets.com/c5n.png", C5N FHD
+http://goldtv.lat:80/live/manuel20/manuel20/81273.ts
+#EXTINF:-1 tvg-id="CronicaTV" tvg-logo="https://logo.m3uassets.com/cronica.png", Crónica TV
+http://goldtv.lat:80/live/manuel20/manuel20/81268.ts
+#EXTINF:-1 tvg-id="LN+" tvg-logo="https://logo.m3uassets.com/ln.png", La Nación +
+http://goldtv.lat:80/live/manuel20/manuel20/81323.ts
+#EXTINF:-1 tvg-id="IP" tvg-logo="https://logo.m3uassets.com/ipnoticias.png", IP Noticias
+http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
+
+# --- DEPORTES ---
+
+#EXTINF:-1 tvg-id="TyCSports" tvg-logo="https://logo.m3uassets.com/tycsports.png", TyC Sports SD
+http://goldtv.lat:80/live/manuel20/manuel20/541533.ts
+#EXTINF:-1 tvg-id="TyCSports" tvg-logo="https://logo.m3uassets.com/tycsports.png", TyC Sports HD
+http://goldtv.lat:80/live/manuel20/manuel20/81253.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="https://logo.m3uassets.com/foxsports.png", Fox Sports 1 SD
+http://goldtv.lat:80/live/manuel20/manuel20/99837.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="https://logo.m3uassets.com/foxsports.png", Fox Sports 1 HD1
+http://goldtv.lat:80/live/manuel20/manuel20/50506.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="https://logo.m3uassets.com/foxsports.png", Fox Sports 1 HD2
+http://goldtv.lat:80/live/manuel20/manuel20/99836.ts
+#EXTINF:-1 tvg-id="FoxSports2" tvg-logo="https://logo.m3uassets.com/foxsports2.png", Fox Sports 2 SD
+http://goldtv.lat:80/live/manuel20/manuel20/144412.ts
+#EXTINF:-1 tvg-id="FoxSports2" tvg-logo="https://logo.m3uassets.com/foxsports2.png", Fox Sports 2 HD1
+http://goldtv.lat:80/live/manuel20/manuel20/100116.ts
+#EXTINF:-1 tvg-id="FoxSports2" tvg-logo="https://logo.m3uassets.com/foxsports2.png", Fox Sports 2 HD2
+http://goldtv.lat:80/live/manuel20/manuel20/50507.ts
+#EXTINF:-1 tvg-id="FoxSports3" tvg-logo="https://logo.m3uassets.com/foxsports3.png", Fox Sports 3 SD
+http://goldtv.lat:80/live/manuel20/manuel20/306176.ts
+#EXTINF:-1 tvg-id="FoxSports3" tvg-logo="https://logo.m3uassets.com/foxsports3.png", Fox Sports 3 HD1
+http://goldtv.lat:80/live/manuel20/manuel20/306175.ts
+#EXTINF:-1 tvg-id="FoxSports3" tvg-logo="https://logo.m3uassets.com/foxsports3.png", Fox Sports 3 HD2
+http://goldtv.lat:80/live/manuel20/manuel20/50508.ts
+#EXTINF:-1 tvg-id="TNTSports" tvg-logo="https://logo.m3uassets.com/tntsports.png", TNT Sports HD
+http://goldtv.lat:80/live/manuel20/manuel20/81251.ts
+#EXTINF:-1 tvg-id="TNTSports" tvg-logo="https://logo.m3uassets.com/tntsports.png", TNT Sports FHD
+http://goldtv.lat:80/live/manuel20/manuel20/81284.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://logo.m3uassets.com/espn.png", ESPN 1 4K
+http://goldtv.lat:80/live/manuel20/manuel20/316158.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://logo.m3uassets.com/espn.png", ESPN 1 HD
+http://goldtv.lat:80/live/manuel20/manuel20/81262.ts
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://logo.m3uassets.com/espn2.png", ESPN 2
+http://goldtv.lat:80/live/manuel20/manuel20/81258.ts
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://logo.m3uassets.com/espn3.png", ESPN 3
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://logo.m3uassets.com/espn4.png", ESPN 4
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium" tvg-logo="https://logo.m3uassets.com/espnpremium.png", ESPN Premium FHD
+http://goldtv.lat:80/live/manuel20/manuel20/149087.ts
+#EXTINF:-1 tvg-id="Dsports1" tvg-logo="https://logo.m3uassets.com/dsports.png",  DSports 1
+#EXTINF:-1 tvg-id="Dsports2" tvg-logo="https://logo.m3uassets.com/dsports2.png",   DSports 2 HD
+http://goldtv.lat:80/live/manuel20/manuel20/50725.ts
+#EXTINF:-1 tvg-id="Dsports2" tvg-logo="https://logo.m3uassets.com/dsports2.png",   DSports 2 HD2
+http://goldtv.lat:80/live/manuel20/manuel20/50726.ts
+#EXTINF:-1 tvg-id="Dsports+" tvg-logo="https://logo.m3uassets.com/dsportsplus.png",   DSports+ 
+http://goldtv.lat:80/live/manuel20/manuel20/54472.ts
+#EXTINF:-1 tvg-id="AmericaSports" tvg-logo="https://logo.m3uassets.com/americasports.png", America Sports
+http://zapster.trapemn.tv:1935/zapster-hls/americasports.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GarageTV" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_400x400.jpg", Garage TV
+http://goldtv.lat:80/live/manuel20/manuel20/81322.ts
+#EXTINF:-1 tvg-id="Cnardeportes" tvg-logo="https://logo.m3uassets.com/cnardeportes.png", cnardeportes
+http://zapster.trapemn.tv:1935/zapster-internet/cnardeportes/playlist.m3u8
+
+# --- PELICULAS Y SERIES ---
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://logo.m3uassets.com/studiouniversal.png", Studio Universal
+http://zapster.trapemn.tv:1935/zapster-hls/studiouniversal.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://logo.m3uassets.com/warner.png", Warner
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2666
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://logo.m3uassets.com/tnt.png", TNT HD
+http://promas.lat:2082/Williamcruz/Hskdy5e9/57187
+
+#EXTINF:-1 tvg-id="TNTSeries" tvg-logo="https://logo.m3uassets.com/tntseries.png", TNT-Series
+http://promas.lat:2082/Williamcruz/Hskdy5e9/57188
+
+#EXTINF:-1 tvg-id="TNTNovelas" tvg-logo="https://logo.m3uassets.com/tntnovelas.png", TNT-Novelas
+http://promas.lat:2082/Williamcruz/Hskdy5e9/57189
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://logo.m3uassets.com/space.png", Space
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2649
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://logo.m3uassets.com/cinemax.png", Cinemax
+http://promas.lat:2082/Williamcruz/Hskdy5e9/50833
+
+#EXTINF:-1 tvg-id="Universal" tvg-logo="https://logo.m3uassets.com/universal.png", Universal Chanel
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2665
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logo.m3uassets.com/comedycentral.png", Comedy Central
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2682
+
+#EXTINF:-1 tvg-id="Dreamworks Channel" tvg-logo="https://logo.m3uassets.com/dreamworkschannel.png", Dreamworks Channel
+http://zapster.trapemn.tv:1935/CD-LATAM/dreamworks.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Dreamworks Channel" tvg-logo="https://logo.m3uassets.com/dreamworkschannel.png", Dreamworks 24/7
+http://promas.lat:2082/Williamcruz/Hskdy5e9/49653
+#EXTINF:-1 tvg-id="StarChannel" tvg-logo="https://logo.m3uassets.com/starchannel.png", Star Channel
+http://zapster.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://logo.m3uassets.com/cinecanal.png", Cinecanal
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2622
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://logo.m3uassets.com/fx.png", FX
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2636
+
+#EXTINF:-1 tvg-id="CineAr" tvg-logo="https://logo.m3uassets.com/cinear.png", Cine.AR
+http://promas.lat:2082/Williamcruz/Hskdy5e9/49062
+
+#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://logo.m3uassets.com/hbo.png", HBO
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2642
+
+#EXTINF:-1 tvg-id="Hbo 2" tvg-logo="https://logo.m3uassets.com/hbo2.png", HBO 2
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2643
+
+#EXTINF:-1 tvg-id="HboPop" tvg-logo="https://logo.m3uassets.com/hbopop.png", HBO Pop
+http://promas.lat:2082/Williamcruz/Hskdy5e9/30416
+
+#EXTINF:-1 tvg-id="Hbo Family" tvg-logo="https://logo.m3uassets.com/hbofamily.png", HBO Family
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2644
+
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-logo="https://logo.m3uassets.com/hbomundi.png", HBO Mundi
+
+#EXTINF:-1 tvg-id="Hbo plus" tvg-logo="https://logo.m3uassets.com/hbo.png", HBO Plus
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2645
+
+#EXTINF:-1 tvg-id="Hbo Signature" tvg-logo="https://logo.m3uassets.com/hbosignature.png", HBO Signature
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2646
+
+#EXTINF:-1 tvg-id="HboXtreme" tvg-logo="https://logo.m3uassets.com/hboxtreme.png", HBO Extreme
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2695
+
+#EXTINF:-1 tvg-id="cineaccion" tvg-logo="https://logo.m3uassets.com/cineaccion.png", Cineaccion
+http://promas.lat:2082/Williamcruz/Hskdy5e9/51765
+
+# --- INFANTILES ---
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png", Cartoon Network
+http://promas.lat:2082/Williamcruz/Hskdy5e9/48374
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png", Nickelodeon
+http://promas.lat:2082/Williamcruz/Hskdy5e9/42923
+
+#EXTINF:-1 tvg-id="NickJr" tvg-logo="https://logo.m3uassets.com/nickjr.png", Nick Junior
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2478
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://logo.m3uassets.com/cartoonito.png", Cartoonito
+http://promas.lat:2082/Williamcruz/Hskdy5e9/47838
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://logo.m3uassets.com/tooncast.png", Tooncast
+http://promas.lat:2082/Williamcruz/Hskdy5e9/30603
+
+#EXTINF:-1 tvg-id="AdultSwim" tvg-logo="https://logo.m3uassets.com/adultswim.png", Adult Swim
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2449
+
+#EXTINF:-1 tvg-id="PakaPaka" tvg-logo="https://logo.m3uassets.com/pakapaka.png", Paka Paka
+http://promas.lat:2082/Williamcruz/Hskdy5e9/2480
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://logo.m3uassets.com/disneychannel.png", Disney Channel
+http://promas.lat:2082/Williamcruz/Hskdy5e9/30366
+
+#EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://logo.m3uassets.com/disneyjr.png", Disney Jr
+http://promas.lat:2082/Williamcruz/Hskdy5e9/48375
+
+#EXTINF:-1 tvg-id="Xtremaretrocartoons" tvg-logo="https://logo.m3uassets.com/xtremaretrocartoons.png", xtremaretrocartoons
+http://zapster.trapemn.tv:1935/zapster-internet/xtremaretrocartoons/playlist.m3u8
+
+# --- MUSICA ---
+#EXTINF:-1 tvg-id="HTV" tvg-logo="https://logo.m3uassets.com/htv.png", HTV
+http://zapster.trapemn.tv:1935/CD-LATAM/HTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MixMusic" tvg-logo="https://logo.m3uassets.com/mixmusic.png", Mix Music Channel
+http://zapster.trapemn.tv:1935/zapster/mixmusicchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaNuevaTV" tvg-logo="https://logo.m3uassets.com/lanuevatv.png", La Nueva TV
+http://zapster.trapemn.tv:1935/CD-LATAM/lanuevatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TropicalMoon" tvg-logo="https://logo.m3uassets.com/tropicalmoon.png", Tropical Moon
+http://zapster.trapemn.tv:1935/CD-LATAM/tropicalmoon.stream/playlist.m3u8
+
+# --- RADIOS (VIDEO/AUDIO) ---
+#EXTINF:-1 tvg-id="RadioBoing" tvg-logo="https://logo.m3uassets.com/boing.png", Radio Boing
+http://zapster.trapemn.tv:1935/radio/radioboing.stream/playlist.m3u8
+
+# --- DOCUMENTALES / VARIEDADES ---
+
+
+#EXTINF:-1 tvg-id="CineAR" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg", CineAR
+http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://logo.m3uassets.com/tcm.png", TCM
+http://zapster.trapemn.tv:1935/CD-LATAM/TCM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://logo.m3uassets.com/telemundo.png", Telemundo
+http://zapster.trapemn.tv:1935/CD-LATAM/telemundo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://logo.m3uassets.com/natgeo.png", Nat Geo
+http://zapster.trapemn.tv:1935/CD-LATAM/natgeo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://logo.m3uassets.com/encuentro.png", Canal Encuentro
+http://zapster.trapemn.tv:1935/zapster-hls/encuentro.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TecTV" tvg-logo="https://logo.m3uassets.com/tectv.png", Tec TV
+zapster.trapemn.tv:1935/zapster-hls/TecTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNEspanol" tvg-logo="https://logo.m3uassets.com/cnnenespanol.png", CNN en Español
+http://zapster.trapemn.tv:1935/CD-LATAM/CNN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol" tvg-logo="https://logo.m3uassets.com/dw.png", DW Español
+http://zapster.trapemn.tv:1935/zapster-internet/dw_es/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telesur" tvg-logo="https://logo.m3uassets.com/telesur.png", TeleSur Español
+http://zapster.trapemn.tv:1935/zapster-hls/telesur.stream/playlist.m3u8
+
+# --- 24/7 ---
+
+#EXTINF:-1 tvg-name="El chavo del 8" tvg-logo="https://logo.m3uassets.com/elchavodel8.png", El chavo del 8
+http://tv.zeuspro.xyz:8080/live/pastorgabrielquiroga/PyJLdLH366/166082.ts
+
+#EXTINF:-1 tvg-name="El chapulin colorado" tvg-logo="https://logo.m3uassets.com/chapulincolorado.png", El chapulin colorado
+http://tv.zeuspro.xyz:8080/live/pastorgabrielquiroga/PyJLdLH366/165887.ts
+
+
+
+
+# --- INTERNACIONALES ---
+
+
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://logo.m3uassets.com/france24.png", France 24 (ES)
+http://zapster.trapemn.tv:1935/zapster-internet/france24_es/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24EN" tvg-logo="https://logo.m3uassets.com/france24.png", France 24 (EN)
+http://zapster.trapemn.tv:1935/zapster-internet/france24_ingles/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTEspañol" tvg-logo="https://logo.m3uassets.com/rtenespanol.png", RT Español
+http://zapster.trapemn.tv:1935/zapster-internet/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTinternacional" tvg-logo="https://logo.m3uassets.com/rteningles.png", RT Internacional
+http://zapster.trapemn.tv:1935/CD-LATAM/rt_internacional.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OndaDigital" tvg-logo="https://logo.m3uassets.com/ondadigital.png", Onda Digital
+http://zapster.trapemn.tv:1935/CD-LATAM/ondadigital.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="argentinisima satelital" tvg-logo="https://logo.m3uassets.com/argentinisima.png", Argentinisima satelital
+http://zapster.trapemn.tv:1935/zapster-internet/argentinisima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://logo.m3uassets.com/ciudadmagazine.png", Ciudad Magazine
+http://zapster.trapemn.tv:1935/zapster-hls/ciudadmagazine.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EEntertainment" tvg-logo="https://logo.m3uassets.com/eentertainment.png", E! Entertainment
+http://zapster.trapemn.tv:1935/CD-LATAM/Entertainment/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SilverChannel" tvg-logo="https://logo.m3uassets.com/silver.png", Silver Channel
+http://zapster.trapemn.tv:1935/zapster-hls/silverchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cnc Medillin" tvg-logo="https://logo.m3uassets.com/cncmedellin.png", CNC Medellin
+http://zapster.trapemn.tv:1935/CD-LATAM/cncmedellin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EEntertainment" tvg-logo="https://logo.m3uassets.com/clicktv.png", Click tv
+http://zapster.trapemn.tv:1935/CD-LATAM/clicktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UCL" tvg-logo="https://logo.m3uassets.com/ucl.png", UCL TV
+http://zapster.trapemn.tv:1935/CD-LATAM/clicktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuramTV" tvg-logo="https://logo.m3uassets.com/suramtv.png", Suram TV
+http://zapster.trapemn.tv:1935/CD-LATAM/suramtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vpitv" tvg-logo="https://logo.m3uassets.com/vpitv.png", Vptv
+http://zapster.trapemn.tv:1935/CD-LATAM/vpitv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeruGo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFzjjHk8yveQkPZgjnKYGNLhTYUSa_f5zaQ&s", Peru Go
+http://zapster.trapemn.tv:1935/internacional/perugo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carioca" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3633-800x450-FFFFFF.jpg", Carioca Internacional
+http://zapster.trapemn.tv:1935/live/cariocainternacional/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aunar" tvg-logo="https://logo.m3uassets.com/aunar.png", Aunar
+http://zapster.trapemn.tv:1935/zapster-hls/Aunar.stream/playlist.m3u8
+
+
+
+# --- RELIGIOSOS ---
+
+
+#EXTINF:-1 tvg-id="CanalE" tvg-logo="https://static.wixstatic.com/media/4a1650_27ed1317a00f4f57920363e0f6cf2eb4~mv2.webp/v1/fill/w_479,h_600,al_c,lg_1,q_80,enc_avif,quality_auto/4a1650_27ed1317a00f4f57920363e0f6cf2eb4~mv2.webp", Canal E
+http://zapster.trapemn.tv:1935/zapster-hls/CanalE.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CN23" tvg-logo="https://logo.m3uassets.com/cn23.png", CN23
+http://zapster.trapemn.tv:1935/zapster-hls/CN23.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalLuz" tvg-logo="https://logo.m3uassets.com/canalluz.png", Canal Luz
+http://zapster.trapemn.tv:1935/CD-LATAM/canalluz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NativaTV" tvg-logo="https://logo.m3uassets.com/nativa.png", Nativa TV
+http://zapster.trapemn.tv:1935/CD-LATAM/nativa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NuevoTiempo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuz6N9KkBYoz2m6eNErj3YnYEk4AY9TG3P5a4GhfFf2HgIZko3xQWHrcg&s=10", Nuevo Tiempo
+http://zapster.trapemn.tv:1935/CD-LATAM/nuevotiempo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN" tvg-logo="https://logo.m3uassets.com/ewtn.png", EWTN
+http://zapster.trapemn.tv:1935/CD-LATAM/ewtn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SophiaTV" tvg-logo="https://logo.m3uassets.com/sophiatv.png", Sophia TV
+http://zapster.trapemn.tv:1935/CD-LATAM/sophiatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Enlace" tvg-logo="https://logo.m3uassets.com/enlace.png", Enlace
+http://zapster.trapemn.tv:1935/CD-LATAM/enlace.stream/playlist.m3u8
