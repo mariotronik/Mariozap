@@ -163,20 +163,19 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbo2/output.mpd
 #EXTINF:-1 tvg-id="HboPop" tvg-logo="https://logo.m3uassets.com/hbopop.png", HBO Pop
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbopop/output.mpd
 
-#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://logo.m3uassets.com/hbofamily.png", HBO Family
-https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/output.mpd
+#EXTINF:-1 tvg-id="Hbo Family" tvg-logo="https://logo.m3uassets.com/hbofamily.png", HBO Family
 
-#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://logo.m3uassets.com/hbo.png", HBO
-https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd
 
-#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://logo.m3uassets.com/hbo.png", HBO Plus
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-logo="https://logo.m3uassets.com/hbomundi.png", HBO
+
+
+#EXTINF:-1 tvg-id="Hbo Plus" tvg-logo="https://logo.m3uassets.com/hboplus.png", HBO Plus
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hboplus/output.mpd
 
 #EXTINF:-1 tvg-id="Hbo Signature" tvg-logo="https://logo.m3uassets.com/hbosignature.png", HBO Signature
-https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
 #EXTINF:-1 tvg-id="HboXtreme" tvg-logo="https://logo.m3uassets.com/hboxtreme.png", HBO Extreme
-https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
+
 
 #EXTINF:-1 tvg-id="cineaccion" tvg-logo="https://logo.m3uassets.com/cineaccion.png", Cineaccion
 http://zapster.trapemn.tv:1935/zapster-internet/cineaccion/playlist.m3u8
