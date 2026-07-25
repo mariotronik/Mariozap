@@ -5,11 +5,15 @@
 http://zapster.trapemn.tv:1935/Zapster/AmericaTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaTV" tvg-logo="https://logo.m3uassets.com/america.png", América TV P
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/america/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA TV
+http://31.43.191.125:8080/VIP016791749981058488/38905ffedbc8/4723
 
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="https://logo.m3uassets.com/telefe.png", Telefe HD
 http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://logo.m3uassets.com/telefe.png", Telefe HD
-https://regionales.saohgdasregions.fun/tvporinternet.php?stream=3_
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEFE
+http://31.43.191.125:8080/VIP016791749981058488/38905ffedbc8/4807
+
 #EXTINF:-1 tvg-id="TV Poblica" tvg-logo="https://logo.m3uassets.com/tvpublica.png", TV Publica HD
 http://zapster.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
 
@@ -94,11 +98,24 @@ http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium" tvg-logo="https://logo.m3uassets.com/espnpremium.png", ESPN Premium HD
 http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: ESPN PREMIUM
+http://31.43.191.125:8080/VIP016791749981058488/38905ffedbc8/4828
+
 #EXTINF:-1 tvg-id="Dsports1" tvg-logo="https://logo.m3uassets.com/dsports.png",  DSports 1
 http://zapster.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dsports2" tvg-logo="https://logo.m3uassets.com/dsports2.png",   DSports 2
 http://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS
+http://31.43.191.125:8080/VIP016791749981058488/38905ffedbc8/4748
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS +
+http://31.43.191.125:8080/VIP016791749981058488/38905ffedbc8/4749
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS 2
+http://31.43.191.125:8080/VIP016791749981058488/38905ffedbc8/4750
+
 
 #EXTINF:-1 tvg-id="AmericaSports" tvg-logo="https://logo.m3uassets.com/americasports.png", America Sports
 http://zapster.trapemn.tv:1935/zapster-hls/americasports.stream/playlist.m3u8
@@ -164,7 +181,7 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbo2/output.mpd
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbopop/output.mpd
 
 #EXTINF:-1 tvg-id="Hbo Family" tvg-logo="https://logo.m3uassets.com/hbofamily.png", HBO Family
-
+http://31.43.191.125:8080/VIP016791749981058488/38905ffedbc8/4776
 
 #EXTINF:-1 tvg-id="Hbo Mundi" tvg-logo="https://logo.m3uassets.com/hbomundi.png", HBO
 
@@ -173,6 +190,7 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbopop/output.mpd
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hboplus/output.mpd
 
 #EXTINF:-1 tvg-id="Hbo Signature" tvg-logo="https://logo.m3uassets.com/hbosignature.png", HBO Signature
+http://31.43.191.125:8080/VIP016791749981058488/38905ffedbc8/4777
 
 #EXTINF:-1 tvg-id="HboXtreme" tvg-logo="https://logo.m3uassets.com/hboxtreme.png", HBO Extreme
 
