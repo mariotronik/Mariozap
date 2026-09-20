@@ -179,7 +179,7 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbo/output.mpd
 #EXTINF:-1 tvg-id="Hbo 2" tvg-logo="https://logo.m3uassets.com/hbo2.png", HBO 2
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbo2/output.mpd
 
-#EXTINF:-1 tvg-id="Hbo 2p" tvg-logo="https://logo.m3uassets.com/hbo2.png", HBO 2
+#EXTINF:-1 tvg-id="Hbo 2p" tvg-logo="https://logo.m3uassets.com/hbo2.png", HBO 2p
 http://apps2026.online/nuevorqtvn/rqtvpro.php?p=NTE2IExBVDogSEJPIDI=&t=p&f=.m3u8
 
 
