@@ -188,7 +188,7 @@ http://apps2026.online/nuevorqtvn/rqtvpro.php?p=NTE2IExBVDogSEJPIDI=&t=p&f=.m3u8
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbopop/output.mpd
 
 #EXTINF:-1 tvg-id="Hbo Family" tvg-logo="https://logo.m3uassets.com/hbofamily.png", HBO Family
-https://go.iptvhn.net:25461/live/7151/71512023/3366.m3u8
+http://go.iptvhn.net:25461/live/7151/71512023/3366.m3u8
 
 #EXTINF:-1 tvg-id="Hbo Mundi" tvg-logo="https://logo.m3uassets.com/hbomundi.png", HBO
 
@@ -200,7 +200,7 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hboplus/output.mpd
 http://31.43.191.125:8080/VIP016791749981058488/38905ffedbc8/4777
 
 #EXTINF:-1 tvg-id="HboXtreme" tvg-logo="https://logo.m3uassets.com/hboxtreme.png", HBO Extreme
-https://go.iptvhn.net:25461/live/7151/71512023/3367.m3u8
+http://go.iptvhn.net:25461/live/7151/71512023/3367.ts
 
 #EXTINF:-1 tvg-id="cineaccion" tvg-logo="https://logo.m3uassets.com/cineaccion.png", Cineaccion
 http://zapster.trapemn.tv:1935/zapster-internet/cineaccion/playlist.m3u8
