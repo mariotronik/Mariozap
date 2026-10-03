@@ -18,7 +18,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playli
 #EXTINF:-1 tvg-id="CRONICA TV.ar"" tvg-name="Crónica TV" group-title="argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", CRÓNICA TV
 http://zapster.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="argentina",C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N.ar" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="argentina",C5N
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/CD-LATAM/C5NHD.stream/playlist.m3u8
 
