@@ -295,7 +295,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=3548007396&_cdn_token=cbb27b2855f35594ccf5c076feb0a554aca58770
 
 
-#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png"  group-title="Cine y Series",FX
+#EXTINF:-1 tvg-id="fx_peru" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png"  group-title="Cine y Series",FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=3534419949&_cdn_token=bac12bbb4231517533cc4ecabd6d669cce58fbd8
 
@@ -336,35 +336,35 @@ http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO 2.ar" tvg-name="HBO 2" CUID="69" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="Cine y Series",HBO 2
+#EXTINF:-1 tvg-id="hbo_2_latinoamerica" tvg-name="HBO 2" CUID="69" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="Cine y Series",HBO 2
 http://38.52.208.106:8000/play/a00l/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO PLUS.ar" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="Cine y Series",HBO +
+#EXTINF:-1 tvg-id="hbo_plus" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="Cine y Series",HBO +
 http://45.5.117.46:8000/play/a0l4/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO POP.ar" tvg-name="HBO Pop" tvg-logo="https://i.postimg.cc/q775tmnF/HBO_POP.png" group-title="Cine y Series",HBO POP
+#EXTINF:-1 tvg-id="hbo_pop" tvg-name="HBO Pop" tvg-logo="https://i.postimg.cc/q775tmnF/HBO_POP.png" group-title="Cine y Series",HBO POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://152.231.27.82:45000/play/a099/index.m3u8
 
 
 
 
-#EXTINF:0 tvg-id="HBO XTREME.ar" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="Cine y Series",HBO XTREME
+#EXTINF:0 tvg-id="hbo_xtreme" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="Cine y Series",HBO XTREME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="Cine y Series",HBO FAMILY
+#EXTINF:-1 tvg-id="hbo_family_latinoamerica" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="Cine y Series",HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="Cine y Series",HBO SIGNATURE
+#EXTINF:-1 tvg-id="hbo_signature_latinoamerica" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="Cine y Series",HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/playlist.m3u8
 
@@ -379,7 +379,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENEDGE_stream_wi&_cdn_session=3547942820&_cdn_token=6b645c7b28721da09903a14760bf495bef5ef63b
 
 
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="Cine y Series",GOLDEN PLUS
+#EXTINF:-1 tvg-id="golden_plus" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="Cine y Series",GOLDEN PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
@@ -392,12 +392,12 @@ http://181.209.38.115:8000/play/a016/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SONY MOVIES.ar" tvg-name="SONY CINE" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE
+#EXTINF:-1 tvg-id="space_chile" tvg-name="SONY CINE" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SPACE.ar" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE
+#EXTINF:-1 tvg-id="space_argentina" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/SPACE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSPACE_stream_sa&_cdn_session=3547908548&_cdn_token=f9a23be0c2a7d94561f987278c5292f3117d25e1
 
