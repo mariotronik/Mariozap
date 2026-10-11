@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",001 MX: La Granja Vip / La Granja Vip - La Gala 8:30PM - Azteca Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MDAxIE1YOiBMYSBHcmFuamEgVmlwIC8gTGEgR3JhbmphIFZpcCAtIExhIEdhbGEgODozMFBNIC0gQXp0ZWNhIFVubw==&t=p&f=.m3u8
 
 #EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",001 MX: La Granja Vip / La Granja Vip - 24X7 Opcion 1 - Purple 5
