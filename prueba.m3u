@@ -4,6 +4,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MDAxIE1YOiBMYSBHcmFuamEgVmlwIC8gTGEgR3JhbmphIFZpcCAtIExhIEdhbGEgODozMFBNIC0gQXp0ZWNhIFVubw==&t=p&f=.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e 81:cc4aae173dd2ef17ae26be3f7ae87662 #EXTINF:-1 tvg-id="mov-TVPUBLICA.ar" tvg-name="mov-TVPUBLICA.ar" tvglogo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP .png?raw=true" group-title="ARGENTINA 1" tvg-chno="1" type="channel",TV PUBLICA #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"} #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14) https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mp d?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.a r https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Ca nal7.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flo w.com.ar https://cdn.cvattv.com.ar/live/c4eds/Canal7/SA_Live_dash_cenc/Canal7.mpd? |referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 #EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",001 MX: La Granja Vip / La Granja Vip - 24X7 Opcion 1 - Purple 5
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MDAxIE1YOiBMYSBHcmFuamEgVmlwIC8gTGEgR3JhbmphIFZpcCAtIDI0WDcgT3BjaW9uIDEgLSBQdXJwbGUgNQ==&t=p&f=.m3u8
 
