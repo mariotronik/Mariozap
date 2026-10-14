@@ -1,0 +1,6 @@
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#EXTINF:-1 tvg-id="mov-TVPUBLICA.ar" tvg-name="mov-TVPUBLICA.ar" tvglogo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="ARGENTINA 1" tvg-chno="1",TV PUBLICA
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
