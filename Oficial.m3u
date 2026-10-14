@@ -348,7 +348,10 @@ http://45.5.117.46:8000/play/a0l4/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://152.231.27.82:45000/play/a099/index.m3u8
 
-
+#EXTINF:-1 tvg-id="hbo_Mundi" tvg-name="HBO MUNDI" tvg-logo="https://logo.m3uassets.com/hbomundi.png" group-title="Cine y Series",HBO MUNDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=NTE5IExBVDogSEJPIE11bmRp&t=p&f=.m3u8
+https://enc2.firemedia.mx/hls/hbomundi.m3u8?st=WTeLGqWbB-bjKVsrEeMfxg&e=1792020164
 
 
 #EXTINF:0 tvg-id="hbo_xtreme" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="Cine y Series",HBO XTREME
