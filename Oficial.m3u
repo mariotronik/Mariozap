@@ -29,7 +29,7 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 
 
 
-#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-name="LA NACION+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="argentina",LN+
+#EXTINF:-1 tvg-id="LA NACION+ AR" tvg-name="LA NACION+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="argentina",LN+
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://zapster.trapemn.tv:1935/CD-LATAM/LaNacionPlusHD.stream/playlist.m3u8
 
@@ -99,15 +99,25 @@ http://181.209.38.115:8000/play/a00f/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes", TNT SPORTS 
+#EXTINF:-1 tvg-id="mov-TNTSPORTSPREMIUM.ar" tvg-name="mov-TNTSPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png" group-title="DEPORTES 1" tvg-chno="24" type="channel",TNT SPORTS PREMIUM
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv
 http://zapster.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes", TNT SPORTS opc2
-#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-id="mov-TNTSPORTSPREMIUM.ar" tvg-name="mov-TNTSPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png" group-title="DEPORTES 1" tvg-chno="24" type="channel",TNT SPORTS PREMIUM OPC 2
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#HTTP-REFERER=https://zapster.trapemn.tv/
+#HTTP-ORIGIN=https://zapster.trapemn.tv
 http://zapster.trapemn.tv:1935/zapster/TNT_Sports.stream/playlist.m3u8
 
  
