@@ -2,39 +2,57 @@
 
 
 
-#EXTINF:-1 tvg-id="VOLVER.ar" tvg-name="VOLVER.ar" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="argentina",VOLVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
+#EXTINF:-1 tvg-id="mov-Volver.ar" tvg-name="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="ARGENTINA 1" tvg-chno="105" type="channel",VOLVER
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 http://181.209.38.115:8000/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" tvg-id="CNN ESPAÑOL.ar" group-title="Noticias",CNN ESPAÑOL
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTINF:-1 tvg-id="mov-CNNENESPAÑOL.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="NOTICIAS 2" tvg-chno="702",CNN EN ESPAÑOL
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=3534428829&_cdn_token=9e7ae6b8e5299c9cfb2e5aabb223b96fa4a5720c
 
 
-#EXTINF:-1 CUID="205" tvg-id="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="argentina", AR|12
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTINF:-1 tvg-id="mov-IPnoticias.ar" tvg-name="mov-IPnoticias.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG3mcjZehFi_EyIFDbh6RaIkuECroIrsHvwMQdQo6_tN7Y9uB3H4f8coJDitgeb43n5hXsngdWrwLCkQlsjAGt0q6TVylCYJ4S8hFsxgWzX7-mnYgHlLq2T6Ba7LRL_EZmhQNU2wGrr5ehrI0zdC1vybqiUI_ejYOk6YT2RsmLrpU3b5pg1L4itFQ8Ls/s1170/ar12.jpg" group-title="NOTICIAS 2" tvg-chno="721" type="channel",AR 12
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3feecb729a34e7cb0123c25dd890362:a0ce3b8a17ccfb82f7eef4d65710d0f0
 http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8  
 
 
-#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-name="Crónica TV" group-title="argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", CRÓNICA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+#EXTINF:-1 tvg-id="CRONICA TV AR" tvg-name="CRONICA TV AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="NOTICIAS 1" tvg-chno="16" type="channel", CRONICA
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 http://zapster.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N.ar" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="argentina",C5N
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+#EXTINF:-1 tvg-id="C5N AR" tvg-name="C5N AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="NOTICIAS 1" tvg-chno="17" type="channel",C5N
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 http://zapster.trapemn.tv:1935/CD-LATAM/C5NHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="argentina",A24
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+#EXTINF:-1 tvg-id="A24 AR" tvg-name="A24 AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="NOTICIAS 1" tvg-chno="19" type="channel",A24
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 
-
-#EXTINF:-1 tvg-id="LA NACION+ AR" tvg-name="LA NACION+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="argentina",LN+
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe293077debe4a0fade37236ce206985:5e0bd293419aef9e467b33ec3a48208f
+#EXTINF:-1 tvg-id="mov-LANACION+.ar" tvg-name="mov-LANACION+.ar" tvg-logo="https://static.flow.com.ar/images/1081/CH_LOGO/60/40/0/0/30427098073644.png" group-title="NOTICIAS 2" tvg-chno="715" type="channel",LA NACION +
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 http://zapster.trapemn.tv:1935/CD-LATAM/LaNacionPlusHD.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Canal 26.ar" tvg-name="CANAL 26" CUID="10" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343427/vhidvtxodaxhsijzvbok.png" group-title="argentina",CANAL 26
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe293077debe4a0fade37236ce206985:5e0bd293419aef9e467b33ec3a48208f
+#EXTINF:-1 tvg-id="mov-Canal26.ar" tvg-name="mov-Canal26.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" group-title="NOTICIAS 2" tvg-chno="720" type="channel",CANAL 26
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
