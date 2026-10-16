@@ -71,19 +71,28 @@ http://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-name="TELEFE OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20181121184402" group-title="Argentina",TELEFE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 tvg-id="mov-Telefe.ar" tvg-name="mov-TELEFE.ar" tvg-logo="http://terraplay.serveftp.com:80/images/6vVC8oR2k5TsloUBRMP8B6s6UXYRYZQFfoXftBNB-n6_qNO575k_H78wdAGFQyHkVlbcMmCGvvkYNwVmPUjxYg.png" group-title="ARGENTINA 1" tvg-chno="3" type="channel",TELEFE
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-name="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20181121184402" group-title="Argentina",TELEFE opc2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 tvg-id="mov-Telefe.ar" tvg-name="mov-TELEFE.ar" tvg-logo="http://terraplay.serveftp.com:80/images/6vVC8oR2k5TsloUBRMP8B6s6UXYRYZQFfoXftBNB-n6_qNO575k_H78wdAGFQyHkVlbcMmCGvvkYNwVmPUjxYg.png" group-title="ARGENTINA 1" tvg-chno="3" type="channel",TELEFE opc2
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://181.209.38.115:8000/play/a00p/index.m3u8?hls
+http://181.209.38.115:8000/play/a00p/index.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="argentina",TN 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#EXTINF:-1 tvg-id="TN AR" tvg-name="TN AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="NOTICIAS 1" tvg-chno="14" type="channel",TN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
