@@ -4,16 +4,16 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
-#EXTINF:-1 tvg-id="mov-Volver.ar" tvg-name="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="ARGENTINA 1" tvg-chno="105" type="channel",VOLVER
+#EXTINF:-1 tvg-id="mov-Volver.ar" tvg-name="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="ARGENTINA 1" tvg-chno="01" type="channel",VOLVER
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-http://181.209.38.115:8000/play/a02r/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 
-#EXTINF:-1 tvg-id="mov-CNNENESPAÑOL.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="NOTICIAS 2" tvg-chno="702",CNN EN ESPAÑOL
+#EXTINF:-1 tvg-id="mov-CNNENESPAÑOL.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="NOTICIAS 2" tvg-chno="02",CNN EN ESPAÑOL
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=3534428829&_cdn_token=9e7ae6b8e5299c9cfb2e5aabb223b96fa4a5720c
 
 
-#EXTINF:-1 tvg-id="mov-IPnoticias.ar" tvg-name="mov-IPnoticias.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG3mcjZehFi_EyIFDbh6RaIkuECroIrsHvwMQdQo6_tN7Y9uB3H4f8coJDitgeb43n5hXsngdWrwLCkQlsjAGt0q6TVylCYJ4S8hFsxgWzX7-mnYgHlLq2T6Ba7LRL_EZmhQNU2wGrr5ehrI0zdC1vybqiUI_ejYOk6YT2RsmLrpU3b5pg1L4itFQ8Ls/s1170/ar12.jpg" group-title="NOTICIAS 2" tvg-chno="721" type="channel",AR 12
+#EXTINF:-1 tvg-id="mov-IPnoticias.ar" tvg-name="mov-IPnoticias.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG3mcjZehFi_EyIFDbh6RaIkuECroIrsHvwMQdQo6_tN7Y9uB3H4f8coJDitgeb43n5hXsngdWrwLCkQlsjAGt0q6TVylCYJ4S8hFsxgWzX7-mnYgHlLq2T6Ba7LRL_EZmhQNU2wGrr5ehrI0zdC1vybqiUI_ejYOk6YT2RsmLrpU3b5pg1L4itFQ8Ls/s1170/ar12.jpg" group-title="NOTICIAS 2" tvg-chno="03" type="channel",AR 12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3feecb729a34e7cb0123c25dd890362:a0ce3b8a17ccfb82f7eef4d65710d0f0
 http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8  
@@ -21,7 +21,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playli
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 tvg-id="CRONICA TV AR" tvg-name="CRONICA TV AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="NOTICIAS 1" tvg-chno="16" type="channel", CRONICA
+#EXTINF:-1 tvg-id="CRONICA TV AR" tvg-name="CRONICA TV AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="NOTICIAS 1" tvg-chno="04" type="channel", CRONICA
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 http://zapster.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
@@ -122,7 +122,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes" ,ESPN PREMIUM opc2
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
-http://181.209.38.115:8000/play/a00f/index.m3u8?hls
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 
 
@@ -391,9 +391,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
 http://38.52.208.106:8000/play/a00l/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="Cine y Series",HBO +
-http://45.5.117.46:8000/play/a0l4/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+#EXTINF:-1 tvg-id="tcc-HBOPlus.uy" tvg-name="HBO Plus" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="CINE 1" tvg-chno="72" type="channel",HBO PLUS
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP.pe" tvg-name="HBO Pop" tvg-logo="https://i.postimg.cc/q775tmnF/HBO_POP.png" group-title="Cine y Series",HBO POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
