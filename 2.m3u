@@ -365,24 +365,29 @@ http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports2/playlist.m3u8
 http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports3/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Deportes",DSPORTS 
+#EXTINF:-1 tvg-id="CH0100000000021.uy" tvg-name="CH0100000000021.uy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DEPORTES 2" tvg-chno="610.2",DSPORTS
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Deportes",DSPORTS opc2
+
+#EXTINF:-1 tvg-id="CH0100000000021.uy" tvg-name="CH0100000000021.uy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DEPORTES 2" tvg-chno="610.2",DSPORTS opc2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://ablklrzaaaaaaaamjp7szxdgfshgz.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Deportes",DSPORTS opc3
+#EXTINF:-1 tvg-id="CH0100000000021.uy" tvg-name="CH0100000000021.uy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DEPORTES 2" tvg-chno="610.2",DSPORTS opc3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
 http://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 
-#EXTINF:-1 tvg-id="DSPORTS 2.ar" tvg-name="DSPORTS 2" CUID="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiktAFCC_ySIgpwL8hFBAV9X9Bcl9Sfut6gJzTtdGAArduq-IoSOMFY15zFJY6kMHer-JllZUl5yzaj9jVNsd3TmVBu_NF2VaCoa4PV01qhjJIv7MryXXjWKmRO6pb4cDrnAvQLXHZYyf6GONC3oPhFkite9-ZHyXXmKw_F1rYTz_L0KlQ-UFUU3BS1wQ/s200/DSports_2_2022.webp" group-title="Deportes", DSPORTS 2
+#EXTINF:-1 tvg-id="CH010000000128.uy" tvg-name="CH010000000128.uy" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Deportes", DSPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -391,38 +396,36 @@ http://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd 
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="Deportes", DSPORTS +
+#EXTINF:-1 tvg-id="CH0100000000139.uy" tvg-name="CH0100000000139.uy" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Deportes", DSPORTS +
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 http://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DISNEY CHANNEL.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/CD-LATAM/DisneyChannelHD.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil", DISNEY JR
+#EXTINF:-1 tvg-id="DISNEY JUNIOR.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil", DISNEY JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-hls/disney_jr.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Infantil", NICKELODEON 
+#EXTINF:-1 tvg-id="nickelodeon_peru" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Infantil", NICKELODEON 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://zapster.trapemn.tv:1935/CD-LATAM/Nickelodeon/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Infantil", NICK jr
+#EXTINF:-1 tvg-id="nick_jr_peru" tvg-name="Nick" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Infantil", NICK jr
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 http://zapster.trapemn.tv:1935/Zapster/Nick_Junior.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Infantil",CARTOON NETWORK 
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Infantil",CARTOON NETWORK 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/BTYC_Sports/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", CARTOONITO
@@ -430,16 +433,16 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9nMcbT7/Fondo_Oscuro.png" group-title="Infantil",PAKAPAKA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36  
 http://zapster.trapemn.tv:1935/zapster-hls/PakaPaka.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://static.wikia.nocookie.net/plim-plim-tv/images/4/4b/Large.ElCanaldelPayasoPlimPlim%282023-%29.png.86c6cbf2fc741312e0c244f84eec14e6.png/revision/latest/scale-to-width-down/276?cb=20250906030459" group-title="INFANTILES", Plim Plim TV
+#EXTINF:-1 tvg-id="Plim Plim.ar" tvg-name="Plim Plim TV" tvg-logo="https://static.wikia.nocookie.net/plim-plim-tv/images/4/4b/Large.ElCanaldelPayasoPlimPlim%282023-%29.png.86c6cbf2fc741312e0c244f84eec14e6.png/revision/latest/scale-to-width-down/276?cb=20250906030459" group-title="INFANTILES", Plim Plim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLIMPLIM_stream_63&_cdn_session=3548004412&_cdn_token=6b1997c94aaae5a3cc0a2bcd97297b0eb1ccccc6
 
 
-#EXTINF:-1 CUID="244" tvg-name="Tooncast" tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
+#EXTINF:-1 CUID="244" tvg-id="TOONCAST.ar" tvg-name="Tooncast" tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOONCAST_stream_ot&_cdn_session=3534428069&_cdn_token=df2a716a2d33c126691bc75d0f7c7af2d3be5839
 
 
@@ -448,7 +451,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=3548007396&_cdn_token=cbb27b2855f35594ccf5c076feb0a554aca58770
 
 
-#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png"  group-title="Cine y Series",FX
+#EXTINF:-1 tvg-id="fx_peru" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png"  group-title="Cine y Series",FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx-key/playlist.m3u8
 
@@ -463,14 +466,26 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://45.186.254.75:8000/play/a07l/index.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
 #EXTINF:-1 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" CUID="43" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="Cine y Series" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 
-EXTINF:-1 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" CUID="43" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="Cine y Series" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+#EXTINF:-1 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" CUID="43" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="Cine y Series" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://190.61.43.118:45000/play/a07b/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" group-title="Cine y Series", CINECANAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -482,129 +497,143 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media
 http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="Cine y Series",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
+#EXTINF:-1 tvg-id="tcc-HBO.uy" tvg-name="HBO" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="CINE 1" tvg-chno="68" type="channel",HBO
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO 2.ar" tvg-name="HBO 2" CUID="69" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="Cine y Series",HBO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+#EXTINF:-1 tvg-id="tcc-HBO2.uy" tvg-name="HBO 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="CINE 1" tvg-chno="69" type="channel",HBO 2
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO +.ar" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="Cine y Series",HBO +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+#EXTINF:-1 tvg-id="tcc-HBOPlus.uy" tvg-name="HBO Plus" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="Cine y Series",HBO +
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
 
 
-#EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO Pop" tvg-logo="https://i.postimg.cc/q775tmnF/HBO_POP.png" group-title="Cine y Series",HBO POP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
+#EXTINF:-1 tvg-id="tcc-HBOPOP.uy" tvg-name="HBO Pop" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="Cine y Series",HBO POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
 
-#EXTINF:-1 tvg-id="hbo_Mundi" tvg-name="HBO MUNDI" tvg-logo="https://logo.m3uassets.com/hbomundi.png" group-title="Cine y Series",HBO MUNDI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
 
-#EXTINF:0 tvg-id="HBO XTREME.ar" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="Cine y Series",HBO XTREME
+#EXTINF:-1 tvg-id="HBO MUNDI.pe" tvg-name="HBO MUNDI" tvg-logo="https://logo.m3uassets.com/hbomundi.png" group-title="Cine y Series",HBO MUNDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=NTE5IExBVDogSEJPIE11bmRp&t=p&f=.m3u8
+
+
+#EXTINF:0 tvg-id="HBO XTREME.pe" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="Cine y Series",HBO XTREME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="Cine y Series",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO FAMILY.pe" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="Cine y Series",HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://38.210.3.64:8090/play/a0h5/index.m3u8?hls
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="Cine y Series",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO SIGNATURE.pe" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="Cine y Series",HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Golden.co" tvg-logo="https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png" group-title="Cine y Series", GOLDEN 
+
+#EXTINF:-1 tvg-id="GOLDEN.ar" tvg-logo="https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png" group-title="Cine y Series", GOLDEN* 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Cine y Series",GOLDEN EDGE
+#EXTINF:-1 tvg-id="Golden Edge.ar" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Cine y Series",GOLDEN EDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENEDGE_stream_wi&_cdn_session=3547942820&_cdn_token=6b645c7b28721da09903a14760bf495bef5ef63b
 
 
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="Cine y Series",GOLDEN PLUS
+#EXTINF:-1 tvg-id="golden_plus" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="Cine y Series",GOLDEN PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" group-title="Cine y Series", SONY CHANNEL 
+#EXTINF:-1 tvg-id="Sony.pe" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" group-title="Cine y Series", SONY CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://38.210.3.64:8090/play/a0it/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY CINE" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE
+#EXTINF:-1 tvg-id="space_chile" tvg-name="SONY CINE" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE
+#EXTINF:-1 tvg-id="SPACE.pe" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
+#EXTINF:-1 tvg-id="STAR CHANNEL.pe" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD"  tvg-logo="https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png" group-title="Cine y Series",TNT
+#EXTINF:-1 tvg-id="TNT HD.pe" tvg-name="TNT HD" tvg-logo="https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png" group-title="Cine y Series",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://zapster.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Cine y Series",TNT SERIES 
+#EXTINF:-1 tvg-id="tcc-TNTSeries.uy" tvg-name="TNT Series" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" group-title="Cine y Series",TNT SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNT_SERIES_stream_p6&_cdn_session=3534423085&_cdn_token=3872f7a8e2274a2eae6ea166ab111caf571bfc26
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="Cine y Series",WARNER CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
+#EXTINF:-1 tvg-id="tcc-Warner.uy" tvg-name="Warner" tvg-logo="https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg" group-title="Cine y Series",WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png", ENT FAMILY 
+#EXTINF:-1 tvg-id="ENT Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png", ENT FAMILY 
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png" group-title="Cine y Series", ENT CHANNEL 
+
+#EXTINF:-1 tvg-id="ENT Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png" group-title="Cine y Series", ENT CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine y Series",AMC
+
+#EXTINF:-1 tvg-id="AMC HD.pe" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine y Series",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=3537382501&_cdn_token=a664e33a8afe8a0a4183ba76ed65d10a2248f05d
 
 
-
-#EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AMC Series HD"  tvg-logo="https://i.postimg.cc/Hcd31vF7/AMC-Series.png" group-title="Cine y Series",AMC SERIES 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
+#EXTINF:-1 tvg-id="tcc-AMCSeries.uy" tvg-name="AMC" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="Cine y Series",AMC SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMCSERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMCSERIES_stream_sp&_cdn_session=3537396333&_cdn_token=668508f038b201d5682049a9f463a59844f52211
 
 
 
-#EXTINF:-1 tvg-id="Canal.ve" tvg-name="CANAL VE" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Variedades",DHE
+#EXTINF:-1 tvg-id="DHE.ar" tvg-name="CANAL VE" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Variedades",DHE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://45.5.117.46:8000/play/a0gy/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
 
 
@@ -617,20 +646,20 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TCM/40-hls/live-media.m3u8?_c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="USA | USA Network" tvg-name="USA | USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/250px-USA_Network_2020.svg.png" group-title="PELICULAS Y SERIES", USA NETWORK 
+#EXTINF:-1 tvg-id="USA.ar" tvg-name="USA | USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/250px-USA_Network_2020.svg.png" group-title="PELICULAS Y SERIES", USA NETWORK 
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=3537474005&_cdn_token=30c30524b5637719dc61388418ba37736d255ee9
 
 
-#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png" group-title="Cine y Series", COMEDY CENTRAL 
+#EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png" group-title="Cine y Series", COMEDY CENTRAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Comedy_Central/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png"  group-title="Cine y Series",A&E
+#EXTINF:-1 tvg-id="A&amp;E.ar" tvg-name="A&E HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png"  group-title="Cine y Series",A&E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://190.108.80.138:8000/play/a07p/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Film & Arts" tvg-name="USA | Film & Arts" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/26/FILM%26ARTS_%28Print_White%29.svg/revision/latest/scale-to-width-down/1000?cb=20231023134645" group-title="Cine y series", FILM & ARTS 
+#EXTINF:-1 tvg-id="FILM &amp; ARTS.ar" tvg-name="Film & Arts" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/26/FILM%26ARTS_%28Print_White%29.svg/revision/latest/scale-to-width-down/1000?cb=20231023134645" group-title="Cine y series", FILM & ARTS 
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=3547945228&_cdn_token=9ccc44567626c2cdbbb489660336b720016f3b29
 
 
