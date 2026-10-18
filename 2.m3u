@@ -20,7 +20,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3feecb729a34e7cb0123c25dd890362:a0ce3b8a17ccfb82f7eef4d65710d0f0
-#EXTINF:-1 tvg-id="mov-IPnoticias.ar" tvg-name="mov-IPnoticias.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG3mcjZehFi_EyIFDbh6RaIkuECroIrsHvwMQdQo6_tN7Y9uB3H4f8coJDitgeb43n5hXsngdWrwLCkQlsjAGt0q6TVylCYJ4S8hFsxgWzX7-mnYgHlLq2T6Ba7LRL_EZmhQNU2wGrr5ehrI0zdC1vybqiUI_ejYOk6YT2RsmLrpU3b5pg1L4itFQ8Ls/s1170/ar12.jpg"group-title="argentina", AR|12
+#EXTINF:-1 tvg-id="mov-IPnoticias.ar" tvg-name="mov-IPnoticias.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG3mcjZehFi_EyIFDbh6RaIkuECroIrsHvwMQdQo6_tN7Y9uB3H4f8coJDitgeb43n5hXsngdWrwLCkQlsjAGt0q6TVylCYJ4S8hFsxgWzX7-mnYgHlLq2T6Ba7LRL_EZmhQNU2wGrr5ehrI0zdC1vybqiUI_ejYOk6YT2RsmLrpU3b5pg1L4itFQ8Ls/s1170/ar12.jpg" group-title="argentina", AR|12
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
