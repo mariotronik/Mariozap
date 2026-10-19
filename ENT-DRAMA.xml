@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="IPTV EPG Converter">
+  <!-- Definición del canal -->
+  <channel id="ENT Drama">
+    <display-name lang="es">ENT Drama</display-name>
+  </channel>
+
+  <!-- Lista de programas -->
+  <programme start="20261019141135 +0000" stop="20261019160210 +0000" channel="ENT Drama">
+    <title lang="es">Nueve reinas</title>
+    <desc lang="es">Buenos Aires. Juan y Marcos son dos estafadores de poca monta, uno joven y un veterano en el arte del timpo, que casualmente se ven envueltos en un asunto que les puede hacer millonarios: tienen menos de un día para hacer una estafa que no puede fallar.</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2098aa45b9b9cd2fa36bec2bb2a19a8a?w=400"/>
+  </programme>
+
+  <programme start="20261019160210 +0000" stop="20261019174442 +0000" channel="ENT Drama">
+    <title lang="es">Hannah Montana: La película</title>
+    <desc lang="es">Como muchas adolescentes, Miley Stewart se la pasa entre su familia, sus amigos y la escuela, pero a diferencia de sus conocidos, ella tiene una personalidad secreta como la estrella de música llamada Hannah Montana. Cuando la creciente popularidad de Hannah amenaza con apoder...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d0a65deab2453ff70d3232ec52fcacb4?w=400"/>
+  </programme>
+
+  <programme start="20261019174442 +0000" stop="20261019193149 +0000" channel="ENT Drama">
+    <title lang="es">Al Caer La Noche</title>
+    <desc lang="es">Max Burdett es un ladrón retirado que vive tranquilamente en una isla paradisíaca. Todo cambiará cuando un antiguo agente del FBI conocido suyo, le diga que hay rumores de que va a volver a su antiguo trabajo robando un gran diamante, lo que acabará complicándole su pacífica v...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/db12760870ce6522d80219f5b958ed16?w=400"/>
+  </programme>
+
+  <programme start="20261019193149 +0000" stop="20261019211040 +0000" channel="ENT Drama">
+    <title lang="es">El planeta de los simios: (R)evolución</title>
+    <desc lang="es">Will Rodman es un joven científico que está investigando con monos para obtener un tratamiento contra el alzheimer, una enfermedad que afecta a su padre. Uno de esos primates, al que llaman César, experimenta una evolución en su inteligencia tan notable que el protagonista dec...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/db72c0041d16e576917b491707b22c0a?w=400"/>
+  </programme>
+
+  <programme start="20261019211040 +0000" stop="20261019225037 +0000" channel="ENT Drama">
+    <title lang="es">Tras Líneas Enemigas</title>
+    <desc lang="es">Un piloto se ve atrapado detrás de las líneas enemigas después de ser derribado en territorio hostil. Con la ayuda de un equipo de rescate, lucha por sobrevivir mientras es perseguido por fuerzas enemigas decididas a capturarlo o eliminarlo.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/08114419139452008c8a4d6e609a65de?w=400"/>
+  </programme>
+
+  <programme start="20261019225037 +0000" stop="20261020002228 +0000" channel="ENT Drama">
+    <title lang="es">Elementos</title>
+    <desc lang="es">En una ciudad en la que conviven el fuego, el agua, la tierra y el aire, una joven llena de fuego y un tipo que fluye descubrirán lo mucho que tienen en común.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ee821c495902ba61dc0dd498ddc12252?w=400"/>
+  </programme>
+
+  <programme start="20261020002228 +0000" stop="20261020014954 +0000" channel="ENT Drama">
+    <title lang="es">Al diablo con el diablo</title>
+    <desc lang="es">Elliot Richardson (Brendan Fraser) es un joven torpe y bondadoso, con poco éxito en la vida, que vende su alma al diablo (una explosiva Elizabeth Hurley) a cambio de unos deseos que no se ven del todo cumplidos...como él hubiera deseado. Remake de la película homónima de 1967...</desc>
+    <category lang="es">Fantasía</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5d79aedf5bf8c246781237173a428150?w=400"/>
+  </programme>
+
+  <programme start="20261020014954 +0000" stop="20261020025957 +0000" channel="ENT Drama">
+    <title lang="es">Bambi</title>
+    <desc lang="es">Con los primeros rayos del sol iluminando la pradera, un nuevo príncipe ha nacido en el bosque. Tan pronto como Bambi aprende a dar sus primeros pasos, comienza a jugar con sus nuevos amigos, Tambor, el conejo juguetón, y Flor, la tímida y adorable mofeta. Pero la diversión de...</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f69fe48646f95b147d2a7848606d5dc5?w=400"/>
+  </programme>
+
+  <programme start="20261020025957 +0000" stop="20261020050511 +0000" channel="ENT Drama">
+    <title lang="es">Trespass Against Us</title>
+    <desc lang="es">A man looks to find a way to escape the criminal ways of his outlaw family.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/53dc159e06eece33f18370b5c06f4c81?w=400"/>
+  </programme>
+
+  <programme start="20261020050511 +0000" stop="20261020064452 +0000" channel="ENT Drama">
+    <title lang="es">300: El Nacimiento de un Imperio</title>
+    <desc lang="es">Este nuevo capítulo de la saga épica lleva la acción a un nuevo campo de batalla, en el mar, mientras el general griego Themistokles intenta unir toda Grecia liderando la carga que cambiará el curso de la guerra. "300: El Nacimiento de un Imperio" enfrenta a Themistokles contr...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7a1c3b387a55f6a55293978fb23f45d7?w=400"/>
+  </programme>
+
+  <programme start="20261020064452 +0000" stop="20261020085948 +0000" channel="ENT Drama">
+    <title lang="es">Pecados de guerra</title>
+    <desc lang="es">Guerra de Vietnam. Recién incorporado a su pelotón, en la jungla vietnamita, el soldado Eriksson (Michael J. Fox) es testigo de un crimen brutal cometido por sus compañeros. Incapaz de permanecer al margen, se enfrentará al resto del pelotón, pero sobre todo al sargento Tony M...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5e6c80c3098670a866a63dd8e601d8ea?w=400"/>
+  </programme>
+
+  <programme start="20261020085948 +0000" stop="20261020105954 +0000" channel="ENT Drama">
+    <title lang="es">El cliente</title>
+    <desc lang="es">Mark Sway es un niño de once años que, tras haber sido testigo del suicidio de un abogado de la mafia, ha quedado traumatizado, porque sabe que si revela lo que ha visto su vida se verá gravemente amenazada. Mientras un ambicioso fiscal federal no deja de presionarlo para que...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b4eaa0771169d51254b02e37075645aa?w=400"/>
+  </programme>
+
+  <programme start="20261020105954 +0000" stop="20261020123447 +0000" channel="ENT Drama">
+    <title lang="es">From Straight A's to XXX</title>
+    <desc lang="es">In order to pay her college tuition, a young woman turns to the adult film industry and must balance her personal life with a new life as porn star Belle Knox.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6dbfcc87aab2828ed9f463741b2365af?w=400"/>
+  </programme>
+
+  <programme start="20261020123447 +0000" stop="20261020142704 +0000" channel="ENT Drama">
+    <title lang="es">La otra Reina</title>
+    <desc lang="es">Inglaterra, siglo XVI. Narra la historia de dos hermanas, Ana y María Bolena (Portman & Johansson). El padre y el tío de ambas, movidos por la ambición de mejorar el nivel social y el poder de la familia, convencen a las jóvenes para que conquisten el amor de Enrique VIII (Eri...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ea5d6ef81de25f2ecf24da6d6f8d4bd8?w=400"/>
+  </programme>
+
+  <programme start="20261020142704 +0000" stop="20261020160857 +0000" channel="ENT Drama">
+    <title lang="es">Whiplash: Música y Obsesión</title>
+    <desc lang="es">El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un prof...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c1fda7fbdc0599580c6cc54ae9d6c2c6?w=400"/>
+  </programme>
+
+  <programme start="20261020160857 +0000" stop="20261020181530 +0000" channel="ENT Drama">
+    <title lang="es">Fantasmas del pasado</title>
+    <desc lang="es">En la medianoche del 12 de junio de 1963, una bala acaba con la vida del activista en favor de los derechos civiles Medgar Evers, secretario de la Asociación Nacional para el Progreso de la Gente de Color en el estado sureño de Mississippi. Su asesino es el supremacista blanco...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1fc4352ab70d667e0cd1918a71f2086f?w=400"/>
+  </programme>
+
+  <programme start="20261020181530 +0000" stop="20261020194138 +0000" channel="ENT Drama">
+    <title lang="es">Aladdín</title>
+    <desc lang="es">Aladdin es un adorable pero desafortunado ladronzuelo enamorado de la hija del Sultán, la princesa Jasmine. Para intentar conquistarla, acepta el desafío de Jafar, que consiste en entrar a una cueva en mitad del desierto para dar con una lámpara mágica que le concederá todos s...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5307d011f683a0fab58a04011a173e5b?w=400"/>
+  </programme>
+
+  <programme start="20261020194138 +0000" stop="20261020213825 +0000" channel="ENT Drama">
+    <title lang="es">La Gran Estafa</title>
+    <desc lang="es">Danny Ocean es un carismático ladrón que, tan sólo 24 horas después de cumplir una larga condena en prisión, ya está planeando su próximo delito. Su objetivo: realizar el mayor atraco de casinos de la historia. Para ello formará un equipo de once hombres, cada uno de ellos el...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/93a2dcbd5328e9b19d011da94647efbf?w=400"/>
+  </programme>
+
+  <programme start="20261020213825 +0000" stop="20261020233308 +0000" channel="ENT Drama">
+    <title lang="es">Terremoto: La Falla De San Andrés</title>
+    <desc lang="es">La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud 9 en California. Ante tal catástrofe, el piloto de helicóptero de búsqueda y rescate Ray y su ex esposa Emma viajan juntos desde Los Ángeles hasta San Francisco par...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/790dee82f366f52e661deec5f2711bd1?w=400"/>
+  </programme>
+
+  <programme start="20261020233308 +0000" stop="20261021010518 +0000" channel="ENT Drama">
+    <title lang="es">Somnia: Antes de despertar</title>
+    <desc lang="es">Jessie y Mark deciden adoptar a Cody, un niño a quien le aterroriza dormir. Inicialmente creen que el origen de dicha fobia está en el traumático pasado del chico. Pero pronto se dan cuenta de la verdad: los sueños de Cody se proyectan en la realidad, y muchas veces lo que se...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1dcdedccacfb5675086405d315ed03ce?w=400"/>
+  </programme>
+
+  <programme start="20261021010518 +0000" stop="20261021025958 +0000" channel="ENT Drama">
+    <title lang="es">Agua para elefantes</title>
+    <desc lang="es">En la época de la Gran Depresión, un joven estudiante de veterinaria se ve obligado a dejar sus estudios tras la muerte de sus padres. Empieza entonces a trabajar para el circo de los hermanos Benzini como veterinario y encargado de los animales. El joven se enamora de Marlena...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4b9ce44f2048684daac546aab4c11de0?w=400"/>
+  </programme>
+
+  <programme start="20261021025958 +0000" stop="20261021052900 +0000" channel="ENT Drama">
+    <title lang="es">Perdida</title>
+    <desc lang="es">El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte e...</desc>
+    <category lang="es">Misterio</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/75e73cde2e88cdca715beffea64579fd?w=400"/>
+  </programme>
+
+  <programme start="20261021052900 +0000" stop="20261021072337 +0000" channel="ENT Drama">
+    <title lang="es">Kinsey, el científico del sexo</title>
+    <desc lang="es">A look at the life of Alfred Kinsey, a pioneer in the area of human sexuality research, whose 1948 publication "Sexual Behavior in the Human Male" was one of the first recorded works that saw science address sexual behavior.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7be17b68c026a5a62ad0cfd28ec7bb60?w=400"/>
+  </programme>
+
+  <programme start="20261021072337 +0000" stop="20261021085954 +0000" channel="ENT Drama">
+    <title lang="es">Pearl Harbor</title>
+    <desc lang="es">Año 1941, en plena Segunda Guerra Mundial en Europa. Rafe McCawley (Affleck) y Danny Walker (Hartnett) crecieron juntos en una zona rural estadounidense y su larga amistad se mantiene cuando ambos ingresan como pilotos en las fuerzas aéreas. Rafe encontró en Evelyn Johnson (Be...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3aa6ea10234d37ba8831b5ee4cc9b466?w=400"/>
+  </programme>
+
+  <programme start="20261021085954 +0000" stop="20261021110101 +0000" channel="ENT Drama">
+    <title lang="es">Creed III</title>
+    <desc lang="es">Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada más que demostrar en el mundo del boxeo. Convertido en un ídolo de este boxeo pasa sus días rodeado de su familia y seres queridos. Sin embargo, todo cambiará cuando regrese un fantasma de su infancia. Su amigo...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5bb6f2ae6a2121f555b6ff8bfe016b36?w=400"/>
+  </programme>
+
+  <programme start="20261021110101 +0000" stop="20261021124237 +0000" channel="ENT Drama">
+    <title lang="es">Sintonía de amor</title>
+    <desc lang="es">El hijo de un hombre viudo decide enviar una carta a un programa de radio, en la que solicita una esposa para su padre y una nueva madre para él.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a12cc99b3189dca7c31d664d0e5b710?w=400"/>
+  </programme>
+
+  <programme start="20261021124237 +0000" stop="20261021143717 +0000" channel="ENT Drama">
+    <title lang="es">Agua para elefantes</title>
+    <desc lang="es">En la época de la Gran Depresión, un joven estudiante de veterinaria se ve obligado a dejar sus estudios tras la muerte de sus padres. Empieza entonces a trabajar para el circo de los hermanos Benzini como veterinario y encargado de los animales. El joven se enamora de Marlena...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4b9ce44f2048684daac546aab4c11de0?w=400"/>
+  </programme>
+
+  <programme start="20261021143717 +0000" stop="20261021160924 +0000" channel="ENT Drama">
+    <title lang="es">Dr. Cable: El desastre llama a la puerta</title>
+    <desc lang="es">Steven Kovacs es un joven que acaba de romper con su novia y que pretende instalar en su casa un servicio de televisión por cable de forma gratuita. Pero Kovacs se encuentra con un instalador un tanto peculiar, que busca incansablemente un amigo con el que compartir su vida. D...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7d1744653c67936a9e58c59c83ae1d42?w=400"/>
+  </programme>
+
+  <programme start="20261021160924 +0000" stop="20261021181012 +0000" channel="ENT Drama">
+    <title lang="es">Sonido de Libertad</title>
+    <desc lang="es">La historia de Tim Ballard, un ex agente del gobierno de EE. UU., que deja su trabajo para dedicar su vida a rescatar a niños de los traficantes sexuales mundiales.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2f74dd1f8baafa4518820d81bc2b52b8?w=400"/>
+  </programme>
+
+  <programme start="20261021181012 +0000" stop="20261021195450 +0000" channel="ENT Drama">
+    <title lang="es">El ilusionista</title>
+    <desc lang="es">En la Viena de 1900, el misterioso Eisenheim cautiva al público con sus espectáculos de magia e ilusionismo. Sus poderes sobrenaturales llegan a los oídos del príncipe heredero Leopold, un hombre pragmático que acude a su espectáculo con incredulidad, acompañado de su prometid...</desc>
+    <category lang="es">Fantasía</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/805eae3000b70302dc68fe726ca2330a?w=400"/>
+  </programme>
+
+  <programme start="20261021195450 +0000" stop="20261021213447 +0000" channel="ENT Drama">
+    <title lang="es">Tras Líneas Enemigas</title>
+    <desc lang="es">Un piloto se ve atrapado detrás de las líneas enemigas después de ser derribado en territorio hostil. Con la ayuda de un equipo de rescate, lucha por sobrevivir mientras es perseguido por fuerzas enemigas decididas a capturarlo o eliminarlo.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/08114419139452008c8a4d6e609a65de?w=400"/>
+  </programme>
+
+  <programme start="20261021213447 +0000" stop="20261021230855 +0000" channel="ENT Drama">
+    <title lang="es">Bleach: Fade to Black, Llamo tu nombre</title>
+    <desc lang="es">El pasado de Rukia que ahora es revelado. La "verdad" que está encerrada dentro del recuerdo de la oscuridad. Alguien con un objeto parecido a una hoz ha atacado a Mayuri, quien estaba en su laboratorio. Mayuri, quien de repente perdió el control, golpeó su tablero de control...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/074b1504ab1c8b12a914141042edceee?w=400"/>
+  </programme>
+
+  <programme start="20261021230855 +0000" stop="20261022005801 +0000" channel="ENT Drama">
+    <title lang="es">La supremacía Bourne</title>
+    <desc lang="es">Cuando Jason Bourne es incriminado en una operación de la CIA que salió mal, se ve obligado a reanudar su vida anterior como asesino entrenado para sobrevivir.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b83a918784d0039456d5c48e390caf1d?w=400"/>
+  </programme>
+
+  <programme start="20261022005801 +0000" stop="20261022025958 +0000" channel="ENT Drama">
+    <title lang="es">El planeta de los simios: Confrontación</title>
+    <desc lang="es">Un grupo de sobrevivientes en San Francisco luchan por mantenerse vivos después de una plaga que está limpiando a la humanidad, mientras que César trata de mantener el dominio sobre su comunidad de monos inteligentes.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/62101992e985c138bff96486586889c5?w=400"/>
+  </programme>
+
+  <programme start="20261022025959 +0000" stop="20261022045827 +0000" channel="ENT Drama">
+    <title lang="es">La forma del agua</title>
+    <desc lang="es">En un centro de investigación de alto secreto en los años 60, una conserje solitaria forma una relación única con una criatura anfibia que está siendo mantenida en cautiverio.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/95fec72d4480549ba3dd93a032158007?w=400"/>
+  </programme>
+
+  <programme start="20261022045827 +0000" stop="20261022072419 +0000" channel="ENT Drama">
+    <title lang="es">El Último Samurái</title>
+    <desc lang="es">1870. El capitán Nathan Algren es un hombre a la deriva. Las batallas que libró en otro tiempo parecen ahora lejanas e inútiles. Una vez arriesgó su vida por el honor y por la patria, pero, en los años transcurridos desde la Guerra de Secesión estadounidense, el mundo ha cam...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e29efced0ab1d3e0ffb7b899ae5f2fc4?w=400"/>
+  </programme>
+
+  <programme start="20261022072419 +0000" stop="20261022085958 +0000" channel="ENT Drama">
+    <title lang="es">Un santa no tan santo</title>
+    <desc lang="es">Willie, un amargado y solitario alcohólico, trabaja cada temporada de Navidad en los centros comerciales disfrazado de Papá Noel junto su compañero Marcus, que hace de duende. Cada vispera de Navidad, desconectan la alarma de seguridad después de que el centro comercial cierra...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2f291dba82e3f5febdd6d917cde4d518?w=400"/>
+  </programme>
+
+  <programme start="20261022085958 +0000" stop="20261022115215 +0000" channel="ENT Drama">
+    <title lang="es">El infiltrado</title>
+    <desc lang="es">Arrestado con cargos de distribución de drogas después de recoger un paquete que contenía éxtasis, Jason Collins, un joven 18 años, se enfrenta a una condena de 30 años en una prisión federal. Pero el padre de Jason, John, sabe que su hijo no es un traficante, y está dispuesto...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e1eb914faae7bb69e791b64f5603d220?w=400"/>
+  </programme>
+
+  <programme start="20261022115215 +0000" stop="20261022134046 +0000" channel="ENT Drama">
+    <title lang="es">En un lugar del corazón</title>
+    <desc lang="es">Ambientada en Texas durante la Gran Depresión (años 30). Una mujer que acaba de enviudar (Sally Field) y es madre de dos hijos tropieza con graves dificultades económicas para salir adelante porque no puede pagar la hipoteca que pesa sobre su granja. Entre sus amigos están el...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c600b678eefb6a5c966a46f64126b8a7?w=400"/>
+  </programme>
+
+  <programme start="20261022134046 +0000" stop="20261022152753 +0000" channel="ENT Drama">
+    <title lang="es">Al Caer La Noche</title>
+    <desc lang="es">Max Burdett es un ladrón retirado que vive tranquilamente en una isla paradisíaca. Todo cambiará cuando un antiguo agente del FBI conocido suyo, le diga que hay rumores de que va a volver a su antiguo trabajo robando un gran diamante, lo que acabará complicándole su pacífica v...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/db12760870ce6522d80219f5b958ed16?w=400"/>
+  </programme>
+
+  <programme start="20261022152753 +0000" stop="20261022172145 +0000" channel="ENT Drama">
+    <title lang="es">Ángeles inesperados</title>
+    <desc lang="es">Inspirada en la historia real de una peluquera que, sin ayuda de nadie, intentó reunir a toda una comunidad para ayudar a un padre viudo a intentar salvar la vida de su pequeña hija gravemente enferma.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/436b73a3b254e2033f6dc9c994a6efdb?w=400"/>
+  </programme>
+
+  <programme start="20261022172145 +0000" stop="20261022190801 +0000" channel="ENT Drama">
+    <title lang="es">Más Allá de los Sueños</title>
+    <desc lang="es">Tras la muerte de sus dos hijos, el doctor Chris Nielson y su esposa Annie continúan su vida a duras penas. Entonces Chris también muere en un accidente de coche y, cuando llega al cielo, conoce a Albert, que le muestra lo maravillosa que es la vida en el 'Más Allá'. Mientras...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c8bcc213b30135365902196880b6a320?w=400"/>
+  </programme>
+
+  <programme start="20261022190801 +0000" stop="20261022210926 +0000" channel="ENT Drama">
+    <title lang="es">Everest</title>
+    <desc lang="es">Inspirado por los acontecimientos increíbles que rodean una tentativa traidora de alcanzar la cumbre de la montaña del mundo más alta, «Everest» documenta el viaje sobrecogedor de dos expediciones diferentes desafiadas más allá de sus límites por una de las tormentas de nieve...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bcb4f6181c06aa2f13e3a8b64c6c06c7?w=400"/>
+  </programme>
+
+  <programme start="20261022210926 +0000" stop="20261022235344 +0000" channel="ENT Drama">
+    <title lang="es">Interestelar</title>
+    <desc lang="es">Cooper y un grupo de exploradores utilizan un agujero de gusano recién descubierto para superar las limitaciones de los viajes espaciales humanos y conquistar las vastas distancias que implica un viaje interestelar.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/87344d0c93765fd02bd4e55b8602c47d?w=400"/>
+  </programme>
+
+  <programme start="20261022235344 +0000" stop="20261023013545 +0000" channel="ENT Drama">
+    <title lang="es">Rocky Balboa</title>
+    <desc lang="es">Cuando pierde un partido de boxeo virtual muy publicitado con el ex campeón Rocky Balboa, actual campeón de los pesos pesados, Mason Dixon toma represalias al desafiar a Rocky a una pelea televisiva de 10 asaltos televisada a nivel nacional. Para sorpresa de su hijo y amigos,...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a0618d3c01f0a7138573e94c08a5afac?w=400"/>
+  </programme>
+
+  <programme start="20261023013545 +0000" stop="20261023025959 +0000" channel="ENT Drama">
+    <title lang="es">Armados y peligrosos</title>
+    <desc lang="es">Cuando Candy, un poli chapuza y Levy, un inepto abogado, pierden sus trabajos, se juntan en la Compañía de Seguridad “Perro guardián”. Después de un ridículo entrenamiento están listos para salir. Pero no pueden parar los robos que se siguen produciendo delante de sus narices....</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f13acef8b61f08368bf8eec7c5e99e47?w=400"/>
+  </programme>
+
+  <programme start="20261023045103 +0000" stop="20261023070924 +0000" channel="ENT Drama">
+    <title lang="es">Diamante de Sangre</title>
+    <desc lang="es">Un pescador, un contrabandista y un sindicato de empresarios coinciden en la posesión de un diamante de valor incalculable.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9386bb3d309f58674b93979b4f912033?w=400"/>
+  </programme>
+
+  <programme start="20261023070924 +0000" stop="20261023085959 +0000" channel="ENT Drama">
+    <title lang="es">Los Ilegales</title>
+    <desc lang="es">Ambientada en el condado de Franklin, Virginia, en la época de la Depresión, una pandilla de contrabando es amenazada por las autoridades que quieren una reducción de sus ganancias.</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a5ab449bf97501967ab78e196c775ff8?w=400"/>
+  </programme>
+
+  <programme start="20261023085959 +0000" stop="20261023111551 +0000" channel="ENT Drama">
+    <title lang="es">Kingsman: El círculo dorado</title>
+    <desc lang="es">Tras la destrucción del cuartel general de los Kingsman y la toma de rehenes en el mundo, se descubre una organización de espionaje aliada en Estados Unidos. Estas dos organizaciones secretas de élite deben unirse para derrotar a un enemigo común.</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/127c5b23c29b6904d5ed5dfeb62efa65?w=400"/>
+  </programme>
+
+  <programme start="20261023111551 +0000" stop="20261023125445 +0000" channel="ENT Drama">
+    <title lang="es">El planeta de los simios: (R)evolución</title>
+    <desc lang="es">Will Rodman es un joven científico que está investigando con monos para obtener un tratamiento contra el alzheimer, una enfermedad que afecta a su padre. Uno de esos primates, al que llaman César, experimenta una evolución en su inteligencia tan notable que el protagonista dec...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/db72c0041d16e576917b491707b22c0a?w=400"/>
+  </programme>
+
+  <programme start="20261023125445 +0000" stop="20261023142636 +0000" channel="ENT Drama">
+    <title lang="es">Rocky IV</title>
+    <desc lang="es">Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d573fac4a357a8c6134f36db62998e5d?w=400"/>
+  </programme>
+
+  <programme start="20261023142636 +0000" stop="20261023155917 +0000" channel="ENT Drama">
+    <title lang="es">Austin Powers 2: El Espía Seductor</title>
+    <desc lang="es">Tras ser congelado, Austin Powers, un agente secreto de los años 60, vuelve a la vida en los años 90. Se encuentra con una nueva sociedad en la que tendrá que enfrentarse con nuevos villanos, pero también con el Doctor Maligno, su máximo enemigo. El malvado doctor tiene un sin...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6dcd92e64f47ba949105ffce5859f740?w=400"/>
+  </programme>
+
+  <programme start="20261023155917 +0000" stop="20261023180244 +0000" channel="ENT Drama">
+    <title lang="es">Top Gun: Maverick</title>
+    <desc lang="es">Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete "Maverick" Mitchell está en donde pertenece, sobresaliendo como un valiente piloto de pruebas y evitando subir de rango en la armada, que evitaría que pudiera seguir volando. Cuando...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ad64cd0ea85b9e5348a3d65c4205fed6?w=400"/>
+  </programme>
+
+  <programme start="20261023180244 +0000" stop="20261023200333 +0000" channel="ENT Drama">
+    <title lang="es">Sonido de Libertad</title>
+    <desc lang="es">La historia de Tim Ballard, un ex agente del gobierno de EE. UU., que deja su trabajo para dedicar su vida a rescatar a niños de los traficantes sexuales mundiales.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2f74dd1f8baafa4518820d81bc2b52b8?w=400"/>
+  </programme>
+
+  <programme start="20261023200333 +0000" stop="20261023214919 +0000" channel="ENT Drama">
+    <title lang="es">El diablo viste a la moda</title>
+    <desc lang="es">Una joven del Medio Oeste se encuentra con una situación mucho más complicada de lo que esperaba cuando se muda a Nueva York para convertirse en escritora y termina siendo la asistente de la tiránica y extravagante editora en jefe de una importante revista de moda.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6657685334d835d0424852424a5d6eef?w=400"/>
+  </programme>
+
+  <programme start="20261023214919 +0000" stop="20261023233359 +0000" channel="ENT Drama">
+    <title lang="es">La Increíble Vida de Walter Mitty</title>
+    <desc lang="es">Walter Mitty, editor fotográfico de la revista Life, lleva toda una vida evadiendo el aburrimiento cotidiano mediante pequeñas "vacaciones mentales", durante las cuales sueña que protagoniza fantásticas aventuras imaginarias. Sin embargo, una misteriosa mujer lo conduce a una...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/14624cde99680bb5c889b8d72508e181?w=400"/>
+  </programme>
+
+  <programme start="20261023233359 +0000" stop="20261024011205 +0000" channel="ENT Drama">
+    <title lang="es">High School Musical</title>
+    <desc lang="es">Durante unas vacaciones de Navidad, los jóvenes Troy y Gabriella (dos adolescentes en principo con pocas cosas en común) se conocen. Ambos descubren su interés mutuo por la música durante un concurso de karaoke, y deciden presentarse al casting del musical del instituto.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a5a70a7bd413e8fbc52ddea3d8fea65d?w=400"/>
+  </programme>
+
+  <programme start="20261024011205 +0000" stop="20261024025958 +0000" channel="ENT Drama">
+    <title lang="es">Río salvaje</title>
+    <desc lang="es">Para celebrar el cumpleaños de su hijo (Mazzello), Gail (Streep) y Tom (Strathairn), cuyo matrimonio pasa por un mal momento, deciden organizar una excursión familiar a las montañas que incluye un emocionante descenso por un río.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/21444c4e40bdad677b2f7795ebb741f4?w=400"/>
+  </programme>
+
+  <programme start="20261024044704 +0000" stop="20261024064024 +0000" channel="ENT Drama">
+    <title lang="es">Los espíritus de la isla</title>
+    <desc lang="es">Ambientada en una isla remota frente a la costa oeste de Irlanda, ‘Almas en pena de Inisherin’ cuenta la historia de dos amigos de toda la vida, Pádraic y Colm, quienes se encuentran en un callejón sin salida cuando Colm pone fin a su amistad de un modo abrupto. Un Pádraic ató...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/597d67dcdb361e3905c05babcb658f73?w=400"/>
+  </programme>
+
+  <programme start="20261024064024 +0000" stop="20261024085958 +0000" channel="ENT Drama">
+    <title lang="es">La tragedia de Macbeth</title>
+    <desc lang="es">Nominada a tres premios Oscar, incluido el de Mejor Actor. Denzel Washington y Frances McDormand protagonizan esta adaptación, cruda y audaz, de Joel Coen. Un lord escocés es convencido por unas brujas de que se convertirá en el futuro rey de Escocia. Adaptación de "Macbeth",...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0df0a3c81514a34c8154682937ad2387?w=400"/>
+  </programme>
+
+  <programme start="20261024085958 +0000" stop="20261024104315 +0000" channel="ENT Drama">
+    <title lang="es">Tras Líneas Enemigas</title>
+    <desc lang="es">Un piloto se ve atrapado detrás de las líneas enemigas después de ser derribado en territorio hostil. Con la ayuda de un equipo de rescate, lucha por sobrevivir mientras es perseguido por fuerzas enemigas decididas a capturarlo o eliminarlo.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/08114419139452008c8a4d6e609a65de?w=400"/>
+  </programme>
+
+  <programme start="20261024104315 +0000" stop="20261024121516 +0000" channel="ENT Drama">
+    <title lang="es">Luna de miel para tres</title>
+    <desc lang="es">Betsy es una maestra de escuela decidida a casarse con Jack, un investigador privado, cuya situación económica es bastante precaria. Durante un viaje a Las Vegas, un excéntrico millonario se encapricha de ella y le hace a la pareja una tentadora oferta.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8d556ba8b52c9de32431345083d18240?w=400"/>
+  </programme>
+
+  <programme start="20261024121516 +0000" stop="20261024134401 +0000" channel="ENT Drama">
+    <title lang="es">Sherlock: La novia abominable</title>
+    <desc lang="es">¡Bienvenidos al Sherlock de 1895! Para el detective más famoso del mundo y su mejor amigo, algunas cosas continúan igual: la amistad, la aventura y sobre todo... los asesinatos. ¿Por qué se sorprende Thomas Ricoletti de ver a su mujer con su vestido de boda? Porque apenas unas...</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5c30a84ee09ab7324510582b212ece07?w=400"/>
+  </programme>
+
+  <programme start="20261024134401 +0000" stop="20261024151809 +0000" channel="ENT Drama">
+    <title lang="es">Bleach: Fade to Black, Llamo tu nombre</title>
+    <desc lang="es">El pasado de Rukia que ahora es revelado. La "verdad" que está encerrada dentro del recuerdo de la oscuridad. Alguien con un objeto parecido a una hoz ha atacado a Mayuri, quien estaba en su laboratorio. Mayuri, quien de repente perdió el control, golpeó su tablero de control...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/074b1504ab1c8b12a914141042edceee?w=400"/>
+  </programme>
+
+  <programme start="20261024151809 +0000" stop="20261024172503 +0000" channel="ENT Drama">
+    <title lang="es">Wall Street: Money Never Sleeps</title>
+    <desc lang="es">Now out of prison but still disgraced by his peers, Gordon Gekko works his future son-in-law, an idealistic stock broker, when he sees an opportunity to take down a Wall Street enemy and rebuild his empire.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/57b81c2a3ca14e02248277fbafa0bf08?w=400"/>
+  </programme>
+
+  <programme start="20261024172503 +0000" stop="20261024185010 +0000" channel="ENT Drama">
+    <title lang="es">La Bella y La Bestia</title>
+    <desc lang="es">La joven Bella se encuentra prisionera en un castillo encantado, gobernado por una bestia. A medida que pasa el tiempo, descubre la verdadera naturaleza amable de la bestia y se desarrolla un amor improbable entre ellos, desafiando los prejuicios y las apariencias externas.</desc>
+    <category lang="es">Romance</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/53de985fdb5a335b01befdf343c261f6?w=400"/>
+  </programme>
+
+  <programme start="20261024185010 +0000" stop="20261024210313 +0000" channel="ENT Drama">
+    <title lang="es">El Planeta de Los Simios 3: La Guerra</title>
+    <desc lang="es">Después de que los simios sufren pérdidas inimaginables, César lucha con sus oscuros instintos y comienza su propia búsqueda mítica para vengar a los de su especie.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5a4a6a9b24e842ff9a1cb91fae7b3fc5?w=400"/>
+  </programme>
+
+  <programme start="20261024210313 +0000" stop="20261024225945 +0000" channel="ENT Drama">
+    <title lang="es">Creed III</title>
+    <desc lang="es">Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada más que demostrar en el mundo del boxeo. Convertido en un ídolo de este boxeo pasa sus días rodeado de su familia y seres queridos. Sin embargo, todo cambiará cuando regrese un fantasma de su infancia. Su amigo...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5bb6f2ae6a2121f555b6ff8bfe016b36?w=400"/>
+  </programme>
+
+  <programme start="20261024225945 +0000" stop="20261025011800 +0000" channel="ENT Drama">
+    <title lang="es">Caballo de Guerra</title>
+    <desc lang="es">Nos cuenta la extraordinaria historia de amistad que surge entre el joven Albert y un caballo llamado Joey, separándose sus caminos a causa de la Primera Guerra Mundial. El padre de Albert vende a Joey a la caballería del ejército británico para luchar en el frente. Joey será...</desc>
+    <category lang="es">Bélica</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/98ded8144dd37ecaebd2fac735dd3525?w=400"/>
+  </programme>
+
+  <programme start="20261025011800 +0000" stop="20261025025958 +0000" channel="ENT Drama">
+    <title lang="es">Ip Man 3</title>
+    <desc lang="es">Una banda de criminales dirigidos por un constructor ambicioso intentan desalojar la escuela local pero el maestro Ip Man no está dispuesto a ceder. Paralelamente, un nuevo maestro de Wing Chun ha llegado a la ciudad.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1bbe104025c0f649f70b969dc379ae3d?w=400"/>
+  </programme>
+
+  <programme start="20261025025959 +0000" stop="20261025050144 +0000" channel="ENT Drama">
+    <title lang="es">Guasón</title>
+    <desc lang="es">Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma.</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/280319575bd51968068842d7ca5c5d63?w=400"/>
+  </programme>
+
+  <programme start="20261025050144 +0000" stop="20261025070836 +0000" channel="ENT Drama">
+    <title lang="es">Almas perdidas</title>
+    <desc lang="es">Maya Larkin, una devota católica que, al parecer, fue poseída por el demonio en su juventud, colabora con el padre Lareaux y con John Townshend expertos exorcistas que atienden a almas atormentadas que consideran que están poseídas por Satán. Mientras efectúan un exorcismo sob...</desc>
+    <category lang="es">Terror</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/80c86ca41359451ee0349205d163d9eb?w=400"/>
+  </programme>
+
+  <programme start="20261025070836 +0000" stop="20261025085958 +0000" channel="ENT Drama">
+    <title lang="es">Scorchers</title>
+    <desc lang="es">On Splendid's wedding night, she won't allow her husband to consummate the marriage. Meanwhile, her armed cousin is looking for the hooker, who slept with her husband.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a804421057a16c4b009e87b494513b82?w=400"/>
+  </programme>
+
+  <programme start="20261025085958 +0000" stop="20261025104812 +0000" channel="ENT Drama">
+    <title lang="es">El Rey de la Comedia</title>
+    <desc lang="es">Rupert Pupkin es un cómico obsesionado con la fama y convertirse en el mejor en su campo. Un día Rupert conoce a su ídolo, Jerry Langford, y le suplica la oportunidad de aparecer en su show, pero éste se la niega. Sin embargo Pupkin no cejará en su empeño, acosando a Jerry par...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0c3e87d506ecf462f29b8712c18ea512?w=400"/>
+  </programme>
+
+  <programme start="20261025104812 +0000" stop="20261025124539 +0000" channel="ENT Drama">
+    <title lang="es">La Teoría del Todo</title>
+    <desc lang="es">La película gira en torno a la vida de Stephen Hawking, el importante teórico y divulgador científico que cambió la historia de la ciencia y la tecnología moderna para siempre. La película se centrará en la relación que mantuvo el británico con Jane Wilde, su primera mujer, co...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4baae2da53c92fad5619347c9ad25a07?w=400"/>
+  </programme>
+
+  <programme start="20261025124539 +0000" stop="20261025152513 +0000" channel="ENT Drama">
+    <title lang="es">El Curioso Caso de Benjamin Button</title>
+    <desc lang="es">Un hombre nace con ochenta años y va rejuveneciendo a medida que pasa el tiempo; es decir, en lugar de cumplir años los descumple. Esta es la historia de un hombre extraordinario, de la gente que va conociendo, de sus amores y amistades, pero sobre todo de su relación con Dais...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3460eff536656f05e105100d5a0a560b?w=400"/>
+  </programme>
+
+  <programme start="20261025152513 +0000" stop="20261025173335 +0000" channel="ENT Drama">
+    <title lang="es">Golpes del Destino</title>
+    <desc lang="es">Después de haber entrenado y representado a los mejores púgiles, Frankie Dunn regenta un gimnasio con la ayuda de Scrap, un ex-boxeador que es además su único amigo. Frankie es un hombre solitario y adusto que se refugia desde hace años en la religión buscando una redención qu...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8aedcb5fcae812cca89bd54001af2130?w=400"/>
+  </programme>
+
+  <programme start="20261025173335 +0000" stop="20261025194519 +0000" channel="ENT Drama">
+    <title lang="es">Por amor al juego</title>
+    <desc lang="es">El veterano lanzador de los Tigres de Detroit, Billy Chapel, siempre ha sido mejor en el béisbol que en el amor. Su novia, que no siempre sale con él, le dice que lo dejará... para siempre. Ahora que su carrera y su vida amorosa están en equilibrio, Billy lucha contra sus lími...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/950c101b118a8557b6e70852e99ba58a?w=400"/>
+  </programme>
+
+  <programme start="20261025194519 +0000" stop="20261025211718 +0000" channel="ENT Drama">
+    <title lang="es">Hitchcok, el maestro del suspenso</title>
+    <desc lang="es">En la cima de la carrera como director, Alfred Hitchcock decide filmar una película de terror aparentemente de baja categoría. Ningún estudio apoya el proyecto, así que Hitchcock decide financiarlo él mismo y rodarla con un equipo barato de TV. El resultado fue un fenómeno int...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f1487cc9c7bd1a892f60aa4303e9eae1?w=400"/>
+  </programme>
+
+  <programme start="20261025211718 +0000" stop="20261025232734 +0000" channel="ENT Drama">
+    <title lang="es">Creed 2: Defendiendo el Legado</title>
+    <desc lang="es">Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadam...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a011dc6c2e2c467268a66140865b7604?w=400"/>
+  </programme>
+
+  <programme start="20261025232734 +0000" stop="20261026013630 +0000" channel="ENT Drama">
+    <title lang="es">Una Mente Brillante</title>
+    <desc lang="es">En la Universidad de Princeton, John Nash se esfuerza por hacer una valiosa contribución y así dejar un legado al mundo de las matemáticas.  Después de la escuela de postgrado se enfoca en la enseñanza, lo que lo lleva a una relación romántica con su estudiante Alicia. Mientra...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/12be1d9bdae3c40e62ba0a4fafdf52e2?w=400"/>
+  </programme>
+
+  <programme start="20261026013630 +0000" stop="20261026025959 +0000" channel="ENT Drama">
+    <title lang="es">Asalto al camión blindado</title>
+    <desc lang="es">El crimen perfecto, sin víctimas, sin violencia e indetectable, se tuerce fatalmente en Blindado, un thriller lleno de acción donde todo es posible. Un grupo de guardias de seguridad que escoltan un camión blindado ejecuta un meticuloso plan para robar a la compañía de segurid...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/eb0ea4ea535b149c4c6f9d1019e498fe?w=400"/>
+  </programme>
+</tv>
