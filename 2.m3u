@@ -497,38 +497,49 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media
 http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
+
 #EXTINF:-1 tvg-id="tcc-HBO.uy" tvg-name="HBO" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="CINE 1" tvg-chno="68" type="channel",HBO
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
 #EXTINF:-1 tvg-id="tcc-HBO2.uy" tvg-name="HBO 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="CINE 1" tvg-chno="69" type="channel",HBO 2
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
 #EXTINF:-1 tvg-id="tcc-HBOPlus.uy" tvg-name="HBO Plus" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="Cine y Series",HBO +
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
 #EXTINF:-1 tvg-id="tcc-HBOPOP.uy" tvg-name="HBO Pop" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="Cine y Series",HBO POP
+##EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO MUNDI.pe" tvg-name="HBO MUNDI" tvg-logo="https://logo.m3uassets.com/hbomundi.png" group-title="Cine y Series",HBO MUNDI
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=NTE5IExBVDogSEJPIE11bmRp&t=p&f=.m3u8
 
