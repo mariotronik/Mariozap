@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="40MediaGroup-Converter">
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
 
+<tv generator-info-name="IPTV EPG Converter">
   <!-- Definición del canal -->
   <channel id="ENT Extreme">
     <display-name lang="es">ENT Extreme</display-name>
@@ -16,7 +17,7 @@
 
   <programme start="20261019162025 +0000" stop="20261019175325 +0000" channel="ENT Extreme">
     <title lang="es">Bleach: La rebelión del polvo de diamante</title>
-    <desc lang="es">Cuando un artefacto conocido como el "Sello del Rey" es robado durante el transporte desde la Sociedad de Almas, Hitsugaya Toushirou es asignado para recuperarlo. Toushirou desaparece después de una batalla con los ladrones, lo que lleva a Seireitei a sospechar de él por traición.</desc>
+    <desc lang="es">Cuando un artefacto conocido como el "Sello del Rey" es robado durante el transporte desde la Sociedad de Almas, Hitsugaya Toushirou es asignado para recuperarlo. Toushirou desaparece después de una batalla con los ladrones, lo que lleva a Seireitei a sospechar de él por traic...</desc>
     <category lang="es">Acción</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/76ff2080e82fd1c13fc15a978a63fd5e?w=400"/>
   </programme>
@@ -30,15 +31,400 @@
 
   <programme start="20261019201142 +0000" stop="20261019221905 +0000" channel="ENT Extreme">
     <title lang="es">Star Wars: El despertar de la fuerza</title>
-    <desc lang="es">Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte, la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, amenaza la paz.</desc>
+    <desc lang="es">Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orde...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5c5001ccb579e85eab5d93a850dbd606?w=400"/>
   </programme>
 
   <programme start="20261019221905 +0000" stop="20261020001831 +0000" channel="ENT Extreme">
     <title lang="es">Piratas del Caribe 5: La Venganza de Salazar</title>
-    <desc lang="es">Inmerso en una nueva aventura, el desafortunado Capitán Jack Sparrow siente que la mala suerte se cierne sobre él con más fuerza cuando unos letales marineros fantasma escapan del Triángulo de las Bermudas.</desc>
+    <desc lang="es">Inmerso en una nueva aventura, el desafortunado Capitán Jack Sparrow siente que la mala suerte se cierne sobre él con más fuerza cuando unos letales marineros fantasma, liderados por su antiguo némesis, el malvado Capitán Salazar, escapan del Triángulo de las Bermudas. La únic...</desc>
     <category lang="es">Aventura</category>
     <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b4e14b96794219ef05d08de26b283448?w=400"/>
+  </programme>
+
+  <programme start="20261020001831 +0000" stop="20261020021323 +0000" channel="ENT Extreme">
+    <title lang="es">Terminator: Salvación</title>
+    <desc lang="es">En 2018, una misteriosa nueva arma en la guerra contra las máquinas, mitad humana y mitad máquina, llega a John Connor en la víspera de un ataque de la resistencia a Skynet. ¿Pero de qué lado está, y se puede confiar en él?</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7c38a9c81a8e27e4a1d0ef4bf8f49f9d?w=400"/>
+  </programme>
+
+  <programme start="20261020021323 +0000" stop="20261020035943 +0000" channel="ENT Extreme">
+    <title lang="es">Contratiempo</title>
+    <desc lang="es">Barcelona, España. Adrián Doria, un joven y exitoso empresario acusado de homicidio, se reúne una noche con Virginia Goodman, una abogada experta en interrogatorios, con el propósito de urdir una estrategia de defensa.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1d23cc3f48c93a321abc673e07f5059b?w=400"/>
+  </programme>
+
+  <programme start="20261020035943 +0000" stop="20261020055022 +0000" channel="ENT Extreme">
+    <title lang="es">Protegiendo al enemigo</title>
+    <desc lang="es">Después de apenas escapar del ataque de unos mercenarios, un agente novato y un policía renegado deben unir fuerzas y descubrir quién los quiere muertos.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/14bdee2af428b5b138787ebe572de2b7?w=400"/>
+  </programme>
+
+  <programme start="20261020055022 +0000" stop="20261020074037 +0000" channel="ENT Extreme">
+    <title lang="es">Arma Mortal 2</title>
+    <desc lang="es">La pareja de policías formada por Martin Riggs y su compañero Roger Murtaugh se enfrenta ahora a una poderosa organización sudafricana de traficantes de droga que opera en Estados Unidos. Su misión principal es la de proteger al testigo Leo Getz, un alocado contable que ha bla...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/94df96a93091ce0dec6e673001d479e3?w=400"/>
+  </programme>
+
+  <programme start="20261020074037 +0000" stop="20261020085958 +0000" channel="ENT Extreme">
+    <title lang="es">Idiocracia</title>
+    <desc lang="es">Tras un experimento militar fallido, el oficial Joe Bawers y la prostituta Rita despiertan quinientos años adelante en el futuro, en un mundo distópico en el que la selección natural ha favorecido a los más idiotas, debido a que se reproducen más. Esto ha resultado en una huma...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6e4f342c7d6469a7b2cf312c6c26e07c?w=400"/>
+  </programme>
+
+  <programme start="20261020085958 +0000" stop="20261020102448 +0000" channel="ENT Extreme">
+    <title lang="es">Seguridad nacional</title>
+    <desc lang="es">Earl Montgomery (Lawrence) es un engreído e hiperactivo cadete de la Policía de Los Ángeles que, a causa de su mala actitud, es expulsado de la academia. Tras ser arrestado en un incidente con su vehículo por el policía Hank Rafferty (Zahn), Earl lo acusa de acoso y, como cons...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c54aae4b9e5dcce07b87c60218638e2e?w=400"/>
+  </programme>
+
+  <programme start="20261020102448 +0000" stop="20261020122815 +0000" channel="ENT Extreme">
+    <title lang="es">Spider-Man: De regreso a casa</title>
+    <desc lang="es">Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man (El Hombre Araña). Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b8a41cf42caf88805ddb9a8931410541?w=400"/>
+  </programme>
+
+  <programme start="20261020122815 +0000" stop="20261020144511 +0000" channel="ENT Extreme">
+    <title lang="es">Rápidos y Furiosos: Hobbs y Shaw</title>
+    <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenét...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/be6c3147cd41f3d976a75040e4575df7?w=400"/>
+  </programme>
+
+  <programme start="20261020144511 +0000" stop="20261020164439 +0000" channel="ENT Extreme">
+    <title lang="es">Identidad desconocida</title>
+    <desc lang="es">Un hombre es rescatado por un barco de pesca, acribillado a balazos y sufriendo de amnesia, antes de correr para eludir asesinos e intentar recuperar su memoria.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/aae94a075f9a3775c7c8c9dd4e72751c?w=400"/>
+  </programme>
+
+  <programme start="20261020164439 +0000" stop="20261020183453 +0000" channel="ENT Extreme">
+    <title lang="es">My Hero Academia: Ahora es tu turno</title>
+    <desc lang="es">Deku, Bakugo, Todoroki and the rest of U.A. High Class 1-A must face off against Dark Might and the obscure crime organisation under his control, the Gollini Family.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ccc7ab770d91d28f52cc5eb21f98b0dd?w=400"/>
+  </programme>
+
+  <programme start="20261020183453 +0000" stop="20261020200608 +0000" channel="ENT Extreme">
+    <title lang="es">Angry Birds: La Película</title>
+    <desc lang="es">Una isla poblada enteramente, o casi enteramente, por pájaros felices que no vuelan. En este paraíso, Red, un pájaro con mal genio, el veloz Chuck y el volátil Bomb siempre han sido marginados. Pero cuando la isla recibe la visita de unos misteriosos cerditos verdes, estos ins...</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/10d0c1e03e91e8e25e6a1167d6251ec4?w=400"/>
+  </programme>
+
+  <programme start="20261020200608 +0000" stop="20261020214047 +0000" channel="ENT Extreme">
+    <title lang="es">Ecos mortales</title>
+    <desc lang="es">Este thriller romántico y sobrenatural cuenta la historia de una adolescente que vive en un mundo en el que los vivos y los muertos conviven tras la ruptura de la barrera entre ambas realidades. Tras años de tranquila convivencia, una de estas presencias fantasmales amenazará...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/89972e343c88e7ead535d13f3ecf81a6?w=400"/>
+  </programme>
+
+  <programme start="20261020214047 +0000" stop="20261020231834 +0000" channel="ENT Extreme">
+    <title lang="es">Los indestructibles 4</title>
+    <desc lang="es">Armados con todas las armas que pueden conseguir y las habilidades para usarlas, Los Mercenarios son la última línea de defensa del mundo y el equipo al que se llama cuando todas las demás opciones están descartadas. Pero los nuevos miembros del equipo con nuevos estilos y tác...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ae5b9108277708502129b199cdcea0b2?w=400"/>
+  </programme>
+
+  <programme start="20261020231834 +0000" stop="20261021005656 +0000" channel="ENT Extreme">
+    <title lang="es">Eternamente Joven</title>
+    <desc lang="es">Año 1939. Daniel McCormick, piloto de pruebas, es un hombre al que todo le va bien en la vida. Todo cambia una mañana en la que su novia, Helen, tiene un desgraciado accidente. Desolado, se ofrece voluntario para un experimento secreto: El cuerpo de Daniel queda congelado en u...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/72b66ad487a8f518077c7362db8346b6?w=400"/>
+  </programme>
+
+  <programme start="20261021005656 +0000" stop="20261021023104 +0000" channel="ENT Extreme">
+    <title lang="es">Bleach: Fade to Black, Llamo tu nombre</title>
+    <desc lang="es">El pasado de Rukia que ahora es revelado. La "verdad" que está encerrada dentro del recuerdo de la oscuridad. Alguien con un objeto parecido a una hoz ha atacado a Mayuri, quien estaba en su laboratorio. Mayuri, quien de repente perdió el control, golpeó su tablero de control...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/074b1504ab1c8b12a914141042edceee?w=400"/>
+  </programme>
+
+  <programme start="20261021023104 +0000" stop="20261021035943 +0000" channel="ENT Extreme">
+    <title lang="es">Maléfica</title>
+    <desc lang="es">Maléfica es una bella hada con un corazón puro y unas asombrosas alas negras. Crece en un entorno idílico, un apacible reino en el bosque limítrofe con el mundo de los hombres, hasta que un día un ejército de invasores humanos amenaza la armonía de su país. Maléfica se erige e...</desc>
+    <category lang="es">Fantasía</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9b2e9cdccce6268e5e92ea5687a284cd?w=400"/>
+  </programme>
+
+  <programme start="20261021035943 +0000" stop="20261021053717 +0000" channel="ENT Extreme">
+    <title lang="es">MaXXXine</title>
+    <desc lang="es">En los años 80 en Hollywood, la estrella de cine para adultos y aspirante a actriz Maxine Minx finalmente obtiene su gran oportunidad. Pero cuando un misterioso asesino acecha a las estrellas de Hollywood, un rastro de sangre amenaza con revelar su siniestro pasado.</desc>
+    <category lang="es">Terror</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dd75d26675693a6e63f6818303ff5c01?w=400"/>
+  </programme>
+
+  <programme start="20261021053717 +0000" stop="20261021070550 +0000" channel="ENT Extreme">
+    <title lang="es">Un lugar en silencio: Parte II</title>
+    <desc lang="es">La familia Abbott ahora se enfrenta a los terrores del mundo exterior. Forzados a aventurarse en lo desconocido, se dan cuenta de que las criaturas que cazan por el sonido no son las únicas amenazas que acechan más allá del camino de arena.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/36d92c4d031361b028ad9e7d22e4d36e?w=400"/>
+  </programme>
+
+  <programme start="20261021070550 +0000" stop="20261021085955 +0000" channel="ENT Extreme">
+    <title lang="es">Alien: El Octavo Pasajero</title>
+    <desc lang="es">Después de que una nave espacial de comercio reciba una transmisión desconocida, aterrizan en la luna de origen para investigar pero un miembro de la tripulación es atacado por una forma de vida misteriosa. Pronto descubren que su ciclo de vida apenas comienza.</desc>
+    <category lang="es">Terror</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/919b1368aaf0d716bd1d91681eba1d67?w=400"/>
+  </programme>
+
+  <programme start="20261021085955 +0000" stop="20261021104716 +0000" channel="ENT Extreme">
+    <title lang="es">X-Men: Dark Phoenix</title>
+    <desc lang="es">Jean Grey comienza a desarrollar increíbles poderes que la corrompen y la convierten en un Fénix Oscuro, haciendo que los X-Men decidan si su vida vale más que toda la humanidad.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fe0d405df4b4a7e2edb02e002f213669?w=400"/>
+  </programme>
+
+  <programme start="20261021104716 +0000" stop="20261021135939 +0000" channel="ENT Extreme">
+    <title lang="es">El señor de los anillos: El retorno del rey</title>
+    <desc lang="es">Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e8ebb229716a27db9334b1ace4f03d9a?w=400"/>
+  </programme>
+
+  <programme start="20261021135939 +0000" stop="20261021155531 +0000" channel="ENT Extreme">
+    <title lang="es">Spider-Man: Un nuevo día</title>
+    <desc lang="es">A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b9b2bce281da57a37b6c167bd344b4e2?w=400"/>
+  </programme>
+
+  <programme start="20261021155531 +0000" stop="20261021173945 +0000" channel="ENT Extreme">
+    <title lang="es">My Hero Academia: El Despertar de los Héroes</title>
+    <desc lang="es">Un nuevo villano, llamado Nine, está buscando a Tomura Shigaraki. Para ello, decide atacar la isla de Nabutō. Segunda película de la serie anime "My Hero Academia".</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/62b94d185956ca84ccde89e06f294782?w=400"/>
+  </programme>
+
+  <programme start="20261021173945 +0000" stop="20261021190431 +0000" channel="ENT Extreme">
+    <title lang="es">Las locuras de Dick y Jane</title>
+    <desc lang="es">Justo cuando están instalando una costosa piscina en casa, Dick es despedido de su bien pagado trabajo como ejecutivo, pero su mujer Jane, que es ama de casa, no se preocupa demasiado porque piensa que la situación será pasajera. Sin embargo, pronto resulta evidente que la pre...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/632ec39b5971a33990163c6973d7fcb0?w=400"/>
+  </programme>
+
+  <programme start="20261021190431 +0000" stop="20261021210749 +0000" channel="ENT Extreme">
+    <title lang="es">Pantera Negra</title>
+    <desc lang="es">T’Challa regresa a su hogar en la apartada nación africana de Wakanda para servir como líder de su país. Tras suceder a su padre en el trono, pasa a convertirse en Pantera Negra, una sigilosa criatura de la noche, con agudos sentidos felinos y otras habilidades como súper fuer...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3788fc609cc28fb7e0323e83aef0a6c1?w=400"/>
+  </programme>
+
+  <programme start="20261021210749 +0000" stop="20261021224038 +0000" channel="ENT Extreme">
+    <title lang="es">Bichos: Una Aventura en Miniatura</title>
+    <desc lang="es">Un viaje al diminuto mundo de los bichos, pero en dimensión de tamaño natural y aventuras que se encuentran en cada hoja de árbol. Flik, una hormiga muy ingeniosa que lucha por la libertad de los bichos del mundo, contrata a bichos guerreros para defender su colonia de un grup...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c714b244bbdc9d8f714ed2fc4e7ddb5d?w=400"/>
+  </programme>
+
+  <programme start="20261021224038 +0000" stop="20261022001749 +0000" channel="ENT Extreme">
+    <title lang="es">El reinado del fuego</title>
+    <desc lang="es">En el Londres actual, Quinn, un niño de 12 años, despierta por error a un enorme dragón de su letargo de siglos. Veinte años más tarde, pueden apreciarse las devastadoras consecuencias del paso de la bestia y de sus vástagos en la práctica totalidad del planeta. Los dragones s...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1910d3c38e97f75117233f9fc7d92669?w=400"/>
+  </programme>
+
+  <programme start="20261022001749 +0000" stop="20261022015417 +0000" channel="ENT Extreme">
+    <title lang="es">Moana: Un mar de aventuras</title>
+    <desc lang="es">En la antigua Polinesia, cuando una terrible maldición del semidiós Maui llega a la isla de Moana, ella responde al llamado del océano para buscar al semidiós y arreglar las cosas.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d3bad55186dc1ba6e0039c44108702e7?w=400"/>
+  </programme>
+
+  <programme start="20261022015417 +0000" stop="20261022035942 +0000" channel="ENT Extreme">
+    <title lang="es">Misión: Imposible 3</title>
+    <desc lang="es">El agente del FMI Ethan Hunt entra en conflicto con un peligroso y sádico traficante de armas que, en respuesta, amenaza su vida y la de su prometida.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2119cb89a40752555581fc1bd6693f52?w=400"/>
+  </programme>
+
+  <programme start="20261022035942 +0000" stop="20261022054621 +0000" channel="ENT Extreme">
+    <title lang="es">Miseria</title>
+    <desc lang="es">El novelista Paul Sheldon choca su auto en una carretera nevada de Colorado. Annie Wilkes, el "fanático número uno" de la heroína Misery Chastaine, lo encuentra. Annie también es algo inestable, y Paul se encuentra lisiado, drogado y a su merced.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3f97c203bfeaa766e934d4f175d95219?w=400"/>
+  </programme>
+
+  <programme start="20261022054621 +0000" stop="20261022072917 +0000" channel="ENT Extreme">
+    <title lang="es">Los sospechosos de siempre</title>
+    <desc lang="es">Retenidos en una sala de interrogatorios de Los Ángeles, Verbal Kint intenta convencer a los federales de que un señor del crimen mítico, Keyser Soze, no solo existe, sino que también fue responsable de atraer a él y a sus cuatro socios a un robo de varios millones de dólares...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2a9402aaf006ae0d2c822c39c25b26bd?w=400"/>
+  </programme>
+
+  <programme start="20261022072917 +0000" stop="20261022085958 +0000" channel="ENT Extreme">
+    <title lang="es">Fuera de Control</title>
+    <desc lang="es">Rachel que está por llegar tarde a su trabajo, se encuentra en el semáforo con un conductor que no avanza. Luego de darle un bocinazo, el hombre la seguirá para que le pida disculpas por su acción, pero al no recibir lo que él espera desata una furia descontrolada contra ella...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9fbcf97f870f0fe038d49f4d03aa24a1?w=400"/>
+  </programme>
+
+  <programme start="20261022085958 +0000" stop="20261022110852 +0000" channel="ENT Extreme">
+    <title lang="es">La Intérprete</title>
+    <desc lang="es">Silvia Broome, una mujer de origen africano, es intérprete de las Naciones Unidas. Un día, casualmente, oye cómo amenazan de muerte a un presidente africano acusado de genocidio, que está a punto de pronunciar un discurso en la Asamblea General. Tobin Keller es el agente feder...</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ee0f4f7c3465ebe7efd4f0c3157800c6?w=400"/>
+  </programme>
+
+  <programme start="20261022110852 +0000" stop="20261022120338 +0000" channel="ENT Extreme">
+    <title lang="es">Las aventuras de Winnie Pooh</title>
+    <desc lang="es">En esta colección de cortos animados basados en las historias y personajes de A.A. Milne, Winnie the Pooh, un osito de peluche amante de la miel, se embarca en algunas aventuras excéntricas.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1efafc0cee356c21f557689ffdbbe1cc?w=400"/>
+  </programme>
+
+  <programme start="20261022120338 +0000" stop="20261022141917 +0000" channel="ENT Extreme">
+    <title lang="es">Kingsman: El círculo dorado</title>
+    <desc lang="es">Tras la destrucción del cuartel general de los Kingsman y la toma de rehenes en el mundo, se descubre una organización de espionaje aliada en Estados Unidos. Estas dos organizaciones secretas de élite deben unirse para derrotar a un enemigo común.</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/127c5b23c29b6904d5ed5dfeb62efa65?w=400"/>
+  </programme>
+
+  <programme start="20261022141917 +0000" stop="20261022162135 +0000" channel="ENT Extreme">
+    <title lang="es">El mundo perdido: Jurassic Park</title>
+    <desc lang="es">Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1ce70912702b905ae3fc26630ed6a26d?w=400"/>
+  </programme>
+
+  <programme start="20261022162135 +0000" stop="20261022191333 +0000" channel="ENT Extreme">
+    <title lang="es">El señor de los anillos: Las dos torres</title>
+    <desc lang="es">La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legol...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4ce6c9403b62cd3c68059e0e7d186075?w=400"/>
+  </programme>
+
+  <programme start="20261022191333 +0000" stop="20261022211912 +0000" channel="ENT Extreme">
+    <title lang="es">Misión: Imposible 3</title>
+    <desc lang="es">El agente del FMI Ethan Hunt entra en conflicto con un peligroso y sádico traficante de armas que, en respuesta, amenaza su vida y la de su prometida.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2119cb89a40752555581fc1bd6693f52?w=400"/>
+  </programme>
+
+  <programme start="20261022211912 +0000" stop="20261022231048 +0000" channel="ENT Extreme">
+    <title lang="es">Ant-Man 2: La Avispa</title>
+    <desc lang="es">Mientras Scott Lang equilibra el ser un superhéroe y un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que unen al Hombre hormiga junto a La Avispa para luchar juntos y descubrir los secretos de su pasado.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/983487633937e550b0ef9e2e28018908?w=400"/>
+  </programme>
+
+  <programme start="20261022231048 +0000" stop="20261023011247 +0000" channel="ENT Extreme">
+    <title lang="es">La leyenda del tesoro perdido</title>
+    <desc lang="es">El buscador de tesoros Benjamin Franklin Gates ha dedicado su vida a buscar el legendario tesoro de Los Caballeros Templarios, del que se decía que era el botín más increíble de todos los tiempos y que estaba escondido en algún lugar de América. Durante siete generaciones, los...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2102432dfa8c52d6bbce348181cd8f36?w=400"/>
+  </programme>
+
+  <programme start="20261023011247 +0000" stop="20261023035944 +0000" channel="ENT Extreme">
+    <title lang="es">Transformers: La era de la extinción</title>
+    <desc lang="es">Han pasado 4 años desde la tragedia de Chicago y la humanidad sigue reparando los destrozos, pero tanto los Autobots como los Decepticons han desaparecido de la faz de la Tierra. Ahora el Gobierno de los Estados Unidos está utilizando la tecnología rescatada en el asedio de Ch...</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5e7200c481c5b50b18e6e6838c927dcc?w=400"/>
+  </programme>
+
+  <programme start="20261023035944 +0000" stop="20261023054757 +0000" channel="ENT Extreme">
+    <title lang="es">No hables con extraños</title>
+    <desc lang="es">Cuando una familia estadounidense es invitada a pasar el fin de semana en la idílica finca de una familia británica con la que hicieron amistad durante las vacaciones, lo que comienza como unas vacaciones de ensueño pronto se convierte en una pesadilla psicológica.</desc>
+    <category lang="es">Terror</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ba77fae891f77a74bfeae59467af2c1?w=400"/>
+  </programme>
+
+  <programme start="20261023054757 +0000" stop="20261023072421 +0000" channel="ENT Extreme">
+    <title lang="es">Juegos de adultos</title>
+    <desc lang="es">Durante una cena conjunta en el restaurante, los vecinos ofrecen intercambiar esposas por una noche. Fue una broma, pero solo al principio.</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a957e882183b58771de6e349c1ba167b?w=400"/>
+  </programme>
+
+  <programme start="20261023072421 +0000" stop="20261023085958 +0000" channel="ENT Extreme">
+    <title lang="es">En la línea de fuego</title>
+    <desc lang="es">Un ex agente del FBI se ve arrastrado de nuevo a un mundo peligroso cuando la sobrina de su antiguo compañero le pide ayuda.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/189ae9c98fc0ccff1995f9267960e2a2?w=400"/>
+  </programme>
+
+  <programme start="20261023085958 +0000" stop="20261023103303 +0000" channel="ENT Extreme">
+    <title lang="es">Hombres de negro</title>
+    <desc lang="es">Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los humanos, sin que nadie lo supiese. Los Hombres de Negro (Men in Black) son unos agentes, pertenecientes a una asociación altamente secreta del gobierno, encargados de controlar a los alienígenas...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7348275a84272db1fa1c9f8f409c2cde?w=400"/>
+  </programme>
+
+  <programme start="20261023103303 +0000" stop="20261023124448 +0000" channel="ENT Extreme">
+    <title lang="es">Wolverine: Inmortal</title>
+    <desc lang="es">Wolverine llega a Japón para conocer a un viejo amigo cuya vida salvó hace años, y se ve envuelto en una conspiración que involucra a la yakuza y a los mutantes.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/823c5dd41f451b6fcdc313bc2454ba67?w=400"/>
+  </programme>
+
+  <programme start="20261023124448 +0000" stop="20261023150857 +0000" channel="ENT Extreme">
+    <title lang="es">Harry Potter y el cáliz de fuego</title>
+    <desc lang="es">El Torneo de los Tres Magos llega a la escuela Hogwarts. Sin embargo, Harry Potter se convierte en un competidor, pero nunca presentó su nombre. A medida que avanza los juegos, poco a poco Harry descubre las intenciones detras de este torneo.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/750457088524cb3e4b8ba1a7919c0165?w=400"/>
+  </programme>
+
+  <programme start="20261023150857 +0000" stop="20261023165142 +0000" channel="ENT Extreme">
+    <title lang="es">El Sexto Sentido</title>
+    <desc lang="es">El doctor Malcom Crowe es un conocido psicólogo infantil de Philadelphia que vive obsesionado por el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cuando conoce a Cole Sear, un aterrorizado y confuso niño de ocho años que necesita tratamie...</desc>
+    <category lang="es">Misterio</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/85a01ad0dd83384e40d23e1610d531b5?w=400"/>
+  </programme>
+
+  <programme start="20261023165142 +0000" stop="20261023182431 +0000" channel="ENT Extreme">
+    <title lang="es">Bichos: Una Aventura en Miniatura</title>
+    <desc lang="es">Un viaje al diminuto mundo de los bichos, pero en dimensión de tamaño natural y aventuras que se encuentran en cada hoja de árbol. Flik, una hormiga muy ingeniosa que lucha por la libertad de los bichos del mundo, contrata a bichos guerreros para defender su colonia de un grup...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c714b244bbdc9d8f714ed2fc4e7ddb5d?w=400"/>
+  </programme>
+
+  <programme start="20261023182431 +0000" stop="20261023200816 +0000" channel="ENT Extreme">
+    <title lang="es">Volver al Futuro 2</title>
+    <desc lang="es">Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más mode...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1aba52c78413b23f1baee696ed45b2c7?w=400"/>
+  </programme>
+
+  <programme start="20261023200816 +0000" stop="20261023215651 +0000" channel="ENT Extreme">
+    <title lang="es">Thor: Amor y Trueno</title>
+    <desc lang="es">Mucho tiempo después de los eventos sucedidos en Avengers: Endgame, los Guardianes de la Galaxia deben convencer a Thor para que regrese al campo de batalla y se enfrente a un villano empeñado en matar a todas las criaturas divinas en todo el cosmos. Para luchar contra esta am...</desc>
+    <category lang="es">Fantasía</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/aa977573011f9acd45a6ae589d014b16?w=400"/>
+  </programme>
+
+  <programme start="20261023215651 +0000" stop="20261023231532 +0000" channel="ENT Extreme">
+    <title lang="es">La sirenita</title>
+    <desc lang="es">Ariel, la más joven de las hijas del rey Tritón y la más desafiante, anhela saber más sobre el mundo más allá del mar y, mientras visita la superficie, se enamora del apuesto príncipe Eric. Con las sirenas prohibidas para interactuar con los humanos, Ariel hace un trato con la...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/79e13ad4a9b14671b243444b0394d083?w=400"/>
+  </programme>
+
+  <programme start="20261023231532 +0000" stop="20261024004418 +0000" channel="ENT Extreme">
+    <title lang="es">Sherlock: La novia abominable</title>
+    <desc lang="es">¡Bienvenidos al Sherlock de 1895! Para el detective más famoso del mundo y su mejor amigo, algunas cosas continúan igual: la amistad, la aventura y sobre todo... los asesinatos. ¿Por qué se sorprende Thomas Ricoletti de ver a su mujer con su vestido de boda? Porque apenas unas...</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5c30a84ee09ab7324510582b212ece07?w=400"/>
+  </programme>
+
+  <programme start="20261024004418 +0000" stop="20261024021107 +0000" channel="ENT Extreme">
+    <title lang="es">George de la Selva</title>
+    <desc lang="es">En lo más profundo de la jungla africana los gorilas han criado a un bebé, George. Crecerá para ser el más valiente rey de la jungla. George va de un árbol a otro llevándose por delante todo lo que está en su camino. Pero cuando una bella mujer llamada Úrsula, procedente de la...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/16520fa295dd8b35675a7ae212c7466b?w=400"/>
+  </programme>
+
+  <programme start="20261024021107 +0000" stop="20261024035944 +0000" channel="ENT Extreme">
+    <title lang="es">Cars</title>
+    <desc lang="es">El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0505e3de45565ca9bbce587ce37e3733?w=400"/>
   </programme>
 </tv>
