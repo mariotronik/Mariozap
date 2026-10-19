@@ -499,11 +499,8 @@ http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tcc-HBO.uy" tvg-name="HBO" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="CINE 1" tvg-chno="68" type="channel",HBO
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
