@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="40MediaGroup-Converter">
 
-<tv generator-info-name="IPTV EPG Converter">
   <!-- Definición del canal -->
   <channel id="ENT Extreme">
     <display-name lang="es">ENT Extreme</display-name>
