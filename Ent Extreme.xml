@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="IPTV EPG Converter">
+  <!-- Definición del canal -->
+  <channel id="ENT Extreme">
+    <display-name lang="es">ENT Extreme</display-name>
+  </channel>
+
+  <!-- Lista de programas -->
+  <programme start="20261019144608 +0000" stop="20261019162025 +0000" channel="ENT Extreme">
+    <title lang="es">Cars 3</title>
+    <desc lang="es">La elegante corredora Cruz Ramirez ayudará al veterano campeón Rayo McQueen a regresar a la pista enfrentando a una nueva generación de corredores de alta tecnología. Pronto, Rayo McQueen demostrará que sigue siendo el mejor del mundo.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8586c5c2506dedbe087dcd35eee82a23?w=400"/>
+  </programme>
+
+  <programme start="20261019162025 +0000" stop="20261019175325 +0000" channel="ENT Extreme">
+    <title lang="es">Bleach: La rebelión del polvo de diamante</title>
+    <desc lang="es">Cuando un artefacto conocido como el "Sello del Rey" es robado durante el transporte desde la Sociedad de Almas, Hitsugaya Toushirou es asignado para recuperarlo. Toushirou desaparece después de una batalla con los ladrones, lo que lleva a Seireitei a sospechar de él por traición.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/76ff2080e82fd1c13fc15a978a63fd5e?w=400"/>
+  </programme>
+
+  <programme start="20261019175325 +0000" stop="20261019201142 +0000" channel="ENT Extreme">
+    <title lang="es">Maze Runner: La cura mortal</title>
+    <desc lang="es">El joven héroe Thomas no puede confiar en la organización CRUEL, entonces con sus amigos se embarca en una misión para encontrar una cura para la enfermedad mortal conocida como La Llamarada.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f7ee060f3ba12493893cfd79b1612b63?w=400"/>
+  </programme>
+
+  <programme start="20261019201142 +0000" stop="20261019221905 +0000" channel="ENT Extreme">
+    <title lang="es">Star Wars: El despertar de la fuerza</title>
+    <desc lang="es">Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte, la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, amenaza la paz.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5c5001ccb579e85eab5d93a850dbd606?w=400"/>
+  </programme>
+
+  <programme start="20261019221905 +0000" stop="20261020001831 +0000" channel="ENT Extreme">
+    <title lang="es">Piratas del Caribe 5: La Venganza de Salazar</title>
+    <desc lang="es">Inmerso en una nueva aventura, el desafortunado Capitán Jack Sparrow siente que la mala suerte se cierne sobre él con más fuerza cuando unos letales marineros fantasma escapan del Triángulo de las Bermudas.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b4e14b96794219ef05d08de26b283448?w=400"/>
+  </programme>
+</tv>
