@@ -632,7 +632,7 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/mast
 
 
 
-#EXTINF:-1 tvg-id="ENT Comedy" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="Cine y Series", ENT COMEDY
+#EXTINF:-1 tvg-id="ent.comedy" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="Cine y Series", ENT COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8    
 
