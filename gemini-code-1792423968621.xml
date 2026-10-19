@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="40MediaGroup-Converter">
+
+  <!-- Definición del canal -->
+  <channel id="ent.comedy">
+    <display-name>ENT Comedy</display-name>
+  </channel>
+
+  <!-- Lista de programas -->
+  <programme start="20261019085955 +0000" stop="20261019103926 +0000" channel="ent.comedy">
+    <title lang="es">Rescate en el barrio Chino</title>
+    <desc lang="es">Jack Burton es un camionero que, en una de sus paradas en el barrio de Chinatown, en San Francisco, le gana una gran cantidad de dinero a Wang Chi. Este le convence para que le lleve al aeropuerto a recoger a su prometida Miao Yin, tras lo cual le entregará el dinero que le de...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4e2dd76e66245862a9066919119b2a63?w=400" />
+  </programme>
+
+  <programme start="20261019103926 +0000" stop="20261019115959 +0000" channel="ent.comedy">
+    <title lang="es">¿Y dónde está el policía? 2 1/2: El aroma del miedo</title>
+    <desc lang="es">El teniente Frank Drebin descubre que el nuevo novio de su exnovia está implicado en un complot para secuestrar a un científico que aboga por la energía solar.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2d302fddcd5f97b060d284e540d9e60d?w=400" />
+  </programme>
+
+  <programme start="20261019115959 +0000" stop="20261019122957 +0000" channel="ent.comedy">
+    <title lang="es">Dinosaurios</title>
+    <sub-title lang="es">La Cola De Charlene</sub-title>
+    <desc lang="es">Charlene se da cuenta de que las otras hembras están recibiendo sus colas antes que ella. Entonces, mientras Fran intenta enseñarle que un cuerpo hermoso no tiene una mente hermosa, Charlene piensa en soluciones rápidas y los machos de la casa se burlan.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ec2c4059fe397942be18db81e03bcd6d?w=400" />
+  </programme>
+
+  <programme start="20261019122957 +0000" stop="20261019125957 +0000" channel="ent.comedy">
+    <title lang="es">La Niñera</title>
+    <sub-title lang="es">La niñera mayor</sub-title>
+    <desc lang="es">Maxwell recibe la visita de Clara Mueller, su rígida niñera de la infancia (Cloris Leachman), quien empieza a imponer sus propios métodos a sus hijos lo que causa malestar a Fran, además del hecho de que las intenciones de su niñera es quedarse con su puesto; no ayuda que Nile...</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bd5e1b753bdbdabb3a89fb9397783e46?w=400" />
+  </programme>
+
+  <programme start="20261019125957 +0000" stop="20261019132958 +0000" channel="ent.comedy">
+    <title lang="es">El Chapulín Colorado</title>
+    <sub-title lang="es">EP. 10 Vagos paralizados, Chantaje, Agua helada</sub-title>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7e03cb369b965b05f136cb167845afdc?w=400" />
+  </programme>
+
+  <programme start="20261019132958 +0000" stop="20261019135959 +0000" channel="ent.comedy">
+    <title lang="es">ALF</title>
+    <sub-title lang="es">Eres alguien fuera de este mundo</sub-title>
+    <desc lang="es">ALF develops a crush on Lynn and starts to sabotage the dates with her boyfriend Scott while trying to come up with something to impress her.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a9501dc9857626214f5bb3ee670dd37b?w=400" />
+  </programme>
+
+  <programme start="20261019135959 +0000" stop="20261019142958 +0000" channel="ent.comedy">
+    <title lang="es">Malcolm el de en Medio</title>
+    <sub-title lang="es">Francis se escapa</sub-title>
+    <desc lang="es">Francis escapa de la militarizada para poder ver a su novia Bibi. Accidentalmente, Malcolm se lo dice a su mamá.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/89648ac2475198ebbd9d64780b89465f?w=400" />
+  </programme>
+
+  <programme start="20261019142958 +0000" stop="20261019145957 +0000" channel="ent.comedy">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">Donde nani muere dos veces</sub-title>
+    <desc lang="es">Monica y Ross están de luto por el fallecimiento de su abuela. Chandler se cuestiona su sexualidad.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/99499866ec2fd165ff1e80fa0ee4fcd6?w=400" />
+  </programme>
+
+  <programme start="20261019145957 +0000" stop="20261019152958 +0000" channel="ent.comedy">
+    <title lang="es">El Chavo</title>
+    <sub-title lang="es">Los tronadores [Repetición]</sub-title>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a792a46f39f765abf2e692dc48faa2ad?w=400" />
+  </programme>
+
+  <programme start="20261019152958 +0000" stop="20261019155957 +0000" channel="ent.comedy">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Un Momento De Decision</sub-title>
+    <desc lang="es">Homero compra a Marge una bola de boliche para su cumpleaños, a pesar de que ella nunca ha jugado al bowling. Enfadada con el regalo de Homero, decide tomar clases de bolos con un encantador instructor francés, llamado Jacques. Al mejorar su juego, Marge y Jacques se van acerc...</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/caa4472d9b9956f0eb561a9a9a58cc5d?w=400" />
+  </programme>
+
+  <programme start="20261019155957 +0000" stop="20261019175932 +0000" channel="ent.comedy">
+    <title lang="es">Gigantes</title>
+    <desc lang="es">Alfonso, de 11 años, es heredero de Don Quijote, y le acompañan sus tres conejos imaginarios, a los que se unen Pancho y Victoria. Con el poder de su amistad, salvan su querido pueblo natal en algún lugar de La Mancha de una gran tormenta. Sueñan lo imposible, superan sus mied...</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/69a82faf7d6fa75ca601962327bacfed?w=400" />
+  </programme>
+
+  <programme start="20261019175932 +0000" stop="20261019194024 +0000" channel="ent.comedy">
+    <title lang="es">Los Cazafantasmas</title>
+    <desc lang="es">Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa "Los Cazafantasmas", dedicada a limpiar Nueva York de ectoplasmas. El aumento...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/7ccaab12f545bc32ad4a268d1c87744d?w=400" />
+  </programme>
+
+  <programme start="20261019194024 +0000" stop="20261019211805 +0000" channel="ent.comedy">
+    <title lang="es">El tesoro del Amazonas</title>
+    <desc lang="es">Cuando Travis, el hijo mouthy de un criminal, desaparece en el Amazonas en busca de un artefacto atesorado, su padre hace pasar a Beck, que se hace el rival de Travis para los afectos de Mariana, una mujer brasileña misteriosa. Con su disposición acerada, Beck es un hombre de...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c4567d5fcb483fc748ad8108fdb2b800?w=400" />
+  </programme>
+
+  <programme start="20261019211805 +0000" stop="20261019231702 +0000" channel="ent.comedy">
+    <title lang="es">La suerte de los Logan</title>
+    <desc lang="es">Intentando revertir una maldición familiar, tres hermanos, Jimmy (Channing Tatum), Mellie (Riley Keough) y Clyde Logan (Adam Driver), intentan llevar a cabo un gran asalto durante una importante carrera de coches Nascar en Concord, Carolina del Norte</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c598b192125da52087381f018ee4b1c3?w=400" />
+  </programme>
+
+  <programme start="20261019231702 +0000" stop="20261020010012 +0000" channel="ent.comedy">
+    <title lang="es">Ratatouille</title>
+    <desc lang="es">Remy, una simpática rata, sueña en convertirse en un chef que pueda crear sus obras culinarias a su gusto. Pero cuando termina en la alcantarilla debajo de uno de los mejores restaurantes de París, el Roedor Gourmet, se encuentra en el lugar ideal para hacer realidad su sueño.</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d3d9b56454038f8f8c46b27ff8a5449e?w=400" />
+  </programme>
+
+  <programme start="20261020010012 +0000" stop="20261020023004 +0000" channel="ent.comedy">
+    <title lang="es">Bolt: Un perro fuera de serie</title>
+    <desc lang="es">¡Que comience la acción! Prepárate para la aventura más absolutamente fabulosa de todos los tiempos cuando Bolt, el mejor héroe de todo el planeta, y yo, Rhino, su fiel compañero y leal hámster acompañante, ¡emprendemos una misión súper secreta! Como uno de los integrantes de...</desc>
+    <category lang="es">Animación</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/817d7d9ac8d4c840e1857c88026f053e?w=400" />
+  </programme>
+
+  <programme start="20261020023004 +0000" stop="20261020025957 +0000" channel="ent.comedy">
+    <title lang="es">Smiling Friends</title>
+    <sub-title lang="es">Charlie muere y no regresa</sub-title>
+    <desc lang="es">En el último episodio de la temporada, Charlie muere. De verdad.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6ffac75f709ad98a2ed4935a317cb7a7?w=400" />
+  </programme>
+
+  <programme start="20261020025957 +0000" stop="20261020043752 +0000" channel="ent.comedy">
+    <title lang="es">El peso del talento</title>
+    <desc lang="es">Insatisfecho creativamente y en deudas de dinero, Nicolas Cage se ve forzado a aceptar 1 millón de dólares a cambio de asistir a la fiesta de cumpleaños de un obsesivo fanático: Javi. Las cosas cambian inesperadamente cuando Nicolas Cage es reclutado por la CIA para ayudar a a...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ec900fec23edc1b4982caccf0f2bf1d8?w=400" />
+  </programme>
+
+  <programme start="20261020043752 +0000" stop="20261020062155 +0000" channel="ent.comedy">
+    <title lang="es">Juegos, trampas y dos armas humeantes</title>
+    <desc lang="es">Eddie convence a tres amigos para jugarse sus ahorros en una partida de cartas contra Harry el Hacha, un mafioso del barrio. La partida está amañada, y Eddie no sólo pierde todo el dinero sino que contrae una deuda de medio millón de libras, que debe pagar en el plazo de una s...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d7bbd7afe68b79059e7c0e894813f3aa?w=400" />
+  </programme>
+
+  <programme start="20261020062155 +0000" stop="20261020085952 +0000" channel="ent.comedy">
+    <title lang="es">Tipos de gentileza</title>
+    <desc lang="es">Fábula en forma de tríptico que narra tres historias: la de un hombre atrapado que intenta tomar las riendas de su propia vida; la de un policía aterrado porque su mujer, que había desaparecido en el mar, ha vuelto y parece otra persona; y la de una mujer decidida a encontrar...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/4ab7ec92de7840231e15dfb4b3be7bb3?w=400" />
+  </programme>
+
+  <programme start="20261020085952 +0000" stop="20261020104040 +0000" channel="ent.comedy">
+    <title lang="es">Mientras dormías</title>
+    <desc lang="es">Lucy es una joven taquillera del metro con poca suerte en el amor. Su sueño es salir con Peter, un guapo ejecutivo que todos los días coge el metro sin fijarse en ella. Un día Peter tiene un accidente en el metro y, aunque Lucy le salva la vida, queda en estado de coma. Cuando...</desc>
+    <category lang="es">Romance</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/abc114ac0fe433ae13c466e200b18f4a?w=400" />
+  </programme>
+
+  <programme start="20261020104040 +0000" stop="20261020115959 +0000" channel="ent.comedy">
+    <title lang="es">Detective por error</title>
+    <desc lang="es">Un caso de confusión de identidades obliga a un duro agente federal a unirse con un vendedor dental para lograr terminar su operación.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c6931ba2f8ab96269e69af9d1b3677ba?w=400" />
+  </programme>
+
+  <programme start="20261020115959 +0000" stop="20261020122958 +0000" channel="ent.comedy">
+    <title lang="es">Dinosaurios</title>
+    <sub-title lang="es">Especie En Peligro</sub-title>
+    <desc lang="es">Es el vigésimo aniversario de Fran y Earl. Para hacerlo muy especial, Earl compra un manjar para la cena: una especie llamada Grapdelitas, que, gracias a sus compañeros, están prácticamente extintas. Mientras Earl trata desesperadamente de mantener alejadas las patas de todos,...</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2b3c015fd6fe2af23f53c25065aa63a6?w=400" />
+  </programme>
+
+  <programme start="20261020122958 +0000" stop="20261020125958 +0000" channel="ent.comedy">
+    <title lang="es">La Niñera</title>
+    <sub-title lang="es">Una cita para Fran</sub-title>
+    <desc lang="es">La madre de Fran la visita para comentarle que le tien un regalo sorpresa: una parcela en el cementerio y adicionalmente le dice que le ha conseguido una cita con el guapo dueño de la Funeraria, lo que causa preocupación y celos en Maxwell. Todo parece marchar bien entre Fran...</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/93197434c340970841cfaed85a3a382d?w=400" />
+  </programme>
+
+  <programme start="20261020125958 +0000" stop="20261020132952 +0000" channel="ent.comedy">
+    <title lang="es">El Chapulín Colorado</title>
+    <sub-title lang="es">EP. 16 Búsqueda del enfermo</sub-title>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/94203cd185cf56633b38e52c838201ef?w=400" />
+  </programme>
+
+  <programme start="20261020132952 +0000" stop="20261020135959 +0000" channel="ent.comedy">
+    <title lang="es">ALF</title>
+    <sub-title lang="es">Salta</sub-title>
+    <desc lang="es">When ALF finds an old bucket list of Kate and Willie, Willie starts to have second thoughts about the things he did not do in life - he decides to do a parachute jump he always wanted to dare.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/387ebeddabcbd661be56dd12c59a4d61?w=400" />
+  </programme>
+
+  <programme start="20261020135959 +0000" stop="20261020142959 +0000" channel="ent.comedy">
+    <title lang="es">Malcolm el de en Medio</title>
+    <sub-title lang="es">El día de campo</sub-title>
+    <desc lang="es">La escuela de Malcolm ha preparado un día de campo, todos los alumnos de la clase de avanzados han preparado proyectos para la feria de ciencias y Malcolm tambien está incluido, solo que le molesta tener que hacerlo... Malcolm tratará de sabotear el dia de campo para no tener...</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ecbd5adaf2f57e95819a69c146da516?w=400" />
+  </programme>
+
+  <programme start="20261020142959 +0000" stop="20261020145958 +0000" channel="ent.comedy">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">Día de Acción de Gracias</sub-title>
+    <desc lang="es">La primera cena de Acción de Gracias que Monica prepara para el grupo se quema cuando todos corren a la terraza para ver el globo que se escapó del desfile.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/47e68949a9364920841b6ac634d62126?w=400" />
+  </programme>
+
+  <programme start="20261020145958 +0000" stop="20261020152957 +0000" channel="ent.comedy">
+    <title lang="es">El Chavo</title>
+    <sub-title lang="es">El enfermo / Buena vecindad [REPETICIÓN]</sub-title>
+    <desc lang="es">El Doctor Chapatín va a examinar a un hombre que vive como "amo de casa". / La vecindad del Chavo realiza una fiesta para celebrar la Buena Vecindad, pero como siempre, los inquilinos terminan peleándose entre ellos.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/919ec592527d42f1872acd3735a0f1d2?w=400" />
+  </programme>
+
+  <programme start="20261020152957 +0000" stop="20261020155958 +0000" channel="ent.comedy">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">La Correria De Homero</sub-title>
+    <desc lang="es">Utilizando su cámara de juguete para espías, Bart captura a Homero, ebrio y coqueteando con una bailarina llamada la 'Princesa Cachemira'. Cuando revela la fotografía, ésta es fotocopiada y distribuida por toda la ciudad, arruinando la reputación de Homero.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1e5a61370cae495f7dd93e145ca1fb2b?w=400" />
+  </programme>
+
+  <programme start="20261020155958 +0000" stop="20261020175055 +0000" channel="ent.comedy">
+    <title lang="es">Locura de verano</title>
+    <desc lang="es">Es la última noche del verano de 1962, y los adolescentes de Modesto (California) quieren divertirse antes de afrontar sus responsabilidades como adultos. Así que todos salen esa noche para beber, ligar, pasearse en coche, ir a la bolera o bailar un rato.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/01e1d5783b22c53ad28721b5408cd6bf?w=400" />
+  </programme>
+
+  <programme start="20261020175055 +0000" stop="20261020192346 +0000" channel="ent.comedy">
+    <title lang="es">Bichos: Una Aventura en Miniatura</title>
+    <desc lang="es">Un viaje al diminuto mundo de los bichos, pero en dimensión de tamaño natural y aventuras que se encuentran en cada hoja de árbol. Flik, una hormiga muy ingeniosa que lucha por la libertad de los bichos del mundo, contrata a bichos guerreros para defender su colonia de un grup...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c714b244bbdc9d8f714ed2fc4e7ddb5d?w=400" />
+  </programme>
+
+  <programme start="20261020192346 +0000" stop="20261020205016 +0000" channel="ent.comedy">
+    <title lang="es">Viaje al centro de la Tierra</title>
+    <desc lang="es">Durante una expedición científica en Islandia, el científico y visionario Trevor Anderson, su sobrino Sean y la bella guía local, Hannah, quedan inesperadamente atrapados en una cueva y la única forma de escape posible les lleva a adentrarse cada vez más en las entrañas de la...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a3d7a5f2d0ec5675cb8b5c96acd3400?w=400" />
+  </programme>
+
+  <programme start="20261020205016 +0000" stop="20261020221149 +0000" channel="ent.comedy">
+    <title lang="es">31 Minutos: Calurosa Navidad</title>
+    <desc lang="es">Titirilquén, el pueblo de 31 Minutos, vive una Navidad tan infernalmente calurosa… ¡que Santa Claus debe suspender su visita! Pero no todo está perdido: El conejo Bodoque se ofrece heroicamente a ir por los regalos al Polo Norte. Para esperarlo, sus amigos improvisan un espect...</desc>
+    <category lang="es">Familia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/af72eb42d960b7a22c834bbb544600c0?w=400" />
+  </programme>
+
+  <programme start="20261020221149 +0000" stop="20261021001247 +0000" channel="ent.comedy">
+    <title lang="es">Thor: Ragnarok</title>
+    <desc lang="es">Encarcelado en el planeta Sakaar, Thor debe correr contra el tiempo para volver a Asgard y detener a Ragnarök, la destrucción de su mundo, a manos del poderoso y despiadado villano Hela.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/20a4b78aa296c50c3fa8c775992e43b6?w=400" />
+  </programme>
+
+  <programme start="20261021001247 +0000" stop="20261021022958 +0000" channel="ent.comedy">
+    <title lang="es">Mickey 17</title>
+    <desc lang="es">Mickey Barnes se encuentra en la extraordinaria circunstancia de trabajar para un empleador que exige el compromiso máximo con el trabajo… morir, para ganarse la vida.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a4830923fa6ece914a676693a94e5ca3?w=400" />
+  </programme>
+
+  <programme start="20261021022958 +0000" stop="20261021025956 +0000" channel="ent.comedy">
+    <title lang="es">Smiling Friends</title>
+    <sub-title lang="es">Smiling Friends va a Brasil</sub-title>
+    <desc lang="es">Los Smiling Friends finalmente logran relajarse en una hermosa playa de Brasil.</desc>
+    <category lang="es">Serie</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f5780c199d6ef20136528e6ae42616f7?w=400" />
+  </programme>
+
+  <programme start="20261021025956 +0000" stop="20261021042742 +0000" channel="ent.comedy">
+    <title lang="es">El Doctor Erótico</title>
+    <desc lang="es">El cirujano Michael Hfuhruhurr es una eminencia en neurología, especialmente tras inventar un nuevo método quirúrgico para operaciones cerebrales. Cuando un buen día va en su coche dando una entrevista, atropella accidentalmente a la viperina Dolores, una atractiva mujer ambic...</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/863106848a8ec8a3adc7bcfc60b6f69d?w=400" />
+  </programme>
+
+  <programme start="20261021042742 +0000" stop="20261021055442 +000
