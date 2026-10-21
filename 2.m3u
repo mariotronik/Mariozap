@@ -318,11 +318,6 @@ http://216.155.91.47:8000/play/a0r6/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes" tvg-logo="", DISNEY F1 PRUEBA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.envivoslatam99.sbs/disney1/tracks-v1a1/mono.m3u8?ip=179.37.234.53&token=f7b328001740ef5401e9e8e37a2e132f9983370f-0a-1788727404-1788673404
 
 
 #EXTINF:-1 tvg-name="DAZN F1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes" tvg-logo="", DISNEY F1 ESPERAR
