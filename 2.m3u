@@ -257,7 +257,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
-#EXTINF:-1 tvg-id="mov-ESPN3.ar" tvg-name="mov-ESPN3.ar" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="Deportes", ESPN 3
+#EXTINF:-1 tvg-id="mov-ESPN3.ar" tvg-name="mov-ESPN3.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1feV02t714tfR9bzkEuNFb8fDTJ2dn1aKHKKXE-Mc7czEeZ5pTjycZORPn53yjERWlPcDm6bp3QASFs5889QOQE1QFdOWdf24PfZckHQtBGzAESxbR9e7lefAtrD98WRtjH_yhRB4tfI/s496/espn3-2020.png" group-title="Deportes", ESPN 3
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
