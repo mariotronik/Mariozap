@@ -761,7 +761,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 http://iptvpremium.ink:55577/live/pedro202520cb/pedro202520cb/258053.m3u8
 
 #EXTINF:-1 tvg-id="El CHAVO DEL 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7 Horas", EL CHAVO 24/7 
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
+http://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 type="stream" channelId="-1" group-title="24/7 Horas" tvg-logo="https://i.imgur.com/nmZ2nId.png", BOB ESPONJA 24/7 
 http://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
