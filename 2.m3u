@@ -405,7 +405,7 @@ http://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37d
 
 
 
-#EXTINF:-1 tvg-id="Canal.Disney.Channel.(Argentina).ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DISNEY.CHANNEL.HD.(DisneyHD).pe" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/DisneyChannelHD.stream/playlist.m3u8
 
@@ -415,12 +415,12 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/DisneyChannelHD.stream/playlist.
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/disney_jr.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="nickelodeon_peru" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Infantil", NICKELODEON 
+#EXTINF:-1 tvg-id="NICKELODEON.(Nickelodeon).pe" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Infantil", NICKELODEON 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Nickelodeon/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal.Nick.Jr..(Argentina).ar" tvg-name="Nick" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Infantil", NICK jr
+#EXTINF:-1 tvg-id="NICK.JR.OTT.(Nick.Jr).pe" tvg-name="Nick" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Infantil", NICK jr
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Nick_Junior.stream/playlist.m3u8
 
