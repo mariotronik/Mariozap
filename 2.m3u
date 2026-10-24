@@ -212,18 +212,18 @@ http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
 
-EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN
+EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN
 EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #HTTP-REFERER=https://zapster.trapemn.tv/
-#HTTP-ORIGIN=https://zapster.trapemn.tv 
+#HTTP-ORIGIN=https://zapster.trapemn.tv
 http://bantel-cdn3.iptvperu.tv:1935/btnscrtn/espn-mux/playlist.m3u8
 
 
-EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN opc2
+EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN opc2
 EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -231,22 +231,13 @@ EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, And
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv 
-http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN1.stream/chunks.m3u8
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-#EXTINF:-1 tvg-id="mov-ESPN2.ar" tvg-name="mov-ESPN2.ar t"vg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes", ESPN 2
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn2-mux/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-#EXTINF:-1 tvg-id="mov-ESPN2.ar" tvg-name="mov-ESPN2.ar t"vg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes", ESPN 2
+#EXTINF:-1 tvg-id="mov-ESPN2.ar" tvg-name="mov-ESPN2.ar t"vg-logo="https://logo.m3uassets.com/espn2.png" group-title="Deportes", ESPN 2 
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
@@ -256,7 +247,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
-#EXTINF:-1 tvg-id="mov-ESPN3.ar" tvg-name="mov-ESPN3.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1feV02t714tfR9bzkEuNFb8fDTJ2dn1aKHKKXE-Mc7czEeZ5pTjycZORPn53yjERWlPcDm6bp3QASFs5889QOQE1QFdOWdf24PfZckHQtBGzAESxbR9e7lefAtrD98WRtjH_yhRB4tfI/s496/espn3-2020.png" group-title="Deportes", ESPN 3
+#EXTINF:-1 tvg-id="mov-ESPN3.ar" tvg-name="mov-ESPN3.ar" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Deportes", ESPN 3
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
@@ -266,7 +257,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-#EXTINF:-1 tvg-id="mov-ESPN4.ar" tvg-name="ESPN 4 AR" tvg-logo= "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRvGqWohygCp91OmeIjXZNVUFgBnvRyF_RtM8IT8DS4ii_JsxJLo4UoKL-9NZq9RJBuVU6sTb-5WQ45vfisUFtuqZESTPHGiQ35fY2K4ssYJjfh86b2VB1qmkfBY2SjvD9jWeHGWZQ0xscC-zgISX5MbQ-LenCaX5UcVqldoWQbRB2EUPAOpTbRScw9A/s2560/espn4.png" group-title="Deportes", ESPN 4
+#EXTINF:-1 tvg-id="mov-ESPN4.ar" tvg-name="ESPN 4 AR" tvg-logo= "https://logo.m3uassets.com/espn4.png" group-title="Deportes", ESPN 4
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
@@ -276,11 +267,12 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-#EXTINF:-1 tvg-id="tcc-ESPN5.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5522598607348.png" group-title="Deportes", ESPN 5
+#EXTINF:-1 tvg-id="tcc-ESPN5.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png" group-title="Deportes", ESPN 5
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn5-mux/playlist.m3u8
 
 
@@ -291,6 +283,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn5-mux/playlist.m3u8
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0dj/index.m3u8?hls
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn6-mux/playlist.m3u8
 
 
@@ -301,6 +294,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn6-mux/playlist.m3u8
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN7/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN7_stream_hu&_cdn_session=3534412477&_cdn_token=f1651ec4d9fe391d3c2fb7239c904ce251c247fa
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn7-mux/playlist.m3u8
 
 
@@ -314,6 +308,7 @@ http://216.155.91.47:8000/play/a0r6/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" group-title="Deportes" tvg-logo="https://e7.pngegg.com/pngimages/1002/931/png-clipart-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television.png", ESPN PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0ke/index.m3u8?hls
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/chunks.m3u8
 
 
@@ -325,10 +320,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/chunks.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-id="ESPN 2 A" group-title="Deportes" tvg-logo="", DAZN F1 opc2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.234.53&token=284cea132a16b53cd0e0ca48486b8fea8a913abd-56-1788724666-1788670666
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -339,6 +330,7 @@ https://s2.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.234.53&toke
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/FoxSports1.stream/playlist.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -507,7 +499,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tcc-HBO.uy" tvg-name="HBO" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="CINE 1" tvg-chno="68" type="channel",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
+http://38.210.3.64:8090/play/a0h9/index.m3u8?hls
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -545,6 +537,7 @@ https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0p0/index.m3u8?hls
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=NTE5IExBVDogSEJPIE11bmRp&t=p&f=.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
 
@@ -557,7 +550,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY.pe" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="Cine y Series",HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://38.210.3.64:8090/play/a0h5/index.m3u8?hls
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
+
 
 
 
@@ -597,11 +592,13 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SPACE.pe" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 
 
@@ -722,6 +719,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_c
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png" group-title="Cine y Series", COMEDY CENTRAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Comedi_Central.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Comedy_Central/playlist.m3u8
 
 
@@ -817,15 +815,30 @@ EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01b52
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=e8b8e630-c430-11f1-ae67-000d3a9c6619&clientModelNumber=1.0.0&country=MX&deviceDNT=false&deviceId=e8b8e630-c430-11f1-ae67-000d3a9c6619&deviceLat=19.4300&deviceLon=-99.1000&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=e8be0516-c430-11f1-a49d-8a5d30d7f882&sid=e8be0516-c430-11f1-a49d-8a5d30d7f882&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjRiMzI4YjE4LTkwNGItNDAwOC05MzUxLWM4ZTZlYmRlZTIzOCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlOGJlMDUxNi1jNDMwLTExZjEtYTQ5ZC04YTVkMzBkN2Y4ODIiLCJjbGllbnRJUCI6IjIwMC42OC4xMjguODMiLCJjaXR5IjoiTWV4aWNvIENpdHkiLCJwb3N0YWxDb2RlIjoiMTU1MzAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MzAwMDAzMDUxNzU3OCwiZGV2aWNlTG9uIjotOTkuMDk5OTk4NDc0MTIxMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6ImU4YjhlNjMwLWM0MzAtMTFmMS1hZTY3LTAwMGQzYTljNjYxOSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJBZFNlc3Npb25FdmVudCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJEYXNoTmciOnsiaml0UGFjayI6InJlcGFja0ppdCxkZWNyeXB0In0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImU4YjhlNjMwLWM0MzAtMTFmMS1hZTY3LTAwMGQzYTljNjYxOSIsImZ3VmNJRDJDb3BwYSI6ImU4YjhlNjMwLWM0MzAtMTFmMS1hZTY3LTAwMGQzYTljNjYxOSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZThiOGU2MzAtYzQzMC0xMWYxLWFlNjctMDAwZDNhOWM2NjE5IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiMTA0NSIsIl9md18zUF9VSUQiOiJJREw6QXJpUWl6cmFlR3ZoaEx3cFpCbC0xbE9SUDU3VXM0YUwyNkwzNHFlNndrMGZGSkYxMngtZ2REdUU1aEIwdTY3RTFrcWQwQ055LXpfVHFkS3g5YjVxbXV5dGE0cThpeUY5bjRVNzBqUXhiZEtnVUg3S1pRS1lfc1NSR2xDcnpyLWZNWWczY2l2MlJOSXlHUGtWU2llYlc5V3lwLWtzSTZUNnd6VzdNai1DRi1PS0pkbjdlRFAyWmk2bTljeTVXUHcwT0g2V3J6YmZpeHYwR3F2TEdDQWdva1kzZUtxOFAzNHhpbUdfTFdSeVc2LWdvcG5EQmFhSVAtYnI5QUtwbXdjRkZ3WjVEQXR3YmF6VHowV0FoZ2tCMW9POWlXY2Jpa1RmT3NDekozVkhLOEhNVnBUbm9uWTMzbU01ajJiTFV1bGNGVUdsSUtzQVNBR3BtZXIydFY1M1NtQWcwRjFUV081V2poTzRrcVFWU3ciLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMsMTAwMjMifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTE1ODQ5NzY3NDMsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpaVGhpT0dVMk16QXRZelF6TUMweE1XWXhMV0ZsTmpjdE1EQXdaRE5oT1dNMk5qRTUiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjcxMzc2LCJpYXQiOjE3OTE1ODQ5NzYsImp0aSI6IjIxZDM4ZDE2LWJmM2ItNDA4Ny1hMzljLWM5ZTI5ODU5ZmNmMiJ9.3HBDyZBEs-nL0iDR-ssMmjh9lex-T476sKs8evFt3wg&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 
 
-#EXTINF:-1 tvg-id="TotalmusicConcerts" tvg-name="Totalmusic Concerts" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-concerts.png" group-title="MÚSICA", TOTALMUSIC CONCERTS 
+#EXTINF:-1 tvg-id="TotalmusicConcerts" tvg-name="Totalmusic Concerts" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png" group-title="MÚSICA", TOTALMUSIC CONCERTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="MUSIC TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="MÚSICA", MUSIC TOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
+
+
+
+#EXTINF:-1 tvg-id="TOTAL MUSIC 2000S" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png" group-title="MÚSICA", TOTAL MUSIC 2000S
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TOTAL MUSIC 80S" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-80s.png" group-title="MÚSICA", TOTAL MUSIC 80S
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/unpocoderuido.png" group-title="MÚSICA", UN POCO DE RUIDO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
