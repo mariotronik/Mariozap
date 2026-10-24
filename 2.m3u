@@ -213,7 +213,7 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
 
 
-KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 #EXTINF:-1 tvg-id="mov-ESPN.ar" tvg-name="mov-ESPN.ar t"vg-logo="https://logo.m3uassets.com/espn.png" group-title="Deportes", ESPN 
 EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
@@ -223,7 +223,7 @@ EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, And
 http://bantel-cdn3.iptvperu.tv:1935/btnscrtn/espn-mux/playlist.m3u8
 
 
-KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 #EXTINF:-1 tvg-id="mov-ESPN.ar" tvg-name="mov-ESPN.ar t"vg-logo="https://logo.m3uassets.com/espn.png" group-title="Deportes", ESPN opc2
 EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
