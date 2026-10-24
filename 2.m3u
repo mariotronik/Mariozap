@@ -826,7 +826,7 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 
 
 
-#EXTINF:-1 tvg-id="TOTAL MUSIC 2000S" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png" group-title="MÚSICA", TOTAL MUSIC 2000S
+#EXTINF:-1 tvg-id="Totalmusic2000s" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png" group-title="MÚSICA", TOTAL MUSIC 2000S
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
