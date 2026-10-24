@@ -627,7 +627,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
 
-#EXTINF:-1 tvg-id="ENT Family" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" group-title="Cine y Series", ENT FAMILY 
+#EXTINF:-1 tvg-id="ENTFamily" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" group-title="Cine y Series", ENT FAMILY 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
