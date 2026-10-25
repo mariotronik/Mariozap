@@ -402,6 +402,18 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 http://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="GOLF CHANNEL" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="Deportes",GOLF CHANNEL
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://45.188.229.33:8000/play/a0xx/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
