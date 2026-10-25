@@ -320,11 +320,13 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/refs/heads/master/TV/Bein%20Sports%20Xtra.svg" group-title="Deportes", Bein sport extra esperar
+#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-spain-212.png" group-title="Deportes", Bein sport extra esperar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+http://liketv.xyz/live/alerua5897/24681012/7198.m3u8
 http://liketv.xyz:80/live/alerua5897/24681012/7198.m3u8
+http://liketv.xyz/live/alerua5897/24681012/7198.m3u8
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MDI1IFVTQTogYmVJTiAvIGJlSU4gWHRyYSBFc3Bhbm9s&t=p&f=.m3u8
 
 https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-spain-212.png
