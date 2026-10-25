@@ -3,18 +3,6 @@
   <channel id="ent-extreme">
     <display-name>ENT Extreme</display-name>
   </channel>
-  <programme channel="ent-extreme" start="20261025110551 +0000" stop="20261025130821 +0000">
-    <title lang="es">Transformers: El despertar de las bestias</title>
-    <desc lang="es">Una aventura alrededor del mundo con los Autobots que introducirá una nueva facción de Transformers - los Maximals - en la batalla existente en la Tierra entre Autobots y Decepticons.</desc>
-    <category lang="es">Ciencia ficción</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/df2b8c727dba2124be17defd4a363512?w=400" />
-  </programme>
-  <programme channel="ent-extreme" start="20261025130821 +0000" stop="20261025151425 +0000">
-    <title lang="es">El mundo perdido: Jurassic Park</title>
-    <desc lang="es">Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada...</desc>
-    <category lang="es">Aventura</category>
-    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0bb3be0888d48a3a24323f0fb8c49ff6?w=400" />
-  </programme>
   <programme channel="ent-extreme" start="20261025151425 +0000" stop="20261025165435 +0000">
     <title lang="es">X-Men</title>
     <desc lang="es">En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.</desc>
