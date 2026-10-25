@@ -318,6 +318,19 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 
 
+
+
+EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://mmx.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg?p=medium" group-title="Deportes", Bein sport extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://enc2.firemedia.mx/hls/canal857.m3u8?st=d8T8T3FZZOZEvEUNMH-Ojg&e=1792921724
+
+http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MDI1IFVTQTogYmVJTiAvIGJlSU4gWHRyYSBFc3Bhbm9s&t=p&f=.m3u8
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
 #EXTINF:-1 tvg-id="FOX SPORTS ARGENTINA AR" tvg-name="FOX SPORTS ARGENTINA AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Deportes",FOX SPORTS
