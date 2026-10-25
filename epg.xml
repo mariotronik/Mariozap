@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Automated-EPG">
+  <channel id="ent-extreme">
+    <display-name>ENT Extreme</display-name>
+  </channel>
+  <programme channel="ent-extreme" start="20261025110551 +0000" stop="20261025130821 +0000">
+    <title lang="es">Transformers: El despertar de las bestias</title>
+    <desc lang="es">Una aventura alrededor del mundo con los Autobots que introducirá una nueva facción de Transformers - los Maximals - en la batalla existente en la Tierra entre Autobots y Decepticons.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/df2b8c727dba2124be17defd4a363512?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261025130821 +0000" stop="20261025151425 +0000">
+    <title lang="es">El mundo perdido: Jurassic Park</title>
+    <desc lang="es">Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0bb3be0888d48a3a24323f0fb8c49ff6?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261025151425 +0000" stop="20261025165435 +0000">
+    <title lang="es">X-Men</title>
+    <desc lang="es">En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/743da88a55ae8c1065f959b38b99321c?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261025165435 +0000" stop="20261025184107 +0000">
+    <title lang="es">Whiplash: Música y Obsesión</title>
+    <desc lang="es">El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un prof...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f3b6bb64da0f91a8a4d1581e89698218?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261025184107 +0000" stop="20261025203653 +0000">
+    <title lang="es">El planeta de los simios</title>
+    <desc lang="es">Una tripulación de astronautas se estrelló en un planeta en un futuro lejano donde los simios parlantes inteligentes son la especie dominante, y los humanos son los oprimidos y esclavos.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b89e731b2bb8a741eb8ff0569ca9c632?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261025203653 +0000" stop="20261025224548 +0000">
+    <title lang="es">Creed 2: Defendiendo el Legado</title>
+    <desc lang="es">Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadam...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c48eb5c71764f1644b783093270a521d?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261025224548 +0000" stop="20261026004833 +0000">
+    <title lang="es">Los indestructibles 3</title>
+    <desc lang="es">Barney, Navidad y el resto del equipo se encuentra cara a cara con Conrad Stonebanks, quien hace años co-fundó The Expendables with Barney. Stonebanks se convirtió posteriormente en un despiadado comerciante de armas y en alguien a quien Barney se vio obligado a matar ... o es...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/aec135ebd1e0510c65946a713f5076af?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026004833 +0000" stop="20261026025959 +0000">
+    <title lang="es">Capitán América y el Soldado del Invierno</title>
+    <desc lang="es">Mientras Steve Rogers lucha por asumir su papel en el mundo moderno, se une a un compañero Vengador y agente de S.H.I.E.L.D., Viuda Negra, para luchar contra una nueva amenaza de la historia: un asesino conocido como el Soldado de Invierno.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1c9a198ca030d86af75da5d9d25d18ae?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026025959 +0000" stop="20261026050644 +0000">
+    <title lang="es">La raíz del miedo</title>
+    <desc lang="es">Martin Vail, un ambicioso abogado de Chicago, es capaz de aceptar cualquier caso con tal de salir en la prensa. Un día decide ocuparse de uno que parece imposible de ganar: la defensa de Aaron, un joven que es acusado del asesinato del arzobispo de Chicago, tras ser detenido m...</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/77725a3ecddaac8630ffc47b8a6820a0?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026050644 +0000" stop="20261026065328 +0000">
+    <title lang="es">Psicópata Americano</title>
+    <desc lang="es">En un mundo moralmente plano en el que la ropa tiene más sentido que la piel, Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo, desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente pe...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/35496d650661baf798612bb42c2652e5?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026065328 +0000" stop="20261026085920 +0000">
+    <title lang="es">Frontera caníbal (Bone Tomahawk)</title>
+    <desc lang="es">A la localidad de Bright Hope llega un forastero que rápidamente despierta las sospechas del sheriff, que termina por arrestarlo tras dispararle en la pierna. Samantha O'Dwyer se encarga de extraerle la bala en el calabozo. Pero esa noche un joven en un establo es asesinado y...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/672c96bf07b2c46dd0088b3186c00f11?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026085920 +0000" stop="20261026121622 +0000">
+    <title lang="es">El señor de los anillos: El retorno del rey</title>
+    <desc lang="es">Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2f6294d5fb7af007b3cfa48252d2fa4a?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026121622 +0000" stop="20261026144215 +0000">
+    <title lang="es">Piratas del Caribe 2: El Cofre de la Muerte</title>
+    <desc lang="es">El capitán Jack Sparrow tiene una deuda de sangre que saldar: le debe su alma al legendario Davy Jones, el temible gobernante de las profundidades oceánicas. Para escapar de la servidumbre eterna a bordo del Holandés Errante, el astuto Jack debe encontrar el corazón aún palpit...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/173ae01bb0da983648604b8d5bb8cce7?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026144215 +0000" stop="20261026165524 +0000">
+    <title lang="es">Rápidos y Furiosos: Hobbs y Shaw</title>
+    <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenét...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/51c08365c90c12c599e1f249e6e19d66?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026165524 +0000" stop="20261026191421 +0000">
+    <title lang="es">X-Men: Apocalipsis</title>
+    <desc lang="es">En la década de 1980 los X-Men deben derrotar a un antiguo mutante todopoderoso, En Sabah Nur, que pretende prosperar trayendo destrucción al mundo.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d5a8d8d35292556c2c1f26ca48443d7f?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026191421 +0000" stop="20261026212154 +0000">
+    <title lang="es">Pantera Negra</title>
+    <desc lang="es">T’Challa regresa a su hogar en la apartada nación africana de Wakanda para servir como líder de su país. Tras suceder a su padre en el trono, pasa a convertirse en Pantera Negra, una sigilosa criatura de la noche, con agudos sentidos felinos y otras habilidades como súper fuer...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8b48f21f0182d138c214ccee4fa6a8d7?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026212154 +0000" stop="20261026230418 +0000">
+    <title lang="es">Horizonte profundo</title>
+    <desc lang="es">Basado en los eventos sucedidos en el Golfo de México en abril del 2010, cuando un accidente en una plataforma de la BP que perforaba para extraer petróleo causó una catástrofe que mató a 11 personas e hirió a otras 16, provocando además una de las catástrofes medioambientales...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8cab6a8ec67c7a2aa4b4f4bb263f9ae9?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261026230418 +0000" stop="20261027011232 +0000">
+    <title lang="es">El juego</title>
+    <desc lang="es">El multimillonario Nicholas Van Orton (Michael Douglas) tiene todo lo que un hombre puede desear. Pero Conrad (Sean Penn), su díscolo hermano, aún es capaz de encontrar un regalo de cumpleaños que pueda sorprenderle: su ingreso en un club de ocio capaz de diseñar a su medida a...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/41608a32ffc01cc9ce474391833d6b97?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027011232 +0000" stop="20261027035120 +0000">
+    <title lang="es">Piratas del Caribe 3: En el Fin del Mundo</title>
+    <desc lang="es">Tras la muerte del capitán Jack Sparrow en el fondo del mar a manos de Davy Jones, Will Turner, Elizabeth Swann y el capitán Barbossa emprenden un viaje a los confines de la tierra para rescatarlo. Mientras la Compañía Británica de las Indias Orientales afianza su dominio sobr...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6cf2e87a5f54b9ffcb3d0969ad03f780?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027035120 +0000" stop="20261027060047 +0000">
+    <title lang="es">Cálculo Mortal</title>
+    <desc lang="es">El romance de «Tillie» Gardner con Niko, un conductor local de taxis, la ayuda a superar la trágica pérdida de sus padres en un accidente de avión. Sin embargo, Tillie desconoce que Niko es el hermano del terrorista que saboteó el vuelo, y quien también está planeando realizar...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9f08ebecdcaba0c45a323647875ac40b?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027060047 +0000" stop="20261027073604 +0000">
+    <title lang="es">12 Horas para vivir</title>
+    <desc lang="es">Will Montgomery (Nicolas Cage) es un veterano ladrón de bancos que, tras ser traicionado en un atraco, es condenado a 8 años de prisión. Cuando sale de la cárcel dedide dejar atrás su pasado criminal e intentar reconstruir su relación con su hija Allison. Pero, inesperadamente...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6ce551b73aaa400bc7d80c36361586f9?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027073604 +0000" stop="20261027085905 +0000">
+    <title lang="es">Pasajero 57</title>
+    <desc lang="es">Charles Rane está considerado uno de los más peligrosos terroristas del mundo. Custodiado por agentes federales, Rane es trasladado a Los Angeles en avión para ser juzgado por los crímenes cometidos. A pesar de las medidas de seguridad, Rane consigue liberarse y se hace con el...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9aa042fd8e9b9526143ce2f3eec72bf2?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027085905 +0000" stop="20261027104922 +0000">
+    <title lang="es">Al filo del mañana</title>
+    <desc lang="es">El comandante Bill Cage es un oficial que nunca ha visto un día de combate cuando lo degradan sin ceremonias y lo dejan caer en combate. Cage es asesinado en cuestión de minutos, logrando llevarse un alienígena alfa con él. Él se despierta al comienzo del mismo día y se ve obl...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fb52e7bc6bb6b6a05b85380dfb2e4d91?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027104922 +0000" stop="20261027123529 +0000">
+    <title lang="es">Dunkerque</title>
+    <desc lang="es">Soldados aliados de Bélgica, el Imperio Británico y Francia están rodeados por el ejército alemán y se intenta evacuarlos en una feroz batalla en Dunkerque, Francia, durante la Segunda Guerra Mundial.</desc>
+    <category lang="es">Bélica</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/348f6d3bcb0c71a48acce605f6933745?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027123529 +0000" stop="20261027145135 +0000">
+    <title lang="es">Argylle: Agente secreto</title>
+    <desc lang="es">Cuando las tramas de los libros ficticios de Elly Conway, la solitaria autora de una serie de novelas de espionaje bestseller comienzan a reflejar las acciones encubiertas de una organización de espías de la vida real, las noches tranquilas en casa se convierten en cosa del pa...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/66a72a24bb25fe3818ebe9b8c9252efb?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027145135 +0000" stop="20261027164044 +0000">
+    <title lang="es">Rocky V</title>
+    <desc lang="es">Toda una vida de golpes ha terminado la carrera de Rocky, y un torcido contador lo ha dejado en la ruina. Inspirado por el recuerdo de su entrenador, sin embargo, Rocky encuentra la gloria en el entrenamiento y se enfrenta a un boxeador prometedor.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/937d2637757c74137ff3cbad301944c0?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027164044 +0000" stop="20261027181657 +0000">
+    <title lang="es">Showtime</title>
+    <desc lang="es">Para mejorar la imagen de la policía en los Estados Unidos, sus responsables deciden realizar un reality show televisivo protagonizado por dos oficiales ejemplares: un veterano con un insoportable mal humor y un novato especialista en meteduras de pata.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ea2f02680b9eb5db006a534f95253368?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027181657 +0000" stop="20261027201601 +0000">
+    <title lang="es">Thunderbolts*</title>
+    <desc lang="es">Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/cfc4a54b020dea6a47af90e474c7b583?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027201601 +0000" stop="20261027222526 +0000">
+    <title lang="es">The King's Man: El Origen</title>
+    <desc lang="es">Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos. Tercera entrega de la saga 'Kingsman', ambientada much...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8c4f6433618df8f61eb692c4f815e865?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261027222526 +0000" stop="20261028003204 +0000">
+    <title lang="es">Top Gun: Maverick</title>
+    <desc lang="es">Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete "Maverick" Mitchell está en donde pertenece, sobresaliendo como un valiente piloto de pruebas y evitando subir de rango en la armada, que evitaría que pudiera seguir volando. Cuando...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b300d85f6b2b2b775abb8035e21fdd15?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028003204 +0000" stop="20261028035244 +0000">
+    <title lang="es">El señor de los anillos: La comunidad del anillo</title>
+    <desc lang="es">En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, qu...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/adb40cd33fb86fe1d4a2328da1113954?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028053747 +0000" stop="20261028072329 +0000">
+    <title lang="es">Pandorum: Terror en el espacio</title>
+    <desc lang="es">Dos miembros de la tripulación de una nave espacial, el Teniente Payton (Dennis Quaid) y el Cabo Bower (Ben Foster), se despiertan en sus cámaras de hibernación sin recordar nada de lo que ha sucedido: ni quiénes son, ni cuál era su misión o por qué, aparentemente, son los úni...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6bd2dbb862b94a998dc1e7bf8fa28010?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028072329 +0000" stop="20261028085959 +0000">
+    <title lang="es">Sepultado vivo</title>
+    <desc lang="es">Clint Goodman (Tim Matheson) vive feliz sin saber que su mujer Joanna (Jennifer Jason Leigh) mantiene un romance con su ginecólogo. Cansada de su doble vida, Joanna le pide a su amante que le proporcione algo para matar a su marido. La mejor fórmula consiste en administrarle u...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/bbbd5daa400bcf5f8fae2066d5297859?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028085959 +0000" stop="20261028112050 +0000">
+    <title lang="es">Star Wars: Episodio II: El Ataque de los Clones</title>
+    <desc lang="es">Diez años después de la invasión de Naboo, la galaxia está al borde de la guerra civil. Bajo el liderazgo de un Jedi renegado llamado Conde Dooku, miles de sistemas solares amenazan con separarse de la República Galáctica. Cuando se realiza un intento de asesinato contra la Se...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0bd259ad503cdf0c9a9085b491194043?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028112050 +0000" stop="20261028131954 +0000">
+    <title lang="es">Insomnia</title>
+    <desc lang="es">Will Dormer, un veterano detective de Los Ángeles, viaja a un pequeño pueblo de Alaska con su compañero Hap para investigar el asesinato de una chica de 17 años. En Los Ángeles queda pendiente un oscuro asunto que les incumbe a los dos. Una vez en Alaska, entran en contacto co...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9a36106054602fa9f8d839789f4774fe?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028131954 +0000" stop="20261028145956 +0000">
+    <title lang="es">Pokémon Detective Pikachu</title>
+    <desc lang="es">Un joven une fuerzas con el detective Pikachu para desentrañar el misterio detrás de la desaparición de su padre. El dúo dinámico descubre una trama tortuosa que representa una amenaza para el mundo Pokémon.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/af5dacafe29a722a6e77905ca1038370?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028145956 +0000" stop="20261028165658 +0000">
+    <title lang="es">Ant-Man and the Wasp: Quantumania</title>
+    <desc lang="es">Los superhéroes Scott Lang y Hope van Dyne regresan para continuar sus aventuras como Ant-Man y Wasp. Con los padres de Hope, Hank Pym y Janet van Dyne, y con la hija de Scott, Cassie Lang, la familia explora el Reino Quántico, interactúa con extrañas criaturas y se embarca en...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c3a73f59f059da026b550d97e46f5548?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028165658 +0000" stop="20261028184207 +0000">
+    <title lang="es">X-Men orígenes: Wolverine</title>
+    <desc lang="es">Los primeros años de James Logan, con la rivalidad con su hermano Victor Creed, su servicio en el equipo de fuerzas especiales Arma X, y su experimentación hacia el mutante revestido de metal Wolverine.</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/c48c9337425be36e6cc953b5daffa42c?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028184207 +0000" stop="20261028200911 +0000">
+    <title lang="es">Asalto al camión blindado</title>
+    <desc lang="es">El crimen perfecto, sin víctimas, sin violencia e indetectable, se tuerce fatalmente en Blindado, un thriller lleno de acción donde todo es posible. Un grupo de guardias de seguridad que escoltan un camión blindado ejecuta un meticuloso plan para robar a la compañía de segurid...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/9c572c3d9d658657fc2080468fb8a751?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028200911 +0000" stop="20261028215302 +0000">
+    <title lang="es">Una Noche en el Museo 2: La Batalla del Smithsoniano</title>
+    <desc lang="es">El vigilante jurado Larry Daley se ve obligado a decir adiós a todos sus amigos cuando deciden hacer el Museo de Ciencias Naturales más "interactivo" y sustituyen todas las figuras por hologramas. Sus amigos históricos son empaquetados y enviados a los archivos del famoso Smit...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ba2b5f10f1bdfeb2ae265bb4e2fd2292?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261028215302 +0000" stop="20261029001511 +0000">
+    <title lang="es">Maze Runner: La cura mortal</title>
+    <desc lang="es">El joven héroe Thomas no puede confiar en la organización CRUEL, entonces con sus amigos se embarca en una misión para encontrar una cura para la enfermedad mortal conocida como La Llamarada.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ad48ee76de999f0252f5c28d656ad90b?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029001511 +0000" stop="20261029015602 +0000">
+    <title lang="es">El reinado del fuego</title>
+    <desc lang="es">En el Londres actual, Quinn, un niño de 12 años, despierta por error a un enorme dragón de su letargo de siglos. Veinte años más tarde, pueden apreciarse las devastadoras consecuencias del paso de la bestia y de sus vástagos en la práctica totalidad del planeta. Los dragones s...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dca517bc704c442c8d2b9fe057843b62?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029015602 +0000" stop="20261029034953 +0000">
+    <title lang="es">Capitán América: El Primer Vengador</title>
+    <desc lang="es">Steve Rogers, un soldado militar rechazado, se transforma en el Capitán América después de tomar una dosis de un «suero de Súper-Soldado». Pero ser el Capitán América tiene un precio cuando intenta acabar con un belicista y una organización terrorista.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/3600d5e8d8db7214659c880331d149e1?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029062907 +0000" stop="20261029085959 +0000">
+    <title lang="es">El resplandor</title>
+    <desc lang="es">Una familia se dirige a un hotel aislado durante el invierno donde una presencia siniestra influye en la violencia del padre, mientras que su hijo psíquico ve horribles presentimientos tanto del pasado como del futuro.</desc>
+    <category lang="es">Terror</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ef4de40d9afa9907acc359b178b3f9db?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029085959 +0000" stop="20261029114209 +0000">
+    <title lang="es">Sin tiempo para morir</title>
+    <desc lang="es">Bond se ha retirado del servicio como agente en activo y disfruta de una tranquila vida en Jamaica. Pero sus días de paz acaban cuando su viejo amigo Felix Leiter de la CIA aparece pidiéndole ayuda. La misión en cuestión, que consiste en rescatar a un científico secuestrado, r...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e56a15b1d01d107b92243914bc3958f3?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029114209 +0000" stop="20261029133628 +0000">
+    <title lang="es">Ant-Man: El hombre Hormiga</title>
+    <desc lang="es">Armado con un supertraje con la asombrosa habilidad de reducir a escala su tamaño  pero aumentar su fuerza, el ladrón Scott Lang debe abrazar a su héroe interior y ayudar a su mentor, el Dr. Hank Pym, el cual planea y lleva a cabo un atraco necesario que salvará al mundo.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e189b68415757a5c18e6257db70a910f?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029133628 +0000" stop="20261029152230 +0000">
+    <title lang="es">Cortafuego</title>
+    <desc lang="es">Cuando Jack Stanfield, un especialista en seguridad informática de un banco, regresa a casa tras un día de trabajo para estar con su mujer Beth y sus hijos, suele suspirar aliviado. No es que no esté entregado a su trabajo; tan sólo está contento por estar lejos de las cámaras...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2ef64ce36cc80516e71c9b0b983e12b3?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029152230 +0000" stop="20261029171917 +0000">
+    <title lang="es">El Planeta De Los Simios</title>
+    <desc lang="es">Luego de un espectacular aterrizaje forzoso en un planeta inexplorado, el intrépido astronauta Leo Davidson se encuentra atrapado en un mundo salvaje donde los monos parlantes dominan a la raza humana. Desesperado por encontrar un camino a casa, Leo debe evadir al invencible e...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1eee7b6039adc9bdf77b7d57f4fa1c5c?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029171917 +0000" stop="20261029190055 +0000">
+    <title lang="es">El Turista</title>
+    <desc lang="es">Frank, un turista estadounidense, viaja a Italia para tratar de recuperarse de un fracaso amoroso. Pronto conocerá a Elise, quien traerá la pasión de nuevo a su vida, pero también el peligro.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/1c358dbf052c757c1d8b421472b6f5f7?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029190055 +0000" stop="20261029205214 +0000">
+    <title lang="es">Maze Runner: Correr o morir</title>
+    <desc lang="es">Thomas abre los ojos y se da cuenta que está en un ascensor. Lo extraño es que no recuerda nada, ni dónde está, ni quién es. Lo único que aún permanece intacto en su memoria es su nombre, y ya es mucho. Antes de que le dé tiempo a cuestionarse algo sobre sí mismo las puertas s...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/f667882c09c9c4b1bfc6da0bee9a0a14?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029205214 +0000" stop="20261029223940 +0000">
+    <title lang="es">El Sexto Sentido</title>
+    <desc lang="es">El doctor Malcom Crowe es un conocido psicólogo infantil de Philadelphia que vive obsesionado por el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cuando conoce a Cole Sear, un aterrorizado y confuso niño de ocho años que necesita tratamie...</desc>
+    <category lang="es">Misterio</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/fc4d4c68a15cd70374b791e9bee3054a?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261029223940 +0000" stop="20261030004305 +0000">
+    <title lang="es">Piratas del Caribe 5: La Venganza de Salazar</title>
+    <desc lang="es">Inmerso en una nueva aventura, el desafortunado Capitán Jack Sparrow siente que la mala suerte se cierne sobre él con más fuerza cuando unos letales marineros fantasma, liderados por su antiguo némesis, el malvado Capitán Salazar, escapan del Triángulo de las Bermudas. La únic...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/ce177e84cee85101d2b0b67fbdd93820?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030004305 +0000" stop="20261030022606 +0000">
+    <title lang="es">¡Esto es guerra!</title>
+    <desc lang="es">Los agentes de la CIA, FDR Foster y Tuck son inseparables mejores amigos y compañeros. En conjunto, su buena apariencia, habilidades secretas y de combate los clasifican en la élite de la CIA, pero su relación personal y profesional es puesta a prueba cuando conocen a Lauren....</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5046073106a9c01e267edd3e0b5e1c1d?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030022606 +0000" stop="20261030035240 +0000">
+    <title lang="es">Misteriosa Obsesión</title>
+    <desc lang="es">Telly Paretta se encuentra atormentada por el recuerdo de su hijo de ocho años, Sam, fallecido hace 14 meses en un accidente aéreo. Mientras intenta superar la pena y el consiguiente alejamiento de su marido Jim, su psiquiatra, el Dr. Munce, le informa de que está sufriendo al...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/dfcdbff56ef0a0e831d8c75529b9e6d9?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030035240 +0000" stop="20261030061849 +0000">
+    <title lang="es">Aliens: El Regreso</title>
+    <desc lang="es">La teniente Ripley regresa al planeta alienígena LV-426 con un equipo de marines para investigar la desaparición de una colonia. Pronto descubren que están en medio de un enfrentamiento con los letales xenomorfos. Es una batalla por la supervivencia mientras luchan contra esta...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/af4bc1f9ab7fdd3cc0618ef22da2df57?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030061849 +0000" stop="20261030085843 +0000">
+    <title lang="es">Ojos bien cerrados</title>
+    <desc lang="es">William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo e...</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/e6184cf7cd77d91db440177b10a8a05e?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030085843 +0000" stop="20261030105406 +0000">
+    <title lang="es">El Día de la Independencia 2: Contraataque</title>
+    <desc lang="es">Utilizando tecnología obtenida de los extraterrestres, las naciones de la Tierra, previendo el regreso de los invasores, han colaborado en un gigantesco programa de defensa para proteger el planeta. Pero nada puede prepararnos para hacer frente a la avanzada e inaudita fuerza...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/0eacafb798350bec7096f6d17e43d9ee?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030105406 +0000" stop="20261030125600 +0000">
+    <title lang="es">Terminator: Génesis</title>
+    <desc lang="es">Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las ruinas de una postapocalíptica Califo...</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/eb304e598cd89de4a690e3e943ee4e76?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030125600 +0000" stop="20261030144758 +0000">
+    <title lang="es">Ant-Man 2: La Avispa</title>
+    <desc lang="es">Mientras Scott Lang equilibra el ser un superhéroe y un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que unen al Hombre hormiga junto a La Avispa para luchar juntos y descubrir los secretos de su pasado.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/131385cd88f4a8bde6d1cd6e90c25d0e?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030144758 +0000" stop="20261030170417 +0000">
+    <title lang="es">La Última Pelea</title>
+    <desc lang="es">Un veterano de guerra regresa a casa para ser entrenado por su padre, un boxeador retirado, para un torneo de artes marciales mixtas, lo que le lleva a redescubrir el vínculo con su padre mientras entra en conflicto con su hermano mayor.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a6acecd8f24c308c4b9b932cf6b1f3f2?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030170417 +0000" stop="20261030191241 +0000">
+    <title lang="es">Black Widow</title>
+    <desc lang="es">Natasha Romanoff, también conocida como Black Widow, se enfrenta a lo más oscuro de sus cuentas pendientes cuando surge una peligrosa conspiración que tiene lazos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para derribarla, debe lidiar con su historia...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8dc53a66ead2628987ff3df274a67386?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030191241 +0000" stop="20261030212917 +0000">
+    <title lang="es">Star Wars: El ascenso de Skywalker</title>
+    <desc lang="es">Un año después de los eventos de "Los últimos Jedi", los restos de la Resistencia se enfrentarán una vez más a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegará a su clímax, lo que llevar...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/62c6324836ac579078902a760957feb2?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030212917 +0000" stop="20261030231544 +0000">
+    <title lang="es">Contratiempo</title>
+    <desc lang="es">Barcelona, España. Adrián Doria, un joven y exitoso empresario acusado de homicidio, se reúne una noche con Virginia Goodman, una abogada experta en interrogatorios, con el propósito de urdir una estrategia de defensa.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/71db798e7763d487758771e6c8768d43?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261030231544 +0000" stop="20261031012853 +0000">
+    <title lang="es">Rápidos y Furiosos: Hobbs y Shaw</title>
+    <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenét...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/51c08365c90c12c599e1f249e6e19d66?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031012853 +0000" stop="20261031034905 +0000">
+    <title lang="es">Guardianes de la Galaxia volumen 3</title>
+    <desc lang="es">Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en torno a él para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se lleva a cabo con éxito, podría suponer el fin de los Guardianes tal y como los conocemos.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/da6f11902a34a64f3127dc7f61ba52f3?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031034905 +0000" stop="20261031053801 +0000">
+    <title lang="es">Terror a bordo</title>
+    <desc lang="es">John y Rae deciden hacer un viaje en su pequeño yate de vela para intentar olvidar la muerte de su hijo en un accidente. Pero la travesía se ve interrumpida cuando divisan un bote neumático que escapa de una goleta. El único ocupante del bote, un asustado joven, les explica qu...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/aa084be4987bd98c6d12bc982f0a7bc0?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031053801 +0000" stop="20261031071718 +0000">
+    <title lang="es">Después de Hora</title>
+    <desc lang="es">Al finalizar su jornada laboral, un solitario empleado de una compañía de informática (Griffin Dunne) se ve envuelto en una serie de extrañas circunstancias que le llevan a uno de los peores barrios de Nueva York. Allí, vivirá una interminable y alocada noche…</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/8767ecaa68745cfb925c5d6164aa952a?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031071718 +0000" stop="20261031085930 +0000">
+    <title lang="es">El Cuervo</title>
+    <desc lang="es">En Detroit, Míchigan, el músico de rock Eric Draven, es brutalmente asesinado al ser arrojado por una ventana de su departamento y su novia, Shelly Webster, que tras ser violada por varios hombres es llevada al hospital donde, unas horas después, muere también. El doble crimen...</desc>
+    <category lang="es">Fantasía</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/6e0769cf54bddbb222e89ad8388eebb9?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031085930 +0000" stop="20261031111819 +0000">
+    <title lang="es">Star Wars: Episodio III - La Venganza de los Sith</title>
+    <desc lang="es">Años después del inicio de las Guerras Clon, los nobles Caballeros Jedi lideran un masivo ejército clon en una batalla de galaxia contra los Separatistas. Cuando los siniestros Sith revelan un complot de mil años para gobernar la galaxia, la República se derrumba y de sus ceni...</desc>
+    <category lang="es">Aventura</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/5ca886828e353bae4623ac0841c6a79c?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031111819 +0000" stop="20261031132345 +0000">
+    <title lang="es">Battleship: Batalla Naval</title>
+    <desc lang="es">“Battleship” la batalla será entre la U.S. Navy y… ¡una flota alienígena! La historia nos propone una épica aventura de acción que transcurre en el mar, el cielo y la tierra, y en la que nuestro planeta lucha por sobrevivir contra una fuerza muy superior. Un oficial de la Mari...</desc>
+    <category lang="es">Suspense</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/42557c7b50b65cdec38a2b3f86eb2b5d?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031132345 +0000" stop="20261031154243 +0000">
+    <title lang="es">X-Men: Apocalipsis</title>
+    <desc lang="es">En la década de 1980 los X-Men deben derrotar a un antiguo mutante todopoderoso, En Sabah Nur, que pretende prosperar trayendo destrucción al mundo.</desc>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/d5a8d8d35292556c2c1f26ca48443d7f?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031154243 +0000" stop="20261031173623 +0000">
+    <title lang="es">Jack Reacher: Bajo la Mira</title>
+    <desc lang="es">Cuando un pistolero toma cinco vidas con seis disparos, todas las pruebas apuntan al sospechoso bajo custodia. En el interrogatorio, el sospechoso ofrece una sola nota: "¡Obtén a Jack Reacher!" Entonces comienza una persecución extraordinaria por la verdad, enfrentando a Jack...</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/eb2c85b3bfafa632a0046b7a38a23fda?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031173623 +0000" stop="20261031192324 +0000">
+    <title lang="es">La supremacía Bourne</title>
+    <desc lang="es">Cuando Jason Bourne es incriminado en una operación de la CIA que salió mal, se ve obligado a reanudar su vida anterior como asesino entrenado para sobrevivir.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/a43bd4b76c807219d2759a4b6e59801f?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031192324 +0000" stop="20261031212821 +0000">
+    <title lang="es">Batman regresa</title>
+    <desc lang="es">Cuando un empresario corrupto y el grotesco Pingüino tratan de tomar el control de Ciudad Gótica, sólo Batman puede detenerlos, mientras que Gatúbela tiene sus propios planes.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/b574dbb471b12f64935ffd3d31ed0f0e?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031212821 +0000" stop="20261031232302 +0000">
+    <title lang="es">Nueve reinas</title>
+    <desc lang="es">Buenos Aires. Juan y Marcos son dos estafadores de poca monta, uno joven y un veterano en el arte del timpo, que casualmente se ven envueltos en un asunto que les puede hacer millonarios: tienen menos de un día para hacer una estafa que no puede fallar.</desc>
+    <category lang="es">Crimen</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2c504020393682c290282b3ef55c02b7?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261031232302 +0000" stop="20261101012355 +0000">
+    <title lang="es">Cómo entrenar a tu dragón</title>
+    <desc lang="es">En la agreste isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se distingue, desafiando siglos de tradición al entablar amistad con Desdentao, un temido dragón Furia Nocturna. Su improbable vínculo revela la verdadera naturaleza de...</desc>
+    <category lang="es">Fantasía</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/acf468a398fc17922eed38fd3ae9371e?w=400" />
+  </programme>
+  <programme channel="ent-extreme" start="20261101012355 +0000" stop="20261101035418 +0000">
+    <title lang="es">2012</title>
+    <desc lang="es">El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo "venden" plazas para escapar del cataclismo. El escrito...</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://api.40mediagroup.com/xmltv/img/epg/icon/2108e9fca04c4f779afc25a22a0e33ac?w=400" />
+  </programme>
+</tv>
