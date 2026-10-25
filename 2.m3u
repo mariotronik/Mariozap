@@ -311,7 +311,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1.ar" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes", DAZN F1 ESPERAR
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1.ar" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes", DAZN F1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -320,7 +320,7 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/refs/heads/master/TV/Bein%20Sports%20Xtra.svg" group-title="Deportes", Bein sport extra
+#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/refs/heads/master/TV/Bein%20Sports%20Xtra.svg" group-title="Deportes", Bein sport extra esperar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
