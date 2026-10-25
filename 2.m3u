@@ -181,6 +181,7 @@ https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://158.172.155.130:8000/play/a0ao/index.m3u8
 http://205.235.6.29:8000/play/a0wl/index.m3u8
 
 
@@ -319,12 +320,10 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://mmx.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg?p=medium" group-title="Deportes", Bein sport extra
+#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-us-logos/refs/heads/master/TV/Bein%20Sports%20Xtra.svg" group-title="Deportes", Bein sport extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://enc2.firemedia.mx/hls/canal857.m3u8?st=d8T8T3FZZOZEvEUNMH-Ojg&e=1792921724
-
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MDI1IFVTQTogYmVJTiAvIGJlSU4gWHRyYSBFc3Bhbm9s&t=p&f=.m3u8
 
 
