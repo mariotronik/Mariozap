@@ -299,13 +299,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ESPN 2 A" group-title="Deportes" tvg-logo="", DAZN F1 opc2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s2.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.234.53&token=284cea132a16b53cd0e0ca48486b8fea8a913abd-56-1788724666-1788670666
-
-
-
 #EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1.ar" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes", DISNEY F1 ESPERAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
