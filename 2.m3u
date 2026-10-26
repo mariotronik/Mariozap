@@ -655,7 +655,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
 
-#EXTINF:-1 tvg-id="ENTFamily" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" group-title="Cine y Series", ENT FAMILY 
+#EXTINF:-1 tvg-id="ent-family" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" group-title="Cine y Series", ENT FAMILY 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
@@ -668,28 +668,28 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/mast
 
 
 
-#EXTINF:-1 tvg-id="ent.comedy" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="Cine y Series", ENT COMEDY
+#EXTINF:-1 tvg-id="ent-comedy" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="Cine y Series", ENT COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8    
 
    
 
-#EXTINF:-1 tvg-id="ENT Movies" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png" group-title="Cine y Series", ENT MOVIES
+#EXTINF:-1 tvg-id="ent-movies" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png" group-title="Cine y Series", ENT MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
 
 
-#EXTINF:-1 tvg-id="ENT Drama" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Cine y Series", ENT DRAMA
+#EXTINF:-1 tvg-id="ent-drama" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Cine y Series", ENT DRAMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 
 
-#EXTINF:-1 tvg-id="ENTClassic" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png" group-title="Cine y Series", ENT CLASSIC
+#EXTINF:-1 tvg-id="ent-classic" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png" group-title="Cine y Series", ENT CLASSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
 
 
-#EXTINF:-1 tvg-id="ENTLife" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" group-title="Cine y Series", ENT LIFE
+#EXTINF:-1 tvg-id="ent-life" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" group-title="Cine y Series", ENT LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 
@@ -849,7 +849,7 @@ EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01b52
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=e8b8e630-c430-11f1-ae67-000d3a9c6619&clientModelNumber=1.0.0&country=MX&deviceDNT=false&deviceId=e8b8e630-c430-11f1-ae67-000d3a9c6619&deviceLat=19.4300&deviceLon=-99.1000&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=e8be0516-c430-11f1-a49d-8a5d30d7f882&sid=e8be0516-c430-11f1-a49d-8a5d30d7f882&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjRiMzI4YjE4LTkwNGItNDAwOC05MzUxLWM4ZTZlYmRlZTIzOCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlOGJlMDUxNi1jNDMwLTExZjEtYTQ5ZC04YTVkMzBkN2Y4ODIiLCJjbGllbnRJUCI6IjIwMC42OC4xMjguODMiLCJjaXR5IjoiTWV4aWNvIENpdHkiLCJwb3N0YWxDb2RlIjoiMTU1MzAiLCJjb3VudHJ5IjoiTVgiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjoxOS40MzAwMDAzMDUxNzU3OCwiZGV2aWNlTG9uIjotOTkuMDk5OTk4NDc0MTIxMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6ImU4YjhlNjMwLWM0MzAtMTFmMS1hZTY3LTAwMGQzYTljNjYxOSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJBZFNlc3Npb25FdmVudCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJEYXNoTmciOnsiaml0UGFjayI6InJlcGFja0ppdCxkZWNyeXB0In0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImU4YjhlNjMwLWM0MzAtMTFmMS1hZTY3LTAwMGQzYTljNjYxOSIsImZ3VmNJRDJDb3BwYSI6ImU4YjhlNjMwLWM0MzAtMTFmMS1hZTY3LTAwMGQzYTljNjYxOSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZThiOGU2MzAtYzQzMC0xMWYxLWFlNjctMDAwZDNhOWM2NjE5IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiMTA0NSIsIl9md18zUF9VSUQiOiJJREw6QXJpUWl6cmFlR3ZoaEx3cFpCbC0xbE9SUDU3VXM0YUwyNkwzNHFlNndrMGZGSkYxMngtZ2REdUU1aEIwdTY3RTFrcWQwQ055LXpfVHFkS3g5YjVxbXV5dGE0cThpeUY5bjRVNzBqUXhiZEtnVUg3S1pRS1lfc1NSR2xDcnpyLWZNWWczY2l2MlJOSXlHUGtWU2llYlc5V3lwLWtzSTZUNnd6VzdNai1DRi1PS0pkbjdlRFAyWmk2bTljeTVXUHcwT0g2V3J6YmZpeHYwR3F2TEdDQWdva1kzZUtxOFAzNHhpbUdfTFdSeVc2LWdvcG5EQmFhSVAtYnI5QUtwbXdjRkZ3WjVEQXR3YmF6VHowV0FoZ2tCMW9POWlXY2Jpa1RmT3NDekozVkhLOEhNVnBUbm9uWTMzbU01ajJiTFV1bGNGVUdsSUtzQVNBR3BtZXIydFY1M1NtQWcwRjFUV081V2poTzRrcVFWU3ciLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMsMTAwMjMifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTE1ODQ5NzY3NDMsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpaVGhpT0dVMk16QXRZelF6TUMweE1XWXhMV0ZsTmpjdE1EQXdaRE5oT1dNMk5qRTUiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkxNjcxMzc2LCJpYXQiOjE3OTE1ODQ5NzYsImp0aSI6IjIxZDM4ZDE2LWJmM2ItNDA4Ny1hMzljLWM5ZTI5ODU5ZmNmMiJ9.3HBDyZBEs-nL0iDR-ssMmjh9lex-T476sKs8evFt3wg&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 
 
-#EXTINF:-1 tvg-id="Totalmusic" tvg-name="Totalmusic Concerts" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png" group-title="MÚSICA", TOTALMUSIC CONCERTS 
+#EXTINF:-1 tvg-id="total-music" tvg-name="Totalmusic Concerts" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png" group-title="MÚSICA", TOTALMUSIC CONCERTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
@@ -860,14 +860,14 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 
 
 
-#EXTINF:-1 tvg-id="Totalmusic2000s" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png" group-title="MÚSICA", TOTAL MUSIC 2000S
+#EXTINF:-1 tvg-id="total-music-00s" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png" group-title="MÚSICA", TOTAL MUSIC 2000S
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Totalmusic80s" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-80s.png" group-title="MÚSICA", TOTAL MUSIC 80S
+#EXTINF:-1 tvg-id="total-music-80s" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-80s.png" group-title="MÚSICA", TOTAL MUSIC 80S
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
