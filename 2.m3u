@@ -815,6 +815,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 http://23.153.217.158:8080/live/950056120tv/x334rews27/281251.m3u8
 
 #EXTINF:-1 tvg-id"Marvel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7 Horas", MARVEL STUDIO 2
+http://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 http://liketv.xyz:80/live/alerua5897/24681012/549657.m3u8
 
 
