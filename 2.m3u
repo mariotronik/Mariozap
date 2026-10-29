@@ -164,7 +164,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edb
-#EXTINF:-1 tvg-id="Azteca 7.pe" tvg-name="Azteca 7.pe" CUID="57" tvg-logo="https://images.seeklogo.com/logo-png/1/1/azteca-7-logo-png_seeklogo-15011.png"  group-title="Mexico",Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7.pe" tvg-name="Azteca 7.pe" CUID="57" tvg-logo="https://www.kindpng.com/picc/m/359-3590947_azteca-png-transparent-png.png"  group-title="Mexico",Azteca 7
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
