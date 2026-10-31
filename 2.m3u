@@ -488,7 +488,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOONCAST_stream_ot&_cdn_session=3534428069&_cdn_token=df2a716a2d33c126691bc75d0f7c7af2d3be5839
 
 
-#EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD"  tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/36735087077133.png" group-title="Cine y Series", DREAMWORKS 
+#EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD"  tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/DreamWorks-Animation-Logo.png" group-title="Cine y Series", DREAMWORKS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=3548007396&_cdn_token=cbb27b2855f35594ccf5c076feb0a554aca58770
 
