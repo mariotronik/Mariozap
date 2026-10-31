@@ -438,8 +438,8 @@ http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN2.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true" group-title="Deportes 🇪🇸",DAZN 2 🇪🇸 PPV
 #EXTVLCOPT:network-caching=1000
-http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/201356
-#http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
+http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
+#http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/201356
 #http://013tv.com:8080/F24657/f44540b5/64712
 
 
@@ -649,13 +649,13 @@ http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MzE1IExBVDogRlg=&t=p&f=.m3u8
 http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="STAR CHANNEL.pe" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
+#EXTINF:-1 tvg-id="tcc-STARChannel.uy" tvg-name="tcc-STARChannel.uy" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TNT HD.pe" tvg-name="TNT HD" tvg-logo="https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png" group-title="Cine y Series",TNT
+#EXTINF:-1 tvg-id="TNT HD.pe" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine y Series",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
 
