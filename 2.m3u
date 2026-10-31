@@ -430,6 +430,17 @@ http://liketv.xyz/live/alerua5897/24681012/869975.m3u8
 http://45.188.229.33:8000/play/a0xx/index.m3u8
 
 
+#EXTINF:-1 tvg-id="DAZN1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true" group-title="Deportes 🇪🇸",DAZN 1 🇪🇸 PPV
+#EXTVLCOPT:network-caching=1000
+http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
+#http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/201355
+#http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126454.ts
+
+#EXTINF:-1 tvg-id="DAZN2.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true" group-title="Deportes 🇪🇸",DAZN 2 🇪🇸 PPV
+#EXTVLCOPT:network-caching=1000
+http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/201356
+#http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
+#http://013tv.com:8080/F24657/f44540b5/64712
 
 
 
