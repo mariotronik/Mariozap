@@ -197,7 +197,7 @@ https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://158.172.155.130:8000/play/a0ao/index.m3u8
-http://205.235.6.29:8000/play/a0wl/index.m3u8
+#http://205.235.6.29:8000/play/a0wl/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes", TNT SPORTS 
