@@ -624,12 +624,12 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Golden Edge.ar" tvg-name="GOLDEN EDGE" tvg-logo="https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png" group-title="Cine y Series",GOLDEN EDGE
+#EXTINF:-1 tvg-id="Golden Edge.ar" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="Cine y Series",GOLDEN EDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENEDGE_stream_wi&_cdn_session=3547942820&_cdn_token=6b645c7b28721da09903a14760bf495bef5ef63b
 
 
-#EXTINF:-1 tvg-id="Golden Plus.ar" tvg-name="GOLDEN PLUS" tvg-logo="https://archive.org/details/logo.brootv_golden/GOLDEN_PLUS.png" group-title="Cine y Series",GOLDEN PLUS
+#EXTINF:-1 tvg-id="Golden Plus.ar" tvg-name="GOLDEN PLUS" tvg-logo="https://dn721907.ca.archive.org/0/items/logo.brootv_golden/GOLDEN_PLUS.png" group-title="Cine y Series",GOLDEN PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
