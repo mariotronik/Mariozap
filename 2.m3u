@@ -465,7 +465,8 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/DisneyChannelHD.stream/playlist.
 
 #EXTINF:-1 tvg-id="Canal.Disney.Junior.(Argentina).ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil", DISNEY JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/disney_jr.stream/playlist.m3u8
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/disney_jr.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="NICKELODEON.(Nickelodeon).pe" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Infantil", NICKELODEON 
