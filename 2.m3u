@@ -661,7 +661,7 @@ http://38.210.3.64:8090/play/a0it/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-id="tcc-SonyMovies.uy"" tvg-name="SONY CINE" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE
+#EXTINF:-1 tvg-id="tcc-SonyMovies.uy" tvg-name="SONY CINE" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
