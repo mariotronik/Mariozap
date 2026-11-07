@@ -519,6 +519,10 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/597.m3u8|user-agent=Mozilla/5.0 (
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/760.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 
+#EXTINF:-1 tvg-name="El reino infantil 24/7" tvg-logo="https://www.elreinoinfantil.com/wp-content/uploads/2025/04/Contenedor_Logo_ERI_Nube_White-1.png" group-title="🧸 24/7 - Dibujos Animados",El Reino Infantil 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/480287.m3u8
+
 #EXTINF:-1 tvg-id="ADULT SWIM HD.ar" tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="Cine y Series", ADULT SWIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8 
