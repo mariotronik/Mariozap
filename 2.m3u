@@ -612,7 +612,7 @@ https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
 https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
 
 
-#EXTINF:-1 tvg-id="tcc-HBOMUNDI.uy" tvg-name="tcc-HBOMUNDI.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png" group-title="Cine y Series",HBO MUNDI
+#EXTINF:-1 tvg-id="tcc-HBOMUNDI.uy" tvg-name="tcc-HBOMUNDI.uy" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/HBOMN.png" group-title="Cine y Series",HBO MUNDI
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
@@ -623,12 +623,12 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
 
 
 
-#EXTINF:0 tvg-id="tcc-HBOXtreme.uy" tvg-name="tcc-HBOXtreme.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png" group-title="Cine y Series",HBO XTREME
+#EXTINF:0 tvg-id="tcc-HBOXtreme.uy" tvg-name="tcc-HBOXtreme.uy" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" group-title="Cine y Series",HBO XTREME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="tcc-HBOFamily.uy" tvg-name="tcc-HBOFamily.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png" group-title="Cine y Series",HBO FAMILY
+#EXTINF:-1 tvg-id="tcc-HBOFamily.uy" tvg-name="tcc-HBOFamily.uy" tvg-logo="https://download.logo.wine/logo/HBO_Family_(Asian_TV_channel)/HBO_Family_(Asian_TV_channel)-Logo.wine.png" group-title="Cine y Series",HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://38.210.3.64:8090/play/a0h5/index.m3u8?hls
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
@@ -636,7 +636,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tcc-HBOSignature.uy" tvg-name="tcc-HBOSignature.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png" group-title="Cine y Series",HBO SIGNATURE
+#EXTINF:-1 tvg-id="tcc-HBOSignature.uy" tvg-name="tcc-HBOSignature.uy" tvg-logo="https://w7.pngwing.com/pngs/168/599/png-transparent-hbo-signature-hd-logo.png" group-title="Cine y Series",HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/playlist.m3u8
 
