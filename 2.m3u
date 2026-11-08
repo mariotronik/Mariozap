@@ -174,7 +174,7 @@ http://190.61.101.11:7050/play/a09b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN PREMIUM
+#EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="Deportes",ESPN PREMIUM
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
@@ -186,7 +186,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-atam71385/ESPN_Premium_HD/playlist.m3u
 
 
 
-#EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN PREMIUM OPC2
+#EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="Deportes",ESPN PREMIUM OPC2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
@@ -195,7 +195,7 @@ https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN PREMIUM OPC3
+#EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="Deportes",ESPN PREMIUM OPC3
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
@@ -204,7 +204,7 @@ http://158.172.155.130:8000/play/a0ao/index.m3u8
 #http://205.235.6.29:8000/play/a0wl/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes", TNT SPORTS 
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/TNTSP.png" group-title="Deportes", TNT SPORTS 
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv 
 http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
@@ -212,7 +212,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes", TNT SPORTS opc2
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/TNTSP.png" group-title="Deportes", TNT SPORTS opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
@@ -965,11 +965,11 @@ http://190.108.80.138:8000/play/a09e/index.m3u8
 
 
 
-#EXTINF:-1 CUID="202" tvg-name="History Channel" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" tvg-id="History.ar" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY CHANNEL 
+#EXTINF:-1 CUID="202" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/HSTRY.png" tvg-id="History.ar" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY CHANNEL 
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=3534492861&_cdn_token=f0d37eb2180f69ae5efec5c85d1ddfa92d41f0a6
 
 
-#EXTINF:-1 CUID="201" tvg-name="History 2" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" tvg-id="History2.ar" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY 2 
+#EXTINF:-1 CUID="201" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/HST2.png" tvg-id="History2.ar" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY 2 
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=3534493397&_cdn_token=4159e87b15f5616966fd93de7a8abd6e3e4c141b
 
 
