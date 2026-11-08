@@ -647,7 +647,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Golden Edge.ar" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="Cine y Series",GOLDEN EDGE
+#EXTINF:-1 tvg-id="Golden Edge.ar" tvg-name="GOLDEN EDGE" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/GEDGE.png" group-title="Cine y Series",GOLDEN EDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENEDGE_stream_wi&_cdn_session=3547942820&_cdn_token=6b645c7b28721da09903a14760bf495bef5ef63b
 
