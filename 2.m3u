@@ -699,7 +699,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
-#EXTINF:-1 tvg-id="tcc-Warner.uy" tvg-name="Warner" tvg-logo="https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg" group-title="Cine y Series",WARNER CHANNEL
+#EXTINF:-1 tvg-id="tcc-Warner.uy" tvg-name="Warner" tvg-logo="https://e7.pngegg.com/pngimages/623/932/png-clipart-warner-tv-television-channel-wb-channel-logo-tv-others-miscellaneous-television.png" group-title="Cine y Series",WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 
