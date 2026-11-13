@@ -455,8 +455,13 @@ http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
 #http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/201356
 #http://013tv.com:8080/F24657/f44540b5/64712
 
+#EXTINF:-1 tvg-id="WWE channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true" group-title="Deportes", WEE CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/421373.m3u8
 
-
+EXTINF:-1 tvg-id= "UFCHD CHANNEL" tvg-logo=?raw=true" group-title="Deportes", UFC CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/187368.ts
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -881,7 +886,11 @@ http://liketv.xyz:80/live/alerua5897/24681012/549657.m3u8
 
 
 #EXTINF:-1 tvg-id="El CHAVO DEL 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7 Horas", EL CHAVO 24/7 
-http://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
+http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/462927.m3u8
+#http://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Chespirito 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas", CHESPIRITO 24/7
+http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/462925.m3u8
 
 
 #EXTINF:-1 type="stream" channelId="-1" group-title="24/7 Horas" tvg-logo="https://i.imgur.com/nmZ2nId.png", BOB ESPONJA 24/7 
@@ -892,7 +901,8 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 DRAGÓN BALL Z - SAGA DE MAJIN BOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Dragon_Ball_Z_Logo_A.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas",DRAGÓN BALL Z 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8 
+http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/409826.m3u8
+#https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8 
 
 
 
