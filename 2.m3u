@@ -455,9 +455,9 @@ http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
 #http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/201356
 #http://013tv.com:8080/F24657/f44540b5/64712
 
-#EXTINF:-1 tvg-id="WWE channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true" group-title="Deportes", WEE CHANNEL
+#EXTINF:-1 tvg-id="WWE channel" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/3840px-WWE_Logo.svg.png?raw=true" group-title="Deportes", WEE CHANNEL
 #EXTVLCOPT:network-caching=1000
-http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/421373.m3u8
+http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/421372.m3u8
 
 EXTINF:-1 tvg-id= "UFCHD CHANNEL" tvg-logo=?raw=true" group-title="Deportes", UFC CHANNEL
 #EXTVLCOPT:network-caching=1000
@@ -886,7 +886,8 @@ http://liketv.xyz:80/live/alerua5897/24681012/549657.m3u8
 
 
 #EXTINF:-1 tvg-id="El CHAVO DEL 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7 Horas", EL CHAVO 24/7 
-http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/462927.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
+#http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/462927.m3u8
 #http://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Chespirito 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas", CHESPIRITO 24/7
@@ -910,7 +911,6 @@ http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/409826.m3u8
 http://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5318&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=7f379c24-0e41-4956-892e-8aad976555b8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="NOW90s00s.uk@Default" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/798cc3b5-1f31-4bee-97d2-39a6555d7b07.jpeg" group-title="MÚSICA", NOW 90s-00s
-
 http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8?ads_amagi_channel_id=1033&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6994&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=75c457fa-036d-4637-bc61-48af6d50542d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 
