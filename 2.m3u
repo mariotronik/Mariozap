@@ -459,6 +459,13 @@ http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/59092
 #EXTVLCOPT:network-caching=1000
 http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/421372.m3u8
 
+
+
+#EXTINF:-1 tvg-id="UFC channel" tvg-logo="https://images.seeklogo.com/logo-png/27/2/ufc-logo-png_seeklogo-272931.png?raw=true" group-title="Deportes", UFC CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/187368.m3u8
+
+
 EXTINF:-1 tvg-id= "UFCHD CHANNEL" tvg-logo=?raw=true" group-title="Deportes", UFC CHANNEL
 #EXTVLCOPT:network-caching=1000
 https://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/187368.ts
