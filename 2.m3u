@@ -28,7 +28,8 @@ EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 l
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
+
+#http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
@@ -91,6 +92,7 @@ EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 l
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 
 
@@ -110,7 +112,8 @@ EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 l
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://cdn-zapster-ros.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
+http://45.188.229.33:8000/play/a1cl/index.m3u8
+#http://cdn-zapster-ros.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
 
 
@@ -143,6 +146,7 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -153,6 +157,7 @@ EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 l
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/tvpublica.playlist.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
 
 
@@ -164,6 +169,7 @@ EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 l
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
 
@@ -172,7 +178,8 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://cdn-zapster-ros.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
+https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
+#http://cdn-zapster-ros.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 
 
 
@@ -202,6 +209,7 @@ EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 l
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0ke/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-atam71385/ESPN_Premium_HD/playlist.m3u8
 #http://45.188.229.33:8000/play/a1di/index.m3u8
 #http://181.209.80.115:8000/play/espn_premium_hd
@@ -231,6 +239,7 @@ http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv 
+ttp://38.210.3.64:8090/play/a0kl/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
 #http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
 
@@ -272,6 +281,7 @@ http://bantel-cdn3.iptvperu.tv:1935/btnscrtn/espn-mux/playlist.m3u8
 #EXTINF:-1 tvg-id="mov-ESPN.ar" tvg-name="mov-ESPN.ar" tvg- tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0np/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN1.stream/chunks.m3u8
 
 
@@ -285,6 +295,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN1.stream/chunks.m3u8
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0pb/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 
 
@@ -296,6 +307,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0jb/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
 
 
@@ -306,6 +318,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0jc/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 
 
@@ -387,9 +400,10 @@ https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-spain-212.pn
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://45.188.229.33:8000/play/a1dh/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster_hls1126/FoxSports1.stream/playlist.m3u8
 #http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/FoxSports1/playlist.m3u8
-#http://45.188.229.33:8000/play/a1dh/index.m3u8
+
 
 
 
@@ -401,8 +415,8 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster_hls1126/FoxSports1.stream/playlis
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://45.188.229.33:8000/play/a1b1/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster_hls1126/FoxSports2.stream/playlist.m3u8
-#http://45.188.229.33:8000/play/a1b1/index.m3u8
 #http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
 
 
@@ -414,9 +428,9 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster_hls1126/FoxSports2.stream/playlis
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://cdn-zapster-ros.trapemn.tv:1935/CD_LATAMfg127/FoxSports3/playlist.m3u8
-#http://138.59.227.20:8000/play/a06y/index.m3u8?hls
-#http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/FoxSports3/playlist.m3u8
+http://138.59.227.20:8000/play/a06y/index.m3u8?hls
+#http://cdn-zapster-ros.trapemn.tv:1935/CD_LATAMfg127/FoxSports3/playlist.m3u8
+
 
 
 
@@ -426,6 +440,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8#EXTVLC
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://45.186.254.75:8000/play/a0en/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
 
 
@@ -500,6 +515,7 @@ https://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/187368.ts
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38.210.3.64:8090/play/a0j5/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/DisneyChannelHD.stream/playlist.m3u8
 
 
@@ -511,12 +527,13 @@ http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?devi
 
 #EXTINF:-1 tvg-id="NICKELODEON.(Nickelodeon).pe" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Infantil", NICKELODEON 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://38.210.3.64:8090/play/a0d3/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/nickelodeon.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="NICK.JR.OTT.(Nick.Jr).pe" tvg-name="Nick" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Infantil", NICK jr
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-http
+http://38.210.3.64:8090/play/a0nx/index.m3u8
 http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/486952.m3u8
 #http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Nick_Junior.stream/playlist.m3u8
 
@@ -568,6 +585,7 @@ http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/490991.m3u8
 
 #EXTINF:-1 tvg-id="ADULT SWIM HD.ar" tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="Cine y Series", ADULT SWIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://38.210.3.64:8090/play/a0jx/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8 
 
 
@@ -586,6 +604,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fmh.la/img/logo_family.png" group-title="Cine y Series" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", FMH FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://38.210.3.64:8090/play/a0gj/index.m3u8
 http://45.186.254.75:8000/play/a07l/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -715,6 +734,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SPACE.pe" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://190.108.80.138:8000/play/a085/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/SpaceHD.stream/playlist.m3u8
 http://45.188.229.33:8000/play/a1ik/index.m3u8
 http://45.188.229.33:8000/play/a10d/index.m3u8
@@ -724,12 +744,14 @@ http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tcc-STARChannel.uy" tvg-name="tcc-STARChannel.uy" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://190.108.80.138:8000/play/a0le/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT HD.pe" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine y Series",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://190.108.80.138:8000/play/a0iy/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
 
 
@@ -744,6 +766,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 #EXTINF:-1 tvg-id="tcc-Warner.uy" tvg-name="Warner" tvg-logo="https://e7.pngegg.com/pngimages/623/932/png-clipart-warner-tv-television-channel-wb-channel-logo-tv-others-miscellaneous-television.png" group-title="Cine y Series",WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://190.108.80.138:8000/play/a082/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 
 
@@ -858,6 +881,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_c
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png" group-title="Cine y Series", COMEDY CENTRAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://190.61.43.118:45000/play/a0c3/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Comedi_Central.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Comedy_Central/playlist.m3u8
 
@@ -872,6 +896,7 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media
 
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",UNIVERSAL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://190.108.80.138:8000/play/a08x/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 
 
