@@ -23,19 +23,21 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3feecb729a34e7cb0123c25dd890362:a0ce3b8a17ccfb82f7eef4d65710d0f0
 #EXTINF:-1 tvg-id="mov-Argentina12.ar" tvg-name="mov-Argentina12.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG3mcjZehFi_EyIFDbh6RaIkuECroIrsHvwMQdQo6_tN7Y9uB3H4f8coJDitgeb43n5hXsngdWrwLCkQlsjAGt0q6TVylCYJ4S8hFsxgWzX7-mnYgHlLq2T6Ba7LRL_EZmhQNU2wGrr5ehrI0zdC1vybqiUI_ejYOk6YT2RsmLrpU3b5pg1L4itFQ8Ls/s1170/ar12.jpg" group-title="argentina", AR|12
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 #EXTINF:-1 tvg-id="CRONICA TV AR" tvg-name="CRONICA TV AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="argentina",CRÓNICA TV
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 
 
@@ -43,8 +45,11 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 #EXTINF:-1 tvg-id="C5N AR" tvg-name="C5N AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true"group-title="argentina",C5N
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
 
 
@@ -60,10 +65,11 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 
 
 #EXTINF:-1 tvg-id="mov-LANACION+.ar" tvg-name="mov-LANACION+.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="argentina",LN+
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
 
 
@@ -80,10 +86,11 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 #EXTINF:-1 tvg-id="mov-ELNUEVE.ar" tvg-name="mov-ELNUEVE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="argentina",EL NUEVE
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 
 
@@ -98,11 +105,11 @@ http://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="CANAL 5 ROSARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" group-title="Santa Fe",CANAL 5 ROSARIO
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
 
@@ -112,11 +119,13 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/play
 
 #EXTINF:-1 tvg-id="mov-Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="Argentina",TELEFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="mov-Telefe.ar" tvg-name="Telefe.ar" tvg-logo="http://terraplay.serveftp.com:80/images/6vVC8oR2k5TsloUBRMP8B6s6UXYRYZQFfoXftBNB-n6_qNO575k_H78wdAGFQyHkVlbcMmCGvvkYNwVmPUjxYg.png" group-title="Argentina",TELEFE opc2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
@@ -140,10 +149,10 @@ http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 #EXTINF:-1 tvg-id="mov-TVPUBLICA.ar" tvg-name="mov-TVPUBLICA.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="argentina",TV PUBLICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
 
 
@@ -151,12 +160,10 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 #EXTINF:-1 tvg-id="mov-ELTRECE.ar" tvg-name="EL TRECE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="argentina", EL TRECE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
-#EXTVLCOPT:network-caching=3000
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
 
@@ -191,10 +198,10 @@ http://go.iptvhn.net:25461/live/7151/71512023/1840.m3u8
 
 #EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="Deportes",ESPN PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/CD-atam71385/ESPN_Premium_HD/playlist.m3u8
 #http://45.188.229.33:8000/play/a1di/index.m3u8
 #http://181.209.80.115:8000/play/espn_premium_hd
