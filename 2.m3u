@@ -38,8 +38,9 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N AR" tvg-name="C5N AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true"group-title="argentina",C5N
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-https://buenatv.org/live/Aitor.Mun24/Aitor2024M/712705.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
+https://buenatv.org/live/Aitor.Mun24/Aitor2024M/712705.m3u8
+
 
 
 
@@ -54,8 +55,8 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 
 #EXTINF:-1 tvg-id="mov-LANACION+.ar" tvg-name="mov-LANACION+.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="argentina",LN+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://buenatv.org/live/Aitor.Mun24/Aitor2024M/712713.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
+http://buenatv.org/live/Aitor.Mun24/Aitor2024M/712713.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -78,7 +79,6 @@ http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="mov-AMERICATV.ar" tvg-name="mov-AMERICATV.ar" tvg-logo="http://terraplay.serveftp.com:80/images/6vVC8oR2k5TsloUBRMP8B2OHwK4Ia_8727CrQ_GTV6MWUNZ9VrUJQYVwKG6AuaZg.png" group-title="argentina",AMERICATV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/AmericaTV.stream/playlist.m3u8
-
 http://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
@@ -86,10 +86,8 @@ http://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="CANAL 5 ROSARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" group-title="Santa Fe",CANAL 5 ROSARIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://45.188.229.33:8000/play/a1cl/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
-
-
+http://45.188.229.33:8000/play/a1cl/index.m3u8
 
 
 
@@ -101,8 +99,10 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mov-Telefe.ar" tvg-name="Telefe.ar" tvg-logo="http://terraplay.serveftp.com:80/images/6vVC8oR2k5TsloUBRMP8B6s6UXYRYZQFfoXftBNB-n6_qNO575k_H78wdAGFQyHkVlbcMmCGvvkYNwVmPUjxYg.png" group-title="Argentina",TELEFE opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/chunks.m3u8
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/chunks.m3u8
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -134,13 +134,14 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-id="CANAL 3 ROSARIO.ar" tvg-name="EL TRES ROSARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/1280px-Eltres_RGB-grad_%28positivo%29.png" group-title="Santa Fe", EL TRES ROSARIO
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
-#http://cdn-zapster-ros.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
+http://cdn-zapster-ros.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 
 
 
@@ -155,13 +156,19 @@ http://190.61.101.11:7050/play/a09b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://spng.pngfind.com/pngs/s/81-813844_telemundo-logo-png-logo-telemundo-transparent-png.png" group-title="Deportes",TELEMUNDO
+#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Deportes",TELEMUNDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://go.iptvhn.net:25461/live/7151/71512023/1840.m3u8
+
+
+
+#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Deportes",TELEMUNDO OPC2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/telemundo.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="Deportes",ESPN PREMIUM
