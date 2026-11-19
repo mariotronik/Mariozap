@@ -38,6 +38,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N AR" tvg-name="C5N AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true"group-title="argentina",C5N
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+https://buenatv.org/live/Aitor.Mun24/Aitor2024M/712705.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
 
 
@@ -57,6 +58,7 @@ EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 l
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://buenatv.org/live/Aitor.Mun24/Aitor2024M/712713.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
 
 
@@ -78,7 +80,7 @@ EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 l
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
+http://buenatv.org/live/Aitor.Mun24/Aitor2024M/712709.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 
 
