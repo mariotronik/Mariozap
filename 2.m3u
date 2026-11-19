@@ -136,10 +136,7 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 #EXTINF:-1 tvg-id="mov-TVPUBLICA.ar" tvg-name="mov-TVPUBLICA.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="argentina",TV PUBLICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
 http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/tvpublica.playlist.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u8
 
@@ -148,10 +145,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/tvpublica.stream/playlist.m3u
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 #EXTINF:-1 tvg-id="mov-ELTRECE.ar" tvg-name="EL TRECE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="argentina", EL TRECE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
@@ -188,12 +182,8 @@ http://go.iptvhn.net:25461/live/7151/71512023/1840.m3u8
 
 #EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="Deportes",ESPN PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://38.210.3.64:8090/play/a0ke/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-atam71385/ESPN_Premium_HD/playlist.m3u8
+http://38.210.3.64:8090/play/a0ke/index.m3u8
 #http://45.188.229.33:8000/play/a1di/index.m3u8
 #http://181.209.80.115:8000/play/espn_premium_hd
 
@@ -219,9 +209,8 @@ http://158.172.155.130:8000/play/a0ao/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/TNTSP.png" group-title="Deportes", TNT SPORTS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-#HTTP-REFERER=https://zapster.trapemn.tv/
-#HTTP-ORIGIN=https://zapster.trapemn.tv 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0 
+http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
 ttp://38.210.3.64:8090/play/a0kl/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
 #http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
@@ -407,12 +396,10 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster_hls1126/FoxSports2.stream/playlis
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
 #EXTINF:-1 tvg-id="FOX SPORTS 3 AR" tvg-name="FOX SPORTS 3 AR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="Deportes",FOX SPORTS 3 
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
-#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD_LATAMfg127/FoxSports3/playlist.m3u8
 http://138.59.227.20:8000/play/a06y/index.m3u8?hls
-#http://cdn-zapster-ros.trapemn.tv:1935/CD_LATAMfg127/FoxSports3/playlist.m3u8
+
 
 
 
@@ -497,7 +484,8 @@ EXTINF:-1 tvg-id= "UFCHD CHANNEL" tvg-logo=?raw=true" group-title="Deportes", UF
 https://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/187368.ts
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/DisneyChannelHD.stream/playlist.m3u8
 http://38.210.3.64:8090/play/a0j5/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/DisneyChannelHD.stream/playlist.m3u8
 
@@ -509,13 +497,15 @@ http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?devi
 
 
 #EXTINF:-1 tvg-id="NICKELODEON.(Nickelodeon).pe" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Infantil", NICKELODEON 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick.stream/playlist.m3u8
 http://38.210.3.64:8090/play/a0d3/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/nickelodeon.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="NICK.JR.OTT.(Nick.Jr).pe" tvg-name="Nick" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Infantil", NICK jr
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick_jr.stream/playlist.m3u8
 http://38.210.3.64:8090/play/a0nx/index.m3u8
 http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/486952.m3u8
 #http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Nick_Junior.stream/playlist.m3u8
@@ -523,6 +513,7 @@ http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/486952.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK HD.ar" tvg-logo="https://w7.pngwing.com/pngs/642/477/png-transparent-cartoon-network-nickelodeon-television-disney-channel-cartoon-logo-television-text-rectangle-thumbnail.png" group-title="Infantil",CARTOON NETWORK 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Cartoon_Network/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/BTYC_Sports/playlist.m3u8
 
 
@@ -531,8 +522,8 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.
 
 
 #EXTINF:-1 tvg-id="Canal.Pakapaka.ar" tvg-logo="https://i.postimg.cc/Y9nMcbT7/Fondo_Oscuro.png" group-title="Infantil",PAKAPAKA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36  
-http//cdn-zapster-ros.trapemn.tv:1935/zapster-hls/PakaPaka.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0 
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/PakaPaka.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Plim Plim.ar" tvg-name="Plim Plim TV" tvg-logo="https://static.wikia.nocookie.net/plim-plim-tv/images/4/4b/Large.ElCanaldelPayasoPlimPlim%282023-%29.png.86c6cbf2fc741312e0c244f84eec14e6.png/revision/latest/scale-to-width-down/276?cb=20250906030459" group-title="INFANTILES", Plim Plim TV
@@ -545,7 +536,8 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3
 
 
 #EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD"  tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/DreamWorks-Animation-Logo.png" group-title="Cine y Series", DREAMWORKS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/dreamworks.stream/playlist.m3u8
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=3548007396&_cdn_token=cbb27b2855f35594ccf5c076feb0a554aca58770
 
 #EXTINF:-1 tvg-name="Looney Tunes 24/7" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/looney-tunes-logo-png-transparent.png" group-title="🧸 24/7 - Dibujos Animados",Looney Tunes 24/7
@@ -567,13 +559,15 @@ http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/490991.m3u8
 
 
 #EXTINF:-1 tvg-id="ADULT SWIM HD.ar" tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="Cine y Series", ADULT SWIM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8
 http://38.210.3.64:8090/play/a0jx/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8 
 
 
 #EXTINF:-1 tvg-id="fx_peru" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png"  group-title="Cine y Series",FX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=3534419949&_cdn_token=bac12bbb4231517533cc4ecabd6d669cce58fbd8
 http://45.188.229.33:8000/play/a10h/index.m3u8
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MzMxIExBVDogU3BhY2U=&t=p&f=.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx-key/playlist.m3u8
@@ -617,7 +611,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media
 
 
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CINE.AR" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="Cine y Series",CINEAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
 
 
@@ -705,7 +699,8 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knw
 
 
 #EXTINF:-1 tvg-id="Sony.pe" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" group-title="Cine y Series", SONY CHANNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 http://38.210.3.64:8090/play/a0it/index.m3u8?hls
 
 
@@ -716,9 +711,9 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="SPACE.pe" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://190.108.80.138:8000/play/a085/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/SpaceHD.stream/playlist.m3u8
+http://190.108.80.138:8000/play/a085/index.m3u8
 http://45.188.229.33:8000/play/a1ik/index.m3u8
 http://45.188.229.33:8000/play/a10d/index.m3u8
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MzE1IExBVDogRlg=&t=p&f=.m3u8
@@ -726,14 +721,16 @@ http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tcc-STARChannel.uy" tvg-name="tcc-STARChannel.uy" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 http://190.108.80.138:8000/play/a0le/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT HD.pe" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine y Series",TNT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
 http://190.108.80.138:8000/play/a0iy/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
 
@@ -748,7 +745,8 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 #EXTINF:-1 tvg-id="tcc-Warner.uy" tvg-name="Warner" tvg-logo="https://e7.pngegg.com/pngimages/623/932/png-clipart-warner-tv-television-channel-wb-channel-logo-tv-others-miscellaneous-television.png" group-title="Cine y Series",WARNER CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 http://190.108.80.138:8000/play/a082/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 
@@ -878,9 +876,11 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media
 
 
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",UNIVERSAL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 http://190.108.80.138:8000/play/a08x/index.m3u8
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="tcc-UniversalCinema.uy" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="Cine y Series",UNIVERSAL CINEMA 
