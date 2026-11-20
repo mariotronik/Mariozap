@@ -156,7 +156,7 @@ http://190.61.101.11:7050/play/a09b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Deportes",TELEMUNDO
+#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://w7.pngwing.com/pngs/570/2/png-transparent-telemundo-nbcuniversal-logo-television-kztv-others-television-show-television-channel-telenovela.png" group-title="Deportes",TELEMUNDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
