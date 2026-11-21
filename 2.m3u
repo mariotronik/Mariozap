@@ -537,10 +537,10 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/618.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-name="La Pantera Rosa 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wEDCrXxFTCGUHJVCZ6HbRyRDcN_o-nj3sTaHcCuY_z3Yky9VjgiSaOs&s=10" group-title="🧸 24/7 - Dibujos Animados",La Pantera Rosa 24/7
+#EXTINF:-1 tvg-name="La Pantera Rosa 24/7" tvg-logo="https://toppng.com/uploads/preview/antera-rosa-logo-11563597194aexmspiht6.png " group-title="🧸 24/7 - Dibujos Animados",La Pantera Rosa 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/597.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-
+https://toppng.com/uploads/preview/antera-rosa-logo-11563597194aexmspiht6.png
 
 #EXTINF:-1 tvg-name="Tom and Jerry 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5M5t9ICFxDzn_9AU686R6rvvE-VhTdPCyOs7OVqhW2GplgtG-tyVbBxyQ&s=10" group-title="🧸 24/7 - Dibujos Animados",Tom And Jerry 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
