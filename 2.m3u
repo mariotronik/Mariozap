@@ -346,7 +346,7 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://pelisjuanita.com/tv/logos/bein-n-sport.png" group-title="Deportes", Bein sport extra esperar
+#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/BeIN_Sports_Xtra_en_Espanol.webp/revision/latest?cb=20240923145223" group-title="Deportes", Bein sport extra esperar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -356,8 +356,7 @@ http://liketv.xyz/live/alerua5897/24681012/7198.m3u8
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MDI1IFVTQTogYmVJTiAvIGJlSU4gWHRyYSBFc3Bhbm9s&t=p&f=.m3u8
 
 https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-spain-212.png
-https://pelisjuanita.com/tv/logos/bein-n-sport.png
-https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-spain-212.png
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
