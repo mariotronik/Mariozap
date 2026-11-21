@@ -116,6 +116,7 @@ http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 #EXTINF:-1 tvg-id="mov-TVPUBLICA.ar" tvg-name="mov-TVPUBLICA.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Noticias",TV PUBLICA
@@ -523,6 +524,8 @@ http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/486957.m3u8
 
 #EXTINF:-1 CUID="244" tvg-id="TOONCAST.ar" tvg-name="Tooncast" tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOONCAST_stream_ot&_cdn_session=3534428069&_cdn_token=df2a716a2d33c126691bc75d0f7c7af2d3be5839
+https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD"  tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/DreamWorks-Animation-Logo.png" group-title="Cine y Series", DREAMWORKS 
@@ -537,6 +540,11 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/618.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-name="La Pantera Rosa 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wEDCrXxFTCGUHJVCZ6HbRyRDcN_o-nj3sTaHcCuY_z3Yky9VjgiSaOs&s=10" group-title="🧸 24/7 - Dibujos Animados",La Pantera Rosa 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/597.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+
+
+#EXTINF:-1 tvg-name="Tom and Jerry 24/7" tvg-logo="https://w1.pngwing.com/pngs/567/292/png-transparent-cat-and-dog-tom-cat-jerry-mouse-tom-and-jerry-drawing-tom-and-jerry-show-mouse-in-manhattan-bowling-alley-cat-thumbnail.png" group-title="🧸 24/7 - Dibujos Animados",Tom And Jerry 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/940.m3u8
 
 
 #EXTINF:-1 tvg-name="Peppa Pig 24/7" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/2/2b/Peppa_Pig_logo.png/revision/latest?cb=20230530020526g" group-title="🧸 24/7 - Dibujos Animados",Peppa Pig 24/7
