@@ -156,7 +156,7 @@ http://190.61.101.11:7050/play/a09b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://w7.pngwing.com/pngs/570/2/png-transparent-telemundo-nbcuniversal-logo-television-kztv-others-television-show-television-channel-telenovela.png" group-title="Deportes",TELEMUNDO
+#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="Deportes",TELEMUNDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
@@ -166,7 +166,7 @@ http://go.iptvhn.net:25461/live/7151/71512023/1840.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Deportes",TELEMUNDO OPC2
+#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="Deportes",TELEMUNDO OPC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/telemundo.stream/playlist.m3u8
 
@@ -466,14 +466,12 @@ http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/421372.m3u8
 
 
 
-#EXTINF:-1 tvg-id="UFC channel" tvg-logo="https://images.seeklogo.com/logo-png/27/2/ufc-logo-png_seeklogo-272931.png?raw=true" group-title="Deportes", UFC CHANNEL
+#EXTINF:-1 tvg-id="UFC channel" tvg-logo="https://i.ibb.co/jkxk9Bxr/ufc-PNG64.png" group-title="Deportes", UFC CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/187368.m3u8
 
 
-EXTINF:-1 tvg-id= "UFCHD CHANNEL" tvg-logo=?raw=true" group-title="Deportes", UFC CHANNEL
-#EXTVLCOPT:network-caching=1000
-https://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/187368.ts
+
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
