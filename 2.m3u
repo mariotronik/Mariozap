@@ -157,7 +157,7 @@ http://190.61.101.11:7050/play/a09b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="Mexico",TELEMUNDO
+#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="Mexico",TELEMUNDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
@@ -167,7 +167,7 @@ http://go.iptvhn.net:25461/live/7151/71512023/1840.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo= "https://logo.m3uassets.com/telemundo.png" group-title="Mexico",TELEMUNDO OPC2
+#EXTINF:-1 tvg-id="mov-TELEMUNDO.ar" tvg-name="mov-TELEMUNDO-ar" tvg-logo="https://logo.m3uassets.com/telemundo.png" group-title="Mexico",TELEMUNDO OPC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/telemundo.stream/playlist.m3u8
 
@@ -346,7 +346,7 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-spain-212.png" group-title="Deportes", Bein sport extra esperar
+#EXTINF:-1 tvg-name="Bein sport extra" tvg-id="Bein sport extra" tvg-logo="https://pelisjuanita.com/tv/logos/bein-n-sport.png" group-title="Deportes", Bein sport extra esperar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -356,7 +356,8 @@ http://liketv.xyz/live/alerua5897/24681012/7198.m3u8
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=MDI1IFVTQTogYmVJTiAvIGJlSU4gWHRyYSBFc3Bhbm9s&t=p&f=.m3u8
 
 https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-spain-212.png
-
+https://pelisjuanita.com/tv/logos/bein-n-sport.png
+https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-spain-212.png
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
