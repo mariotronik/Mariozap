@@ -1,6 +1,6 @@
-#EXTM3U  url-tvg="https://jarap.github.io/iptv-epg-argentina/epg.xml.gz, https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/epg.xml, https://raw.githubusercontent.com/awiouy/webgrabplus/refs/heads/master/config/siteini.pack/International/gatotv.com.channels.xml, https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT-MOVIES, https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT-DRAMA, https://www.open-epg.com/files/argentina1.xml,https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT%20LIFE.xml,https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT-CHANNEL.xml,https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT%20FAMILY.xml, https://www.open-epg.com/files/argentina2.xml, https://www.open-epg.com/files/argentina3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/argentina5.xml, https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://github.com/iptv-org/epg/blob/master/sites/gatotv.com/gatotv.com.channels.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/peru2.xml].gz, https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"
+#EXTM3U  url-tvg="https://jarap.github.io/iptv-epg-argentina/epg.xml.gz, https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/epg.xml, https://raw.githubusercontent.com/awiouy/webgrabplus/refs/heads/master/config/siteini.pack/International/gatotv.com.channels.xml, https://www.open-epg.com/files/argentina1.xml, https://www.open-epg.com/files/argentina2.xml, https://www.open-epg.com/files/argentina3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/argentina5.xml, https://www.open-epg.com/files/argentina6.xml, https://www.open-epg.com/files/argentina7.xml, https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://github.com/iptv-org/epg/blob/master/sites/gatotv.com/gatotv.com.channels.xml,https://www.open-epg.com/files/peru1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"
 
-
+https://www.open-epg.com/files/peru2.xml
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edb
@@ -467,7 +467,7 @@ http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/421372.m3u8
 
 
 
-#EXTINF:-1 tvg-id="UFC channel" tvg-logo="https://i.ibb.co/jkxk9Bxr/ufc-PNG64.png" group-title="Deportes", UFC CHANNEL
+#EXTINF:-1 tvg-id="ufc_network_latinoamerica" tvg-logo="https://i.ibb.co/jkxk9Bxr/ufc-PNG64.png" group-title="Deportes", UFC CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/187368.m3u8
 
@@ -681,7 +681,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENEDGE_stream_wi&_cdn_session=3547942820&_cdn_token=6b645c7b28721da09903a14760bf495bef5ef63b
 
 
-#EXTINF:-1 tvg-id="Golden Plus.ar" tvg-name="GOLDEN PLUS" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/GPLS.png" group-title="Cine y Series",GOLDEN PLUS
+#EXTINF:-1 tvg-id="rv-GOLDENPLUSHD.uy" tvg-name="GOLDEN PLUS" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/GPLS.png" group-title="Cine y Series",GOLDEN PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
