@@ -508,7 +508,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Cartoon_Network/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/BTYC_Sports/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal.Cartoonito.(Argentina).ar" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", CARTOONITO
+#EXTINF:-1 tvg-id="Canal.Cartoonito.(Argentina).ar" tvg-name="USA | Cartoonito" tvg-logo="https://raw.githubusercontent.com/mariotronik/LOGOS/refs/heads/main/new_cartoonito_logo_by_jlmaestro_dftmwp8-fullview-removebg-preview.png" group-title="Infantil", CARTOONITO
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOONITO_stream_pm&_cdn_session=3547998956&_cdn_token=e6551ac560af9e5ae5e169d18eadd5c91ff2f397
 
 
