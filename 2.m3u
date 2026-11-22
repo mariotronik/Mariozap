@@ -735,7 +735,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
-#EXTINF:-1 tvg-id="tcc-Warner.uy" tvg-name="Warner" tvg-logo="https://e7.pngegg.com/pngimages/623/932/png-clipart-warner-tv-television-channel-wb-channel-logo-tv-others-miscellaneous-television.png" group-title="Cine y Series",WARNER CHANNEL
+#EXTINF:-1 tvg-id="tcc-Warner.uy" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/mariotronik/LOGOS/refs/heads/main/Warner_Channel.svg-removebg-preview.png" group-title="Cine y Series",WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 http://190.108.80.138:8000/play/a082/index.m3u8
@@ -827,7 +827,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMC/40-hls/live-media.m3u8?_c
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
-#EXTINF:-1 tvg-id="tcc-AMCSeries.uy" tvg-name="AMC" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="Cine y Series",AMC SERIES 
+#EXTINF:-1 tvg-id="tcc-AMCSeries.uy" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/mariotronik/LOGOS/refs/heads/main/AMCSeries-removebg-preview.png" group-title="Cine y Series",AMC SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/486859.m3u8
 
