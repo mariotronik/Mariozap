@@ -508,7 +508,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Cartoon_Network/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/BTYC_Sports/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal.Cartoonito.(Argentina).ar" tvg-name="USA | Cartoonito" tvg-logo="https://raw.githubusercontent.com/mariotronik/LOGOS/refs/heads/main/new_cartoonito_logo_by_jlmaestro_dftmwp8-fullview-removebg-preview.png" group-title="Infantil", CARTOONITO
+#EXTINF:-1 tvg-id="Canal.Cartoonito.(Argentina).ar" tvg-name="USA | Cartoonito" tvg-logo="https://raw.githubusercontent.com/mariotronik/LOGOS/refs/heads/main/CARTOONITO.png" group-title="Infantil", CARTOONITO
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOONITO_stream_pm&_cdn_session=3547998956&_cdn_token=e6551ac560af9e5ae5e169d18eadd5c91ff2f397
 
 
@@ -542,7 +542,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/618.m3u8|user-agent=Mozilla/5.0 (
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/597.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://toppng.com/uploads/preview/antera-rosa-logo-11563597194aexmspiht6.png
 
-#EXTINF:-1 tvg-name="Tom and Jerry 24/7" tvg-logo="https://github.com/mariotronik/LOGOS/blob/main/png-clipart-tom-and-jerry-tom-and-jerry-rw.png" group-title="🧸 24/7 - Dibujos Animados",Tom And Jerry 24/7
+#EXTINF:-1 tvg-name="Tom and Jerry 24/7" tvg-logo="https://raw.githubusercontent.com/mariotronik/LOGOS/refs/heads/main/png-clipart-tom-and-jerry-tom-and-jerry-rw.png" group-title="🧸 24/7 - Dibujos Animados",Tom And Jerry 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/940.m3u8
 https://github.com/mariotronik/LOGOS/blob/main/png-clipart-tom-and-jerry-tom-and-jerry-rw.png
