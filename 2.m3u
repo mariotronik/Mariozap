@@ -447,7 +447,8 @@ http://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37d
 #EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
 #EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/265895.m3u8
+http://superxlatino.com:8880//live/whkhikadnz/s2gk2H4VDAp6/564187.m3u8
+#http://miotv.cc:8080/live/CarlosVelasquez/CarlosVelasquez/265895.m3u8
 
 
 #EXTINF:-1 tvg-id="DAZN1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true" group-title="Deportes 🇪🇸",DAZN 1 🇪🇸 PPV
