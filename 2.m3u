@@ -174,14 +174,16 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/telemundo.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://raw.githubusercontent.com/mariotronik/LOGOS/refs/heads/main/ESPN_PREMIUM%20FINAL.png" group-title="Deportes",ESPN PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://cdn-zapster-ros.trapemn.tv:1935/CD-atam71385/ESPN_Premium_HD/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 http://cdn-zapster-ros.trapemn.tv:1935/C-DatamL8845/ESPN_Premium_HD/playlist.m3u8
 http://38.210.3.64:8090/play/a0ke/index.m3u8
 #http://45.188.229.33:8000/play/a1di/index.m3u8
 #http://181.209.80.115:8000/play/espn_premium_hd
 https://i.ibb.co/LrNsJsP/espnpremium.png
 https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png
 https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png
+
+
+
 
 #EXTINF:-1 tvg-id="mov-ESPNPREMIUM.ar" tvg-name="mov-ESPNPREMIUM.ar" tvg-logo="https://raw.githubusercontent.com/mariotronik/LOGOS/refs/heads/main/ESPN_PREMIUM%20FINAL.png" group-title="Deportes",ESPN PREMIUM OPC2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
